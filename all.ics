@@ -1,0 +1,1579 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Talks at the University of Birmingham
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:am-20260929T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20260929T120000Z
+DTEND:20260929T130000Z
+SUMMARY:Imprecise Probabilistic Machine Learning: Being Precise about Impre
+ cision (Michele Caprio (University of Warwick))
+LOCATION:Arts\, Room 250
+DESCRIPTION:Michele Caprio (University of Warwick)\nApplied Mathematics Sem
+ inar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminar
+ s.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261006T1200@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261006T110000Z
+DTEND:20261006T120000Z
+SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh (University of Bi
+ rmingham))
+LOCATION:Poynting\, Lecture Theatre S06 (Small)
+DESCRIPTION:Jack Binysh (University of Birmingham)\nApplied Mathematics Sem
+ inar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminar
+ s.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261020T1200@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261020T110000Z
+DTEND:20261020T120000Z
+SUMMARY:Contact Transfer of Liquids Between Impermeable Rigid Surfaces (Geo
+ rge Fortune (University of Cambridge))
+LOCATION:Poynting\, Lecture Theatre S06 (Small)
+DESCRIPTION:George Fortune (University of Cambridge)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261027T1100@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261027T110000Z
+DTEND:20261027T120000Z
+SUMMARY:Modelling accumulation of antimicrobials in bacterial cells (Sandee
+ p Shirgill (University of Birmingham))
+LOCATION:Poynting\, Lecture Theatre S06 (Small)
+DESCRIPTION:Sandeep Shirgill (University of Birmingham)\nApplied Mathematic
+ s Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-se
+ minars.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261103T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261103T130000Z
+DTEND:20261103T140000Z
+SUMMARY:Title to be announced (Sabina Sloman (University of Birmingham))
+LOCATION:Arts\, Room 250
+DESCRIPTION:Sabina Sloman (University of Birmingham)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261109T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261109T130000Z
+DTEND:20261109T140000Z
+SUMMARY:Title to be announced (Eugene Feinberg (Stony Brook University))
+LOCATION:Location: TBA
+DESCRIPTION:Eugene Feinberg (Stony Brook University)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261110T1100@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261110T110000Z
+DTEND:20261110T120000Z
+SUMMARY:Chance and dance with cells’ power plants (Iain Johnston (Univers
+ ity of Bergen))
+LOCATION:Poynting\, Lecture Theatre S06 (Small)
+DESCRIPTION:Iain Johnston (University of Bergen)\nApplied Mathematics Semin
+ ar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminars.
+ html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261117T1200@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261117T120000Z
+DTEND:20261117T130000Z
+SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio (Univers
+ ity of Glasgow))
+LOCATION:Arts\, Lecture Room 6
+DESCRIPTION:Hannah-May D'Ambrosio (University of Glasgow)\nApplied Mathemat
+ ics Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-
+ seminars.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:am-20261208T1200@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261208T120000Z
+DTEND:20261208T130000Z
+SUMMARY:Title to be announced (Cara V. Neal (University College London))
+LOCATION:Arts\, Lecture Room 201
+DESCRIPTION:Cara V. Neal (University College London)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
+CATEGORIES:Applied Mathematics Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261001T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261001T121500Z
+DTEND:20261001T133000Z
+SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh (Birmingham Mecha
+ nical Engineering))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Jack Binysh (Birmingham Mechanical Engineering)\nTheoretical Ph
+ ysics Seminars\n\nDetails: https://more.bham.ac.uk/theoretical-physics/tal
+ ks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261008T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261008T121500Z
+DTEND:20261008T133000Z
+SUMMARY:Spin-orbit physics in two-dimensional semiconductors (Igor Rozhansk
+ iy (Manchester))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Igor Rozhanskiy (Manchester)\nTheoretical Physics Seminars\n\nD
+ etails: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261015T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261015T121500Z
+DTEND:20261015T133000Z
+SUMMARY:Time-evolution of closed\, thermalising quantum systems (Andrew Gre
+ en (University College London))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Andrew Green (University College London)\nTheoretical Physics S
+ eminars\n\nDetails: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261029T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261029T131500Z
+DTEND:20261029T143000Z
+SUMMARY:Many-body chaos\, hydrodynamics and horizon symmetries (Mike Blake 
+ (Bristol))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Mike Blake (Bristol)\nTheoretical Physics Seminars\n\nDetails: 
+ https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261111T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T131500Z
+DTEND:20261111T143000Z
+SUMMARY:Exact spectral integrability of a finite-channel random Schrödinge
+ r operator and edge profile of random banded matrices (Yan Fyodorov (King
+ ’s College London))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Yan Fyodorov (King’s College London)\nTheoretical Physics Sem
+ inars\n\nDetails: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261112T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261112T131500Z
+DTEND:20261112T143000Z
+SUMMARY:Magnetic monopoles (Paul Sutcliffe (Durham))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Paul Sutcliffe (Durham)\nTheoretical Physics Seminars\n\nDetail
+ s: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261119T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261119T131500Z
+DTEND:20261119T143000Z
+SUMMARY:Operator growth dynamics and the hardness of approximate counterdia
+ batic driving (Oliver Lunt (Oxford))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Oliver Lunt (Oxford)\nTheoretical Physics Seminars\n\nDetails: 
+ https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tp-20261126T1315@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261126T131500Z
+DTEND:20261126T143000Z
+SUMMARY:Quantum memory advantages for stochastic modelling: A tensor networ
+ k perspective (Thomas Elliott (Manchester))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Thomas Elliott (Manchester)\nTheoretical Physics Seminars\n\nDe
+ tails: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261002T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261002T120000Z
+DTEND:20261002T130000Z
+SUMMARY:On the Coalgebraic Linear-Time Semantics of Two-Player Games (Ben P
+ lummer (University of Birmingham))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Ben Plummer (University of Birmingham)\nTheoretical Computer Sc
+ ience Seminar\n\nLinear-time semantics play an important role in program s
+ emantics and verification\, in settings where branching-time equivalence i
+ s too fine. Set-based coalgebra provides an account of branching-time beha
+ viour\, while finite linear-time semantics can be treated coalgebraically 
+ by moving to the Kleisli category of a monad modelling the system’s bran
+ ching. In this talk\, I will discuss how these ideas extend to the linear-
+ time semantics of two-player games. For finite behaviour\, the coalgebraic
+  approach applies smoothly to games in which the opponent’s choices are 
+ nondeterministic\, probabilistic\, or weighted. We characterise the result
+ ing semantics in terms of strategies that enforce…\n\nDetails: https://r
+ esearchseminars.org/talk/TheoryCSBham/84/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/84/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261023T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261023T120000Z
+DTEND:20261023T130000Z
+SUMMARY:Semantics and intermediate representations of probabilistic program
+ s (Hugo Paquet (INRIA Paris))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Hugo Paquet (INRIA Paris)\nTheoretical Computer Science Seminar
+ \n\nIn a probabilistic programming language (with only finite types and wi
+ thout recursion or loops) every program determines a probability distribut
+ ion over a set of outputs. Computing this distribution can be expensive: t
+ he naive approach is to enumerate all possible executions. So practical in
+ terpreters rely on more efficient representations of probability distribut
+ ions\, typically inspired by symbolic execution. In this talk I will give 
+ a semantic perspective on these intermediate representations\, to explain 
+ why they are correct. The key idea is to decompose probabilistic sampling 
+ into two separate effects (first generating a random variable\, and then r
+ eading its value) that follow different…\n\nDetails: https://researchsem
+ inars.org/talk/TheoryCSBham/85/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/85/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261030T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261030T130000Z
+DTEND:20261030T140000Z
+SUMMARY:Handlers of Parametrised Algebraic Theories (Jack Liell-Cock (Unive
+ rsity of Oxford))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Jack Liell-Cock (University of Oxford)\nTheoretical Computer Sc
+ ience Seminar\n\nThe algebraic effects and handlers paradigm separates the
+  concerns of the interface and implementation of computational effects in 
+ programming languages. We present Cambria\, a language that extends this f
+ ramework to the parametrised setting. Effect signatures may use abstract p
+ arameter types that are instantiated by the handler along with the operati
+ on implementations. Parameters abstract over resources\, such as memory lo
+ cations or thread IDs\, permitting algebraic effects to encode dynamic all
+ ocation. They are first-class in the type system but erased at runtime\, r
+ equiring no coercions or type-directed reduction. We prove parametricity v
+ ia a step-indexed logical relation\, formalizing the…\n\nDetails: https:
+ //researchseminars.org/talk/TheoryCSBham/86/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/86/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261106T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261106T130000Z
+DTEND:20261106T140000Z
+SUMMARY:My thoughts on AI and security (Mark Ryan (University of Birmingham
+ ))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Mark Ryan (University of Birmingham)\nTheoretical Computer Scie
+ nce Seminar\n\nThe first part of my talk will be about "prompt injection"\
+ , in which an adversary inserts text in content (such as a paper\, a githu
+ b README\, a CV or an email message) that will be processed by an LLM\, in
+  an effort to instruct the LLM to process the content the way the adversar
+ y wants. Large language models read instructions and data as one stream of
+  tokens\, so anyone who can get text into that stream can potentially have
+  it obeyed as a command. I'll review real attacks\, and then compare three
+  kinds of defence\, focussing on the type that seems to have the greatest 
+ capability to work. In a possible second part\, I'll describe a bit about 
+ how I use AI in practice\, what has worked and what has…\n\nDetails: htt
+ ps://researchseminars.org/talk/TheoryCSBham/87/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/87/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261113T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261113T130000Z
+DTEND:20261113T140000Z
+SUMMARY:Code in the Age of Agents: Bottlenecks\, Languages\, and the New So
+ ftware Reality (Dan Ghica (University of Birmingham))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Dan Ghica (University of Birmingham)\nTheoretical Computer Scie
+ nce Seminar\n\nEverything has changed\, and the software engineering lands
+ cape will never look the same. Autonomous coding agents can already produc
+ e vast implementations\, dismantling the long-held assumption that writing
+  code is the primary constraint of software development. As the marginal c
+ ost of code generation becomes negligible\, where does the real bottleneck
+  relocate? Is the new point of friction in comprehension\, review\, and ve
+ rification\, or does the critical challenge move even higher up the stack\
+ , in specification and validation? Furthermore\, agent-generated code diff
+ ers fundamentally from human-written systems in style\, cognitive idioms\,
+  and architectural failure modes (e.g. slop: plausible…\n\nDetails: http
+ s://researchseminars.org/talk/TheoryCSBham/88/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/88/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261120T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261120T130000Z
+DTEND:20261120T140000Z
+SUMMARY:Space-Efficient Hierholzer (Ziad Ismaili  Alaoui (University of Liv
+ erpool))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Ziad Ismaili  Alaoui (University of Liverpool)\nTheoretical Com
+ puter Science Seminar\n\nHere is a popular challenge: Can you copy a given
+  drawing without lifting your pen or tracing any line more than once? A fa
+ miliar example is the "Haus vom Nikolaus" (house of Santa Claus): a square
+  with both diagonals and a triangular roof. In graph-theoretic terms\, thi
+ s is the same as asking for an Eulerian trail\; that is\, a walk that trav
+ erses every edge exactly once. (In this talk\, we focus on Eulerian cycles
+ \, where the endpoints of the trail are equal.) The question of finding Eu
+ lerian cycles or characterising which graphs have one goes back to Euler's
+  work on the bridges of Königsberg\, which many cite as the birth of grap
+ h theory. Hierholzer's algorithm is a classical method for…\n\nDetails: 
+ https://researchseminars.org/talk/TheoryCSBham/89/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/89/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261127T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261127T130000Z
+DTEND:20261127T140000Z
+SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij 
+ (University of Edinburgh))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Orpheas van Rooij (University of Edinburgh)\nTheoretical Comput
+ er Science Seminar\n\nFull ground local state (FGLS) refers to dynamically
+  allocated mutable state that allows storing ground values and references.
+  It is a key ingredient in many imperative algorithms as it enables cyclic
+  data structures. In this work\, we focus on one particular denotational m
+ odel for FGLS: Kammar et al.'s possible worlds monad on sets indexed over 
+ sets of locations. We resolve an outstanding question about this FGLS mona
+ d: is it finitary? We show that it is not\, by showing the existence of no
+ n-finitary computations in this monad that are challenging to define in a 
+ terminating language with full ground references. This prompts us to intro
+ duce a finitary submonad of Kammar et al.'s monad\, which…\n\nDetails: h
+ ttps://researchseminars.org/talk/TheoryCSBham/90/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/90/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261204T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:Algebraically free Markov chains (Paolo Perrone (University of Oxfo
+ rd))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Paolo Perrone (University of Oxford)\nTheoretical Computer Scie
+ nce Seminar\n\nAlgebraically free monoids\, and more generally monads\, ar
+ e commonly used to model operations that can be 'folded'\, such as repeate
+ d actions of a set of 'elementary moves'. Notable examples are the writer 
+ monad (free over the alphabet set)\, and the free monad over a graph. In c
+ ategory theory\, an algebraically free monoid over an object X is a monoid
+  FX together with a bijection between X-algebras and FX-algebras\, with th
+ e intuition that FX-algebras are "just X-algebras where the action is iter
+ ated". In the theory of dynamical systems and Markov chains\, algebras can
+  be decategorified to invariant states or invariant measures. Similarly\, 
+ we can decategorify a monoid object to an idempotent…\n\nDetails: https:
+ //researchseminars.org/talk/TheoryCSBham/91/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/91/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261211T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261211T130000Z
+DTEND:20261211T140000Z
+SUMMARY:Title to be announced (Yijun Yu (Open U and Huawei))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Yijun Yu (Open U and Huawei)\nTheoretical Computer Science Semi
+ nar\n\n: TBA\n\nDetails: https://researchseminars.org/talk/TheoryCSBham/92
+ /
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/92/
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261006T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261006T120000Z
+DTEND:20261006T130000Z
+SUMMARY:Modelling Spatio-Temporal Variation in Neglected Tropical Disease P
+ revalence Under Mass Drug Administration: A Geostatistical Approach (Claud
+ io Fronterre (University of Birmingham))
+LOCATION:Arts\, Room 250
+DESCRIPTION:Claudio Fronterre (University of Birmingham)\nStatistics and Da
+ ta Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/s
+ ds-seminars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261027T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261027T130000Z
+DTEND:20261027T140000Z
+SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan 
+ (University of Oxford))
+LOCATION:Arts\, Lecture Room 6
+DESCRIPTION:Gavin Kerrigan (University of Oxford)\nStatistics and Data Scie
+ nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
+ nars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261109T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261109T130000Z
+DTEND:20261109T140000Z
+SUMMARY:Dynamically Augmented CVaR for Markov Decision Processes (Eugene Fe
+ inberg (Stony Brook University))
+LOCATION:Watson Building\, Lecture Theatre B
+DESCRIPTION:Eugene Feinberg (Stony Brook University)\nStatistics and Data S
+ cience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-s
+ eminars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261117T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261117T130000Z
+DTEND:20261117T140000Z
+SUMMARY:Robust and Conservative Neural Simulation-based inference (Harita D
+ ellaporta (University College London))
+LOCATION:Arts\, Room 250
+DESCRIPTION:Harita Dellaporta (University College London)\nStatistics and D
+ ata Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/
+ sds-seminars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261124T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261124T130000Z
+DTEND:20261124T140000Z
+SUMMARY:Learning noisy cellular molecular dynamics with uncertainty-aware m
+ achine learning (Mingtao Xia (University of Birmingham))
+LOCATION:Arts\, Lecture Room 6
+DESCRIPTION:Mingtao Xia (University of Birmingham)\nStatistics and Data Sci
+ ence Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-sem
+ inars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261201T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T130000Z
+DTEND:20261201T134500Z
+SUMMARY:Functional Data Analysis Beyond Curves: Methods and Applications to
+  Brain Imaging (Haiyan Liu (University of Leeds))
+LOCATION:Aston Webb\, G33 Lecture Theatre
+DESCRIPTION:Haiyan Liu (University of Leeds)\nStatistics and Data Science S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.
+ html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261201T1345@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T134500Z
+DTEND:20261201T143000Z
+SUMMARY:Computation-aware Gaussian Process Inference: Calibration and Imple
+ mentation (Disha Hegde (Lancaster University))
+LOCATION:Aston Webb\, G33 Lecture Theatre
+DESCRIPTION:Disha Hegde (Lancaster University)\nStatistics and Data Science
+  Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminar
+ s.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261201T1500@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T150000Z
+DTEND:20261201T154500Z
+SUMMARY:Sharp Contraction Bounds for Kinetic MCMC Samplers in the Log-Conca
+ ve Setting (Sam Power (University of Bristol))
+LOCATION:Aston Webb\, G33 Lecture Theatre
+DESCRIPTION:Sam Power (University of Bristol)\nStatistics and Data Science 
+ Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars
+ .html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261201T1545@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T154500Z
+DTEND:20261201T163000Z
+SUMMARY:Data-informed Modelling for Sheep Scab Control (Emily Nixon (Univer
+ sity of Liverpool))
+LOCATION:Aston Webb\, G33 Lecture Theatre
+DESCRIPTION:Emily Nixon (University of Liverpool)\nStatistics and Data Scie
+ nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
+ nars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261208T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261208T130000Z
+DTEND:20261208T140000Z
+SUMMARY:Title to be announced (Jens Christian Claussen (University of Birmi
+ ngham))
+LOCATION:Arts\, Lecture Room 6
+DESCRIPTION:Jens Christian Claussen (University of Birmingham)\nStatistics 
+ and Data Science Seminar\n\nDetails: https://seminars.mathpages.org/birmin
+ gham/sds-seminars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:sds-20261215T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261215T130000Z
+DTEND:20261215T140000Z
+SUMMARY:Title to be announced (Shenggang Hu (University of Birmingham))
+LOCATION:Watson Building\, Lecture Theatre B
+DESCRIPTION:Shenggang Hu (University of Birmingham)\nStatistics and Data Sc
+ ience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-se
+ minars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20261006T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261006T183000Z
+DTEND:20261006T193000Z
+SUMMARY:Mysteries of matter: new experiments to unpick the nature of dark m
+ atter (Dr Daniel Johnson)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Daniel Johnson\nInstitute of Physics Public Lecture Series\n
+ \nContrary to its name\, there is nothing hidden about dark matter. It's t
+ here in plain sight\, dramatically changing the way galaxies move and impr
+ inted all over the incredible pictures astronomers take of the cosmos. But
+ \, whilst we know for sure that it is there\, we have no idea what it's ma
+ de of and that makes particle physicists deeply uncomfortable. This evenin
+ g we will explore new methods to tease out truths about the particle ident
+ ity of dark matter\, and how new experiments might soon shed light on this
+  mysterious matter that\, overwhelmingly\, dominates the 'stuff' in the Un
+ iverse.\n\nDetails: https://www.birmingham.ac.uk/about/college-of-engineer
+ ing-and-physical-sciences/physics-and-astronomy/outreach-and-schools-liais
+ on/outreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20261103T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261103T193000Z
+DTEND:20261103T203000Z
+SUMMARY:The Invisible Scanners (Jim Grozier)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Jim Grozier\nInstitute of Physics Public Lecture Series\n\nThis
+  talk covers a period in the recent history of particle physics (approxima
+ tely the 1960s and 1970s) when the output of particle colliders was in the
+  form of thousands of photographs of bubble chamber events\, and large num
+ bers of relatively unskilled women were brought in to examine and analyse 
+ these photographs in search of patterns which might reveal evidence of new
+  particles or unusual decays. These women were largely “invisible” in 
+ that they were not named in research papers and received little reward\, d
+ espite the fact that they were at the forefront of discovery. In this\, th
+ eir story bears some comparison with those of the “Harvard Computers” 
+ – women who analysed astronomical…\n\nDetails: https://www.birmingham.
+ ac.uk/about/college-of-engineering-and-physical-sciences/physics-and-astro
+ nomy/outreach-and-schools-liaison/outreach-for-secondary-schools/iop-publi
+ c-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20261201T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T193000Z
+DTEND:20261201T203000Z
+SUMMARY:Is it a star? Is it a planet? No\, it's a brown dwarf! (Dr Jenni Fr
+ ench)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Jenni French\nInstitute of Physics Public Lecture Series\n\n
+ Brown dwarfs are the Universe’s awkward middle child\, not quite a star\
+ , not quite a planet\, but they are fascinating in their own right. Acting
+  as the intermediary objects between planets and stars\, brown dwarfs have
+  complex atmospheres and act as natural laboratories for a plethora of exo
+ planet science. This talk explores brown dwarfs\, what they are\, how we f
+ ind them\, and why they’re so interesting\, as well as how you can get i
+ nvolved in their discovery.\n\nDetails: https://www.birmingham.ac.uk/about
+ /college-of-engineering-and-physical-sciences/physics-and-astronomy/outrea
+ ch-and-schools-liaison/outreach-for-secondary-schools/iop-public-lecture-s
+ eries
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20270202T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20270202T193000Z
+DTEND:20270202T203000Z
+SUMMARY:Creating the hottest place in the universe: Extreme matter and the 
+ quark-gluon plasma (Dr Martin Volkl)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Martin Volkl\nInstitute of Physics Public Lecture Series\n\n
+ Details: https://www.birmingham.ac.uk/about/college-of-engineering-and-phy
+ sical-sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach
+ -for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:caha-20261007T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261007T120000Z
+DTEND:20261007T133000Z
+SUMMARY:Compassion or Complicity? Emotional scripts in Diodorus Siculus (Li
+ sa Hau (University of Glasgow))
+LOCATION:Muirhead Tower
+DESCRIPTION:Lisa Hau (University of Glasgow)\nClassics\, Ancient History an
+ d Archaeology Research Seminar\n\nWith speaker Lisa Hau\, from the Univers
+ ity of Glasgow\n\nDetails: https://www.birmingham.ac.uk/events/compassion-
+ or-complicity-emotional-scripts-in-diodorus-siculus
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/compassion-or-complicity-emotional-
+ scripts-in-diodorus-siculus
+END:VEVENT
+BEGIN:VEVENT
+UID:caha-20261021T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T120000Z
+DTEND:20261021T133000Z
+SUMMARY:Religion and the citizenship in mid-Republican Rome (Denis Feeney (
+ Princeton (USA)))
+LOCATION:Nuffield
+DESCRIPTION:Denis Feeney (Princeton (USA))\nClassics\, Ancient History and 
+ Archaeology Research Seminar\n\nWith speaker Denis Feeney\, from Princeton
+  (USA).\n\nDetails: https://www.birmingham.ac.uk/events/religion-and-the-c
+ itizenship-in-mid-republican-rome
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/religion-and-the-citizenship-in-mid
+ -republican-rome
+END:VEVENT
+BEGIN:VEVENT
+UID:caha-20261111T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T130000Z
+DTEND:20261111T143000Z
+SUMMARY:Portraits of Hybridity? Exploring elite identity in Roman Egypt thr
+ ough the Fayum mummy portraits (Louise O’Brien (Birmingham))
+LOCATION:Muirhead Tower
+DESCRIPTION:Louise O’Brien (Birmingham)\nClassics\, Ancient History and A
+ rchaeology Research Seminar\n\nClassics\, Ancient History and Archaeology 
+ research seminar series 2026 With speaker Louise O’Brien \, Birmingham T
+ o join online please contact the organiser\n\nDetails: https://www.birming
+ ham.ac.uk/events/portraits-of-hybridity-exploring-elite-identity-in-roman-
+ egypt-through-the-fayum-mummy-portraits
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/portraits-of-hybridity-exploring-el
+ ite-identity-in-roman-egypt-through-the-fayum-mummy-portraits
+END:VEVENT
+BEGIN:VEVENT
+UID:caha-20261111T1300-2@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T130000Z
+DTEND:20261111T143000Z
+SUMMARY:Cancelled: Decreation and Iphigenia at Aulis: A Decolonial Inquiry 
+ (Mathura Umachandran (University of Exeter))
+LOCATION:Muirhead Tower
+DESCRIPTION:Mathura Umachandran (University of Exeter)\nClassics\, Ancient 
+ History and Archaeology Research Seminar\n\nWith speaker Mathura Umachandr
+ an\, from the University of Exeter\n\nDetails: https://www.birmingham.ac.u
+ k/events/decreation-and-iphigenia-at-aulis-a-decolonial-inquiry
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CANCELLED
+URL:https://www.birmingham.ac.uk/events/decreation-and-iphigenia-at-aulis-a
+ -decolonial-inquiry
+END:VEVENT
+BEGIN:VEVENT
+UID:caha-20261118T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T130000Z
+DTEND:20261118T143000Z
+SUMMARY:The ARTEMIS archaeological survey: results from year one (Maeve McH
+ ugh (University of Birmingham))
+LOCATION:Muirhead Tower
+DESCRIPTION:Maeve McHugh (University of Birmingham)\nClassics\, Ancient His
+ tory and Archaeology Research Seminar\n\nWith speaker Maeve McHugh\, from 
+ the University of Birmingham\n\nDetails: https://www.birmingham.ac.uk/even
+ ts/out-of-time-archaeology-temporality-and-truth-on-the-west-coast-of-scot
+ land
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/out-of-time-archaeology-temporality
+ -and-truth-on-the-west-coast-of-scotland
+END:VEVENT
+BEGIN:VEVENT
+UID:caha-20261202T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T130000Z
+DTEND:20261202T143000Z
+SUMMARY:Children of Athena: The armed forces of democratic Athens (David Pr
+ itchard (Universities of Queensland (Australia) / Edinburgh (Leverhulm))
+LOCATION:Muirhead Tower
+DESCRIPTION:David Pritchard (Universities of Queensland (Australia) / Edinb
+ urgh (Leverhulm)\nClassics\, Ancient History and Archaeology Research Semi
+ nar\n\nWith speaker David Pritchard\, from the Universities of Queensland 
+ (Australia) / Edinburgh (Leverhulme Visiting Professor)\n\nDetails: https:
+ //www.birmingham.ac.uk/events/children-of-athena-the-armed-forces-of-democ
+ ratic-athens
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/children-of-athena-the-armed-forces
+ -of-democratic-athens
+END:VEVENT
+BEGIN:VEVENT
+UID:histbook-20261007T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261007T120000Z
+DTEND:20261007T133000Z
+SUMMARY:Afloat: Small Boats\, Swell and Seaspray (2026) (David Gange)
+LOCATION:Arts Building
+DESCRIPTION:David Gange\nDepartment of History book talks\n\nJoin David Gan
+ ge on a seabound journey along Atlantic coasts and islands exploring place
+ s and ways of life that have been built on small rowed or paddled boats.\n
+ \nDetails: https://www.birmingham.ac.uk/events/book-talk-david-gange-afloa
+ t-small-boats-swell-and-seaspray-2026
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/book-talk-david-gange-afloat-small-
+ boats-swell-and-seaspray-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:histbook-20261021T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T120000Z
+DTEND:20261021T130000Z
+SUMMARY:A History of Terrorism in Canada (2026) (Steve Hewitt)
+LOCATION:
+DESCRIPTION:Steve Hewitt\nDepartment of History book talks\n\nCanada is oft
+ en viewed as a peaceful nation\, yet this book reveals a long and continuo
+ us record of politically and ideologically motivated violence.\n\nDetails:
+  https://www.birmingham.ac.uk/events/book-talk-by-steve-hewitt-a-history-o
+ f-terrorism-in-canada-2026
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/book-talk-by-steve-hewitt-a-history
+ -of-terrorism-in-canada-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:histbook-20261111T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T130000Z
+DTEND:20261111T143000Z
+SUMMARY:Treaty Ground: Diplomacy and the Politics of Sovereignty\, from Roa
+ noke to the Republic (2026) (Charles Prior)
+LOCATION:Arts Building
+DESCRIPTION:Charles Prior\nDepartment of History book talks\n\nCharles W. A
+ . Prior will discuss sovereign claims of Native Americans\, the Crown\, an
+ d colonies in early America\n\nDetails: https://www.birmingham.ac.uk/event
+ s/book-talk-by-charles-prior-treaty-ground-diplomacy-and-the-politics-of-s
+ overeignty-from-roanoke-to-the-republic-2026
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/book-talk-by-charles-prior-treaty-g
+ round-diplomacy-and-the-politics-of-sovereignty-from-roanoke-to-the-republ
+ ic-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:histbook-20261125T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261125T130000Z
+DTEND:20261125T143000Z
+SUMMARY:Unfinished Book: Raphael Samuel and the Making of the English Unifo
+ rmed Working Class'. (Carolyn Steedman)
+LOCATION:Arts Building
+DESCRIPTION:Carolyn Steedman\nDepartment of History book talks\n\nCarolyn S
+ teedman will talk regarding her new research project 'Unfinished Book: Rap
+ hael Samuel and the Making of the English Uniformed Working Class'.\n\nDet
+ ails: https://www.birmingham.ac.uk/events/research-talk-by-carolyn-steedma
+ n-unfinished-book-raphael-samuel-and-the-making-of-the-english-uniformed-w
+ orking-class
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/research-talk-by-carolyn-steedman-u
+ nfinished-book-raphael-samuel-and-the-making-of-the-english-uniformed-work
+ ing-class
+END:VEVENT
+BEGIN:VEVENT
+UID:keithpalmer-20261008T1900@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261008T180000Z
+DTEND:20261008T193000Z
+SUMMARY:Infinite Life (Jules Howard)
+LOCATION:Shireland Collegiate Academy
+DESCRIPTION:Jules Howard\nKeith Palmer Lecture\n\nProfessor Alice Roberts h
+ osts zoologist Jules Howard as he reveals the extraordinary evolutionary s
+ tory of eggs in a lecture for ages eight and above.\n\nDetails: https://ww
+ w.birmingham.ac.uk/events/keith-palmer-lecture-2026-jules-howard
+CATEGORIES:Keith Palmer Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/keith-palmer-lecture-2026-jules-how
+ ard
+END:VEVENT
+BEGIN:VEVENT
+UID:bbty-20261013T1630@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261013T153000Z
+DTEND:20261013T164500Z
+SUMMARY:Bringing Birmingham to You: Dr Huw Macartney (Dr Huw Macartney)
+LOCATION:Online
+DESCRIPTION:Dr Huw Macartney\nBringing Birmingham to You\n\nJoin Dr Huw Mac
+ artney for a special talk about his new book on the House of Lords\, explo
+ ring elite power and its influence on British government.\n\nDetails: http
+ s://www.birmingham.ac.uk/events/bringing-birmingham-to-you-dr-huw-macartne
+ y
+CATEGORIES:Bringing Birmingham to You
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/bringing-birmingham-to-you-dr-huw-m
+ acartney
+END:VEVENT
+BEGIN:VEVENT
+UID:bbty-20270113T1800@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20270113T180000Z
+DTEND:20270113T190000Z
+SUMMARY:Bringing Birmingham to You: How Microbes Changed My World (Professo
+ r Helen Onyeaka)
+LOCATION:Online
+DESCRIPTION:Professor Helen Onyeaka\nBringing Birmingham to You\n\nWhat rol
+ e do microbes play in creating a more sustainable future? Microbes may be 
+ invisible to the naked eye\, but their impact on our lives is enormous. Di
+ scover how these remarkable living systems are helping researchers tackle 
+ global challenges\, from food security and public health to climate change
+  and sustainability. Join Professor Helen Onyeaka for an inspiring journey
+  through the world of microbiology\, sustainability\, and innovation. From
+  food security and public health to climate action and the circular bioeco
+ nomy\, discover how her internationally recognised research is helping to 
+ address some of the world's most pressing challenges and shape a more sust
+ ainable future. Don't miss…\n\nDetails: https://www.birmingham.ac.uk/eve
+ nts/bringing-birmingham-to-you-how-microbes-changed-my-world-a-journey-in-
+ research-and-innovation
+CATEGORIES:Bringing Birmingham to You
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/bringing-birmingham-to-you-how-micr
+ obes-changed-my-world-a-journey-in-research-and-innovation
+END:VEVENT
+BEGIN:VEVENT
+UID:imh-20261014T1230@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261014T113000Z
+DTEND:20261014T123000Z
+SUMMARY:Why place matters: Understanding and tackling rural mental health i
+ nequalities (Professor Elizabeth Hughes (University of Worcester))
+LOCATION:Gisbert Kapp Building
+DESCRIPTION:Professor Elizabeth Hughes (University of Worcester)\nInstitute
+  for Mental Health Seminar Series\n\nProfessor Elizabeth Hughes\, Universi
+ ty of Worcester - 'Why place matters: Understanding and tackling rural men
+ tal health inequalities'\n\nDetails: https://www.birmingham.ac.uk/events/i
+ nstitute-for-mental-health-seminar-series-copy-1
+CATEGORIES:Institute for Mental Health Seminar Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/institute-for-mental-health-seminar
+ -series-copy-1
+END:VEVENT
+BEGIN:VEVENT
+UID:lapworth-20261015T1800@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261015T170000Z
+DTEND:20261015T190000Z
+SUMMARY:How to have a (decolonial) rock in the family: questioning geology\
+ , race and empire (Professor Kathryn Yusoff.)
+LOCATION:Lapworth Museum
+DESCRIPTION:Professor Kathryn Yusoff.\nLapworth Lectures\n\nJoin us for a s
+ pecial Lapworth Lecture as part of Black History Month with Professor Kath
+ ryn Yusoff.\n\nDetails: https://www.birmingham.ac.uk/events/lapworth-lectu
+ re-how-to-have-a-decolonial-rock-in-the-family-questioning-geology-race-an
+ d-empire
+CATEGORIES:Lapworth Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/lapworth-lecture-how-to-have-a-deco
+ lonial-rock-in-the-family-questioning-geology-race-and-empire
+END:VEVENT
+BEGIN:VEVENT
+UID:lapworth-20261019T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261019T163000Z
+DTEND:20261019T173000Z
+SUMMARY:When the ground moves (and we miss it): what satellites can (and ca
+ n’t) tell us about landslides (Dr Benedetta Dini)
+LOCATION:Aston Webb Dome & Semi-Circle
+DESCRIPTION:Dr Benedetta Dini\nLapworth Lectures\n\nLapworth Lecture by Dr 
+ Benedetta Dini: When the ground moves (and we miss it): what satellites ca
+ n (and can’t) tell us about landslides.\n\nDetails: https://www.birmingh
+ am.ac.uk/events/lapworth-lecture-dr-benedetta-dini
+CATEGORIES:Lapworth Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/lapworth-lecture-dr-benedetta-dini
+END:VEVENT
+BEGIN:VEVENT
+UID:lapworth-20261109T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261109T173000Z
+DTEND:20261109T183000Z
+SUMMARY:Unlocking the Secrets of Vietnam’s Past Climate: Insights from St
+ alagmites (Dr Chloe Riviera)
+LOCATION:Aston Webb Dome & Semi-Circle
+DESCRIPTION:Dr Chloe Riviera\nLapworth Lectures\n\nLapworth Lecture by Dr C
+ hloe Riviera. Unlocking the Secrets of Vietnam’s Past Climate: Insights 
+ from Stalagmites.\n\nDetails: https://www.birmingham.ac.uk/events/lapworth
+ -lecture-unlocking-the-secrets-of-vietnams-past-climate-insights-from-stal
+ agmites
+CATEGORIES:Lapworth Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/lapworth-lecture-unlocking-the-secr
+ ets-of-vietnams-past-climate-insights-from-stalagmites
+END:VEVENT
+BEGIN:VEVENT
+UID:chasm-20261020T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261020T120000Z
+DTEND:20261020T130000Z
+SUMMARY:CHASM seminar: Life beyond work
+LOCATION:Online
+DESCRIPTION:CHASM Research Seminars\n\nJoin this CHASM seminar exploring Br
+ azil’s Life Beyond Work movement and the growing campaign against the 6x
+ 1 work schedule.\n\nDetails: https://www.birmingham.ac.uk/events/chasm-sem
+ inar-life-beyond-work
+CATEGORIES:CHASM Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/chasm-seminar-life-beyond-work
+END:VEVENT
+BEGIN:VEVENT
+UID:chasm-20261124T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261124T130000Z
+DTEND:20261124T140000Z
+SUMMARY:CHASM research webinar: Across the threshold (Farhana Ghaffar (Univ
+ ersity of Nottingham))
+LOCATION:Online
+DESCRIPTION:Farhana Ghaffar (University of Nottingham)\nCHASM Research Semi
+ nars\n\nUnderstanding the unintended consequences of student debt in every
+ day graduate life in England\, led by Farhana Ghaffar\, University of Nott
+ ingham\n\nDetails: https://www.birmingham.ac.uk/events/chasm-research-webi
+ nar-across-the-threshold
+CATEGORIES:CHASM Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/chasm-research-webinar-across-the-t
+ hreshold
+END:VEVENT
+BEGIN:VEVENT
+UID:dasa-20261021T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T120000Z
+DTEND:20261021T133000Z
+SUMMARY:Expense the maids but not chairs: Deductible logics in comparative 
+ perspective (Dr Miranda Sheild Johansson (University College London))
+LOCATION:Arts Building
+DESCRIPTION:Dr Miranda Sheild Johansson (University College London)\nDASAta
+ lks\n\nJoin guest speaker Dr Miranda Sheild Johansson (University College 
+ London) for this edition of the DASAtalks seminar series.\n\nDetails: http
+ s://www.birmingham.ac.uk/events/expense-the-maids-but-not-chairs-deductibl
+ e-logics-in-comparative-perspective
+CATEGORIES:DASAtalks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/expense-the-maids-but-not-chairs-de
+ ductible-logics-in-comparative-perspective
+END:VEVENT
+BEGIN:VEVENT
+UID:dasa-20261118T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T130000Z
+DTEND:20261118T143000Z
+SUMMARY:Gilded Time: Boom-bust subjectivities in informal gold mining econo
+ mies (Associate Professor Amy Penfield (University of Bristol))
+LOCATION:Arts Building
+DESCRIPTION:Associate Professor Amy Penfield (University of Bristol)\nDASAt
+ alks\n\nJoin guest speaker Associate Professor Amy Penfield (University of
+  Bristol) for this edition of the DASAtalks seminar series.\n\nDetails: ht
+ tps://www.birmingham.ac.uk/events/gilded-time-boom-bust-subjectivities-in-
+ informal-gold-mining-economies
+CATEGORIES:DASAtalks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/gilded-time-boom-bust-subjectivitie
+ s-in-informal-gold-mining-economies
+END:VEVENT
+BEGIN:VEVENT
+UID:dasa-20261202T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T130000Z
+DTEND:20261202T143000Z
+SUMMARY:Counternarratives of West African Visual Artists’ migration to Br
+ itain (Professor Pamela Kea (University of Sussex))
+LOCATION:Arts Building
+DESCRIPTION:Professor Pamela Kea (University of Sussex)\nDASAtalks\n\nJoin 
+ guest speaker Professor Pamela Kea (University of Sussex) for this edition
+  of the DASAtalks seminar series.\n\nDetails: https://www.birmingham.ac.uk
+ /events/counternarratives-of-west-african-visual-artists-migration-to-brit
+ ain
+CATEGORIES:DASAtalks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/counternarratives-of-west-african-v
+ isual-artists-migration-to-britain
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261021T1600@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T150000Z
+DTEND:20261021T170000Z
+SUMMARY:Armed Ethnographers: (Battle)Field Genealogies of American Anthropo
+ logy (Oliver Charbonneau)
+LOCATION:Arts Building
+DESCRIPTION:Oliver Charbonneau\nWar Studies Seminar\n\nJoin guest speaker O
+ liver Charbonneau for his talk on ethnographical observations on the battl
+ efield.\n\nDetails: https://www.birmingham.ac.uk/events/armed-ethnographer
+ s-battlefield-genealogies-of-american-anthropology
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/armed-ethnographers-battlefield-gen
+ ealogies-of-american-anthropology
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261111T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T173000Z
+DTEND:20261111T190000Z
+SUMMARY:War\, Peace\, and the Conferences of Mudanya and Lausanne\, 1922-23
+  (Dan Whittingham)
+LOCATION:Arts Building
+DESCRIPTION:Dan Whittingham\nWar Studies Seminar\n\nJoin guest speaker Dan 
+ Whittingham for his talk.\n\nDetails: https://www.birmingham.ac.uk/events/
+ war-peace-conferences-mudanya-lausanne
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/war-peace-conferences-mudanya-lausa
+ nne
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261118T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T173000Z
+DTEND:20261118T190000Z
+SUMMARY:A Theory of War (Jim Storr)
+LOCATION:Arts Building
+DESCRIPTION:Jim Storr\nWar Studies Seminar\n\nJoin guest speaker Jim Storr 
+ for his talk on his book "A Theory of War".\n\nDetails: https://www.birmin
+ gham.ac.uk/events/a-theory-of-war
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/a-theory-of-war
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261202T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T173000Z
+DTEND:20261202T190000Z
+SUMMARY:Keeping the Troops Mentally Fit\, and Morale High: the Changing Rel
+ ationship Between the British Army Welfare Service and the Entertainment N
+ ational Services Association (ENSA) in Italy 1943-46 (Matt Eaton)
+LOCATION:Arts Building
+DESCRIPTION:Matt Eaton\nWar Studies Seminar\n\nJoin guest speaker Matt Eato
+ n on how British troops were entertained during World War II in a bid to p
+ romote mental health and morality.\n\nDetails: https://www.birmingham.ac.u
+ k/events/keeping-the-troops-mentally-fit-ensa-in-italy-1943-46
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/keeping-the-troops-mentally-fit-ens
+ a-in-italy-1943-46
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20261021T1700@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T160000Z
+DTEND:20261021T173000Z
+SUMMARY:Attentiveness in Iris Murdoch’s moral vision: towards a metaphysi
+ cs of pedagogy (David Halpin (University College London))
+LOCATION:Education Building
+DESCRIPTION:David Halpin (University College London)\nPhilosophy of Educati
+ on Research Seminars\n\nWith speaker David Halpin\, from University Colleg
+ e London\n\nDetails: https://www.birmingham.ac.uk/events/attentiveness-in-
+ iris-murdochs-moral-vision-towards-a-metaphysics-of-pedagogy
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/attentiveness-in-iris-murdochs-mora
+ l-vision-towards-a-metaphysics-of-pedagogy
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20261125T1700@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261125T170000Z
+DTEND:20261125T183000Z
+SUMMARY:Analysis\, synthesis\, and why wisdom might not be for everyone (Ja
+ mes Brown (University of Birmingham))
+LOCATION:Education Building
+DESCRIPTION:James Brown (University of Birmingham)\nPhilosophy of Education
+  Research Seminars\n\nWith speaker James Brown\, from the University of Bi
+ rmingham.\n\nDetails: https://www.birmingham.ac.uk/events/analysis-synthes
+ is-and-why-wisdom-might-not-be-for-everyone
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/analysis-synthesis-and-why-wisdom-m
+ ight-not-be-for-everyone
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20270120T1700@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20270120T170000Z
+DTEND:20270120T183000Z
+SUMMARY:Institutional and individual virtues: meaningful distinction or fal
+ se dichotomy? (Alex Nikolaidis (University College London))
+LOCATION:Education Building
+DESCRIPTION:Alex Nikolaidis (University College London)\nPhilosophy of Educ
+ ation Research Seminars\n\nWith speaker Alex Nikolaidis\, from University 
+ College London\n\nDetails: https://www.birmingham.ac.uk/events/institution
+ al-and-individual-virtues-meaningful-distinction-or-false-dichotomy
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/institutional-and-individual-virtue
+ s-meaningful-distinction-or-false-dichotomy
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-20261022T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261022T120000Z
+DTEND:20261022T125000Z
+SUMMARY:Off-giant Criticality in the Mean-field Arboreal Gas (Tyler Helmuth
+  (Durham University))
+LOCATION:Watson Building\, Lecture Theatre C
+DESCRIPTION:Tyler Helmuth (Durham University)\nCombinatorics\, Probability 
+ and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/birmingh
+ am/combinatorics-seminars.html
+CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-20261112T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261112T130000Z
+DTEND:20261112T140000Z
+SUMMARY:The maximum edge density of hypergraphs without tight cycles (Jared
+  León (University of Warwick))
+LOCATION:Watson Building\, Lecture Theatre C
+DESCRIPTION:Jared León (University of Warwick)\nCombinatorics\, Probabilit
+ y and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/birmin
+ gham/combinatorics-seminars.html
+CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:cpa-20261119T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261119T130000Z
+DTEND:20261119T140000Z
+SUMMARY:Uses of AI to prove and refute some of my conjectures in spectral g
+ raph theory (Clive Elphick (University of Birmingham))
+LOCATION:Watson Building\, Lecture Theatre C
+DESCRIPTION:Clive Elphick (University of Birmingham)\nCombinatorics\, Proba
+ bility and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/b
+ irmingham/combinatorics-seminars.html
+CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
+END:VEVENT
+BEGIN:VEVENT
+UID:epsinaug-20261022T1715@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261022T161500Z
+DTEND:20261022T171500Z
+SUMMARY:When Materials Meet Life: From Composites and Bioactive Glasses to 
+ Biomaterials and Biological Interfaces (Professor Artemis Stamboulis)
+LOCATION:Alan Walters Building
+DESCRIPTION:Professor Artemis Stamboulis\nEPS Inaugural Lecture Series\n\nJ
+ oin Professor Artemis Stamboulis\, Professor of Biomaterials\, as she deli
+ vers her inaugural lecture as part of the EPS Inaugural Lecture series.\n\
+ nDetails: https://www.birmingham.ac.uk/events/inaugural-lecture-of-profess
+ or-artemis-stamboulis
+CATEGORIES:EPS Inaugural Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/inaugural-lecture-of-professor-arte
+ mis-stamboulis
+END:VEVENT
+BEGIN:VEVENT
+UID:epsinaug-20261104T1500@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261104T150000Z
+DTEND:20261104T160000Z
+SUMMARY:Energy\, entropy and randomness in evolutionary systems (Professor 
+ Hong Duong)
+LOCATION:Watson Building
+DESCRIPTION:Professor Hong Duong\nEPS Inaugural Lecture Series\n\nProfessor
+  Hong Duong's promotion celebration and inaugural lecture on interesting a
+ pplications of complex systems theory in the real world.\n\nDetails: https
+ ://www.birmingham.ac.uk/events/energy-entropy-and-randomness-in-evolutiona
+ ry-systems-inaugural-lecture-by-professor-hong-duong
+CATEGORIES:EPS Inaugural Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/energy-entropy-and-randomness-in-ev
+ olutionary-systems-inaugural-lecture-by-professor-hong-duong
+END:VEVENT
+BEGIN:VEVENT
+UID:emotions-20261028T0830@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261028T083000Z
+DTEND:20261028T093000Z
+SUMMARY:Intuitions: Affective Histories of the Future of Computing (Profess
+ or Carolyn Pedwell)
+LOCATION:Online
+DESCRIPTION:Professor Carolyn Pedwell\nOnline seminar series on emotions an
+ d digital technologies\n\nThis talk explores quantum intuitions that are n
+ ot only multiple\, but also strange\, disconcerting\, and explicitly count
+ er-intuitive.\n\nDetails: https://www.birmingham.ac.uk/events/digital-emot
+ ional-governance
+CATEGORIES:Online seminar series on emotions and digital technologies
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/digital-emotional-governance
+END:VEVENT
+BEGIN:VEVENT
+UID:emotions-20261112T1530@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261112T153000Z
+DTEND:20261112T163000Z
+SUMMARY:Code/Body: The Politics of Entrapment (Professor Azadeh Akbari)
+LOCATION:Online
+DESCRIPTION:Professor Azadeh Akbari\nOnline seminar series on emotions and 
+ digital technologies\n\nOur fourth seminar\, is entitled Code/Body: The Po
+ litics of Entrapment.\n\nDetails: https://www.birmingham.ac.uk/events/code
+ body-the-politics-of-entrapment
+CATEGORIES:Online seminar series on emotions and digital technologies
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/codebody-the-politics-of-entrapment
+END:VEVENT
+BEGIN:VEVENT
+UID:bzcl-20261104T1830@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261104T183000Z
+DTEND:20261104T203000Z
+SUMMARY:Benjamin Zephaniah Community Lecture (Afua Hirsch)
+LOCATION:Bramall Music Building
+DESCRIPTION:Afua Hirsch\nBenjamin Zephaniah Community Lecture\n\nUniversity
+  of Birmingham’s 2026 Benjamin Zephaniah Lecture welcomes Afua Hirsch on
+  4 November.\n\nDetails: https://www.birmingham.ac.uk/events/benjamin-zeph
+ aniah-community-lecture-with-afua-hirsch
+CATEGORIES:Benjamin Zephaniah Community Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/benjamin-zephaniah-community-lectur
+ e-with-afua-hirsch
+END:VEVENT
+BEGIN:VEVENT
+UID:brainhealth-20261106T1500@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261106T150000Z
+DTEND:20261106T160000Z
+SUMMARY:Are people still smarter than machines? (Professor Jay McClelland)
+LOCATION:Edgbaston Park Hotel and Conference Centre
+DESCRIPTION:Professor Jay McClelland\nBirmingham Lectures in Human Brain He
+ alth\n\nBirmingham Lectures in Human Brain Health with Professor Jay McCle
+ lland\n\nDetails: https://www.birmingham.ac.uk/events/birmingham-lectures-
+ in-human-brain-health-with-professor-jay-mcclelland
+CATEGORIES:Birmingham Lectures in Human Brain Health
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/birmingham-lectures-in-human-brain-
+ health-with-professor-jay-mcclelland
+END:VEVENT
+BEGIN:VEVENT
+UID:baggs-20261109T1800@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261109T180000Z
+DTEND:20261109T191500Z
+SUMMARY:The Baggs Memorial Happiness Lecture 2026 (Tim Harford)
+LOCATION:Aston Webb Great Hall
+DESCRIPTION:Tim Harford\nBaggs Memorial Happiness Lecture\n\nTim Harford de
+ livers the 2026 Baggs Memorial Happiness Lecture in its 50th Anniversary y
+ ear.\n\nDetails: https://www.birmingham.ac.uk/events/the-baggs-memorial-ha
+ ppiness-lecture-2026
+CATEGORIES:Baggs Memorial Happiness Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lectur
+ e-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:baggs-20261110T1830@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261110T183000Z
+DTEND:20261110T201500Z
+SUMMARY:The Search for Happiness – In Conversation
+LOCATION:The Exchange
+DESCRIPTION:Baggs Memorial Happiness Lecture\n\nHosted by Kathryn Stanczysz
+ yn – UoB Alum\, BBC Presenter & Journalist\n\nDetails: https://www.birmi
+ ngham.ac.uk/events/the-baggs-memorial-happiness-lecture-2026-copy-1
+CATEGORIES:Baggs Memorial Happiness Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lectur
+ e-2026-copy-1
+END:VEVENT
+BEGIN:VEVENT
+UID:mgmt-20261111T1400@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T140000Z
+DTEND:20261111T150000Z
+SUMMARY:Permanent versus temporary network orchestrators: Developing coordi
+ nation in large interorganizational projects (Professor Jens Roehrich (Uni
+ versity of Bath))
+LOCATION:University House
+DESCRIPTION:Professor Jens Roehrich (University of Bath)\nDepartment of Man
+ agement Research Seminar Series\n\nBirmingham Business School\, Department
+  of Management Research Seminar Series 2026/2027.\n\nDetails: https://www.
+ birmingham.ac.uk/events/permanent-versus-temporary-network-orchestrators-d
+ eveloping-coordination-in-large-interorganizational-projects
+CATEGORIES:Department of Management Research Seminar Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/permanent-versus-temporary-network-
+ orchestrators-developing-coordination-in-large-interorganizational-project
+ s
+END:VEVENT
+BEGIN:VEVENT
+UID:lawannual-20261112T1830@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261112T183000Z
+DTEND:20261112T194500Z
+SUMMARY:Digital constitutionalism in action: the experience of the Colombia
+ n Constitutional Court
+LOCATION:Bramall Music Building
+DESCRIPTION:Birmingham Law School Annual Lecture\n\nJustice Natalia Ángel 
+ Cabo\, President of the Constitutional Court of Colombia (from 2027)\, giv
+ es the second Birmingham Law School annual lecture.\n\nDetails: https://ww
+ w.birmingham.ac.uk/events/birmingham-law-school-annual-lecture-2026
+CATEGORIES:Birmingham Law School Annual Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/birmingham-law-school-annual-lectur
+ e-2026
+END:VEVENT
+BEGIN:VEVENT
+UID:pp-20261118T1230@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T123000Z
+DTEND:20261118T133000Z
+SUMMARY:The Timepix4 Beam Telescope (David Bacher (University of Oxford (GB
+ )))
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:David Bacher (University of Oxford (GB))\nParticle Physics Semi
+ nars\n\nAt the High-Luminosity LHC\, LHCb Upgrade II will record about 25 
+ proton–proton collisions per bunch crossing. At this pile-up\, assigning
+  each heavy-flavour decay to its primary vertex requires full 4D tracking 
+ in the vertex detector\, with a time resolution of about 20 ps per track. 
+ No existing silicon pixel tracker reaches this\, so new sensors and readou
+ t ASICs need years of development and a way to test them with real particl
+ es. To test these prototypes\, the Timepix4 beam telescope at the CERN SPS
+  measures each beam particle precisely in both space and time. Its eight T
+ imepix4 planes predict where the particle crosses the prototype with 2.3 
+ µm precision\, while a common clock system and a…\n\nDetails: https://i
+ ndico.global/event/18930/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18930/
+END:VEVENT
+BEGIN:VEVENT
+UID:pp-20261202T1330@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T133000Z
+DTEND:20261202T143000Z
+SUMMARY:Weak Boson Scattering at the Large Hadron Collider\, Circa 2030 and
+  Beyond.
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:Particle Physics Seminars\n\nThe Large Hadron Collider (LHC) is
+  a remarkable multipurpose accelerator complex. With a proton-proton cente
+ r-of-mass energy of 14 TeV\, it allows one to study directly\, in a labora
+ tory setting\, the scattering of elementary particles at energies well bey
+ ond the electroweak scale. This include the scattering of two incoming W o
+ r Z bosons\, a process known as "weak boson scattering" or more broadly as
+  "vector boson scattering" (VBS). While long predicted\, these ultra rare 
+ processes were observed for the first time only during Run II and III of t
+ he LHC's operation\, and will be a physics driver of the high-luminosity (
+ HL-LHC) program.In this talk\, I will give a broad overview of the status 
+ and…\n\nDetails: https://indico.global/event/18932/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18932/
+END:VEVENT
+BEGIN:VEVENT
+UID:pp-20261209T1330@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261209T133000Z
+DTEND:20261209T143000Z
+SUMMARY:TRIDENT (Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao
+  Tong University))
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao Tong
+  University)\nParticle Physics Seminars\n\nDetails: https://indico.global/
+ event/18933/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18933/
+END:VEVENT
+BEGIN:VEVENT
+UID:bbs-20261119T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261119T173000Z
+DTEND:20261119T190000Z
+SUMMARY:Debt and Power in the Digital Age (Yanis Varoufakis)
+LOCATION:Alan Walters Building
+DESCRIPTION:Yanis Varoufakis\nBusiness School Advisory Board Guest Lecture\
+ n\nThis year the Birmingham Business School Advisory Board invites Yanis V
+ aroufakis to deliver a lecture on Global Economy and Debt in the Digital A
+ ge.\n\nDetails: https://www.birmingham.ac.uk/events/debt-and-power-in-the-
+ digital-age
+CATEGORIES:Business School Advisory Board Guest Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/debt-and-power-in-the-digital-age
+END:VEVENT
+BEGIN:VEVENT
+UID:lrn-20261127T1400@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261127T140000Z
+DTEND:20261127T150000Z
+SUMMARY:Key findings from Story Choices (Professor Julia Carroll)
+LOCATION:Education Building
+DESCRIPTION:Professor Julia Carroll\nLiteracy Research Network Seminars\n\n
+ In this Literacy Research Network seminar Professor Julia Carroll discusse
+ s key findings from a recent randomised controlled trial\, the Story Choic
+ es Trial\n\nDetails: https://www.birmingham.ac.uk/events/key-findings-from
+ -story-choices
+CATEGORIES:Literacy Research Network Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/key-findings-from-story-choices
+END:VEVENT
+BEGIN:VEVENT
+UID:iel-20261207T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261207T130000Z
+DTEND:20261207T140000Z
+SUMMARY:From Transposition to Transplantation of EU Directives: UK Regulati
+ on of Public Procurement Post-Brexit (Professor Luke RA Butler (University
+  of Nottingham))
+LOCATION:Law Building
+DESCRIPTION:Professor Luke RA Butler (University of Nottingham)\nInstitute 
+ of European Law Annual Lecture\n\nJoin guest speaker Professor Luke RA But
+ ler (University of Nottingham) for the latest edition of the Institute of 
+ European Law Annual Lecture 2026.\n\nDetails: https://www.birmingham.ac.uk
+ /events/from-transposition-to-transplantation-of-eu-directives-uk-regulati
+ on-of-public-procurement-post-brexit
+CATEGORIES:Institute of European Law Annual Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/from-transposition-to-transplantati
+ on-of-eu-directives-uk-regulation-of-public-procurement-post-brexit
+END:VEVENT
+BEGIN:VEVENT
+UID:brihc-20261209T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261209T130000Z
+DTEND:20261209T143000Z
+SUMMARY:Working with Photographs and Archives: An Interdisciplinary View (P
+ rofessor Christina Riggs)
+LOCATION:Arts Building
+DESCRIPTION:Professor Christina Riggs\nBRIHC Methodology Lectures\n\nProfes
+ sor Christina Riggs shares her journey into working with historic photogra
+ phs and archives in this BRIHC Methodology lecture.\n\nDetails: https://ww
+ w.birmingham.ac.uk/events/brihc-methodology-lecture-professor-christine-ri
+ ggs-durham-historic-photographs-in-contemporary-culture
+CATEGORIES:BRIHC Methodology Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/brihc-methodology-lecture-professor
+ -christine-riggs-durham-historic-photographs-in-contemporary-culture
+END:VEVENT
+END:VCALENDAR
