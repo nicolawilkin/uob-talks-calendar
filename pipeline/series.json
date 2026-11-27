@@ -1,0 +1,736 @@
+{
+ "term": {
+  "name": "Autumn term 2026",
+  "start": "2026-09-21",
+  "end": "2026-12-11"
+ },
+ "series": [
+  {
+   "id": "dasa",
+   "name": "DASAtalks",
+   "school": "African Studies and Anthropology",
+   "college": "Arts and Law",
+   "organiser": "Department of African Studies and Anthropology",
+   "page": "https://www.birmingham.ac.uk/schools/historycultures/departments/dasa/events",
+   "feed": {
+    "type": "uob",
+    "match": "DASA ?talks|Anthro ?Talks"
+   },
+   "themes": [
+    "Anthropology",
+    "Africa",
+    "Society"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "caha",
+   "name": "Classics, Ancient History and Archaeology Research Seminar",
+   "short": "CAHA Research Seminar",
+   "school": "Classics, Ancient History and Archaeology",
+   "college": "Arts and Law",
+   "organiser": "Event contact d.j.spencer@bham.ac.uk",
+   "page": "https://www.birmingham.ac.uk/events/out-of-time-archaeology-temporality-and-truth-on-the-west-coast-of-scotland",
+   "feed": {
+    "type": "uob",
+    "match": "Classics, Ancient History and Archaeology (research )?seminar"
+   },
+   "themes": [
+    "History",
+    "Archaeology",
+    "Classics"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "war",
+   "name": "War Studies Seminar",
+   "school": "War Studies",
+   "college": "Arts and Law",
+   "organiser": "Centre for War Studies",
+   "page": "https://www.birmingham.ac.uk/research/centres-institutes/war-studies/events",
+   "feed": {
+    "type": "uob",
+    "match": "war studies seminar",
+    "image": "war-studies"
+   },
+   "themes": [
+    "History",
+    "Conflict"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "lapworth",
+   "name": "Lapworth Lectures",
+   "school": "Geography, Earth and Environmental Sciences",
+   "college": "Life and Environmental Sciences",
+   "organiser": "Lapworth Museum of Geology",
+   "page": "https://www.birmingham.ac.uk/facilities/lapworth-museum/events",
+   "feed": {
+    "type": "uob",
+    "match": "Lapworth Lecture"
+   },
+   "themes": [
+    "Earth science",
+    "Climate",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "phiedu",
+   "name": "Philosophy of Education Research Seminars",
+   "school": "Education",
+   "college": "Social Sciences",
+   "organiser": "Michael Hand (contact)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-social-sciences/school-of-education/philosophy-of-education-research-seminars-2025-26",
+   "feed": {
+    "type": "uob",
+    "match": "Philosophy of Education"
+   },
+   "themes": [
+    "Education",
+    "Philosophy"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "imh",
+   "name": "Institute for Mental Health Seminar Series",
+   "school": "Institute for Mental Health",
+   "college": "Medicine and Health",
+   "organiser": "Dr Maria Michail and Professor Elaine Fox (imh@contacts.bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/events/institute-for-mental-health-seminar-series-copy-1",
+   "feed": {
+    "type": "uob",
+    "match": "Institute for Mental Health Seminar"
+   },
+   "themes": [
+    "Mental health",
+    "Health"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "bbs",
+   "name": "Business School Advisory Board Guest Lecture",
+   "school": "Birmingham Business School",
+   "college": "Social Sciences",
+   "organiser": "Birmingham Business School Advisory Board",
+   "page": "https://www.birmingham.ac.uk/events/debt-and-power-in-the-digital-age",
+   "feed": {
+    "type": "uob",
+    "match": "Advisory Board (invites|Guest Lecture)"
+   },
+   "themes": [
+    "Economics",
+    "Business",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "tcs",
+   "name": "Theoretical Computer Science Seminar",
+   "school": "Computer Science",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Namrata, Pouya Partow and Cristina Matache",
+   "page": "https://researchseminars.org/seminar/TheoryCSBham",
+   "feed": {
+    "type": "researchseminars",
+    "url": "https://researchseminars.org/seminar/TheoryCSBham/ics"
+   },
+   "themes": [
+    "Computer science",
+    "Mathematics"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "pp",
+   "name": "Particle Physics Seminars",
+   "school": "Physics and Astronomy",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Karol Krizka and Eleni Skorda (named contacts)",
+   "page": "https://www.hep.ph.bham.ac.uk/seminars.html",
+   "feed": {
+    "type": "indico",
+    "url": "https://indico.global/category/387/events.ics"
+   },
+   "themes": [
+    "Physics"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "tp",
+   "name": "Theoretical Physics Seminars",
+   "school": "Physics and Astronomy",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Theoretical Physics Group",
+   "page": "https://more.bham.ac.uk/theoretical-physics/talks/",
+   "feed": {
+    "type": "theory",
+    "url": "https://more.bham.ac.uk/theoretical-physics/talks/"
+   },
+   "themes": [
+    "Physics",
+    "Quantum"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "am",
+   "name": "Applied Mathematics Seminar",
+   "school": "Mathematics",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Fabian Spill and Pradeep Keshavanarayana",
+   "page": "https://seminars.mathpages.org/birmingham/applied-seminars.html",
+   "feed": {
+    "type": "craven",
+    "url": "https://seminars.mathpages.org/birmingham/applied-seminars.html"
+   },
+   "themes": [
+    "Mathematics"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "cpa",
+   "name": "Combinatorics, Probability and Algorithms Seminar",
+   "school": "Mathematics",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Johannes Carmesin",
+   "page": "https://seminars.mathpages.org/birmingham/combinatorics-seminars.html",
+   "feed": {
+    "type": "craven",
+    "url": "https://seminars.mathpages.org/birmingham/combinatorics-seminars.html"
+   },
+   "themes": [
+    "Mathematics",
+    "Computer science"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "sds",
+   "name": "Statistics and Data Science Seminar",
+   "school": "Mathematics",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Xiaocheng Shang, Hong Duong and Panayiota Touloupou",
+   "page": "https://seminars.mathpages.org/birmingham/sds-seminars.html",
+   "feed": {
+    "type": "craven",
+    "url": "https://seminars.mathpages.org/birmingham/sds-seminars.html"
+   },
+   "themes": [
+    "Mathematics",
+    "Data science"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "popmaths",
+   "name": "Birmingham Popular Maths Lectures",
+   "school": "Mathematics",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "School of Mathematics outreach",
+   "page": "https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/mathematics/events",
+   "feed": {
+    "type": "uob",
+    "match": "Popular Maths"
+   },
+   "themes": [
+    "Mathematics",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "iop",
+   "name": "Institute of Physics Public Lecture Series",
+   "school": "Physics and Astronomy",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "Physics and Astronomy outreach team (physics.outreach@contacts.bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-secondary-schools/iop-public-lecture-series",
+   "feed": {
+    "type": "iop",
+    "url": "https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-secondary-schools/iop-public-lecture-series"
+   },
+   "themes": [
+    "Physics",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "epsinaug",
+   "name": "EPS Inaugural Lecture Series",
+   "school": "College of Engineering and Physical Sciences",
+   "college": "Engineering and Physical Sciences",
+   "organiser": "College of Engineering and Physical Sciences",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "EPS Inaugural Lecture|Engineering and Physical Sciences Inaugural Lecture"
+   },
+   "themes": [
+    "Inaugural lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "chbh",
+   "name": "CHBH Seminar Series",
+   "school": "Centre for Human Brain Health",
+   "college": "Life and Environmental Sciences",
+   "organiser": "No series organiser named; each talk has a CHBH host",
+   "page": "https://www.birmingham.ac.uk/research/centres-institutes/human-brain-health/events",
+   "feed": {
+    "type": "uob",
+    "match": "CHBH seminar|Centre for Human Brain Health seminar"
+   },
+   "themes": [
+    "Neuroscience"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "brainhealth",
+   "name": "Birmingham Lectures in Human Brain Health",
+   "school": "Centre for Human Brain Health",
+   "college": "Life and Environmental Sciences",
+   "organiser": "Centre for Human Brain Health (contact c.lane.1@bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/research/centres-institutes/human-brain-health/events",
+   "feed": {
+    "type": "uob",
+    "match": "Birmingham Lectures? in Human Brain Health"
+   },
+   "themes": [
+    "Neuroscience",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "idd",
+   "name": "IDD Guest Seminar Series",
+   "school": "International Development Department",
+   "college": "Social Sciences",
+   "organiser": "Maurice Beseng (contact for 2025)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-social-sciences/international-development-department/idd-events/idd-guest-seminar-series-2025",
+   "feed": {
+    "type": "uob",
+    "match": "IDD Guest Seminar|IDD seminar"
+   },
+   "themes": [
+    "Development"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "chasm",
+   "name": "CHASM Research Seminars",
+   "school": "Social Policy and Birmingham Business School",
+   "college": "Social Sciences",
+   "organiser": "Centre on Household Assets and Savings Management (chasm@contacts.bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/research/centres-institutes/household-assets-and-savings-management",
+   "feed": {
+    "type": "uob",
+    "match": "CHASM (research )?(seminar|webinar)"
+   },
+   "themes": [
+    "Society",
+    "Economics"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "mgmt",
+   "name": "Department of Management Research Seminar Series",
+   "school": "Birmingham Business School",
+   "college": "Social Sciences",
+   "organiser": "Department of Management, Birmingham Business School",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "Department of Management Research Seminar"
+   },
+   "themes": [
+    "Business"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "lrn",
+   "name": "Literacy Research Network Seminars",
+   "school": "Education",
+   "college": "Social Sciences",
+   "organiser": "Helen Breadmore (h.breadmore@bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "Literacy Research Network"
+   },
+   "themes": [
+    "Education"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "priestley",
+   "name": "Priestley Lecture",
+   "school": "Education",
+   "college": "Social Sciences",
+   "organiser": "School of Education; no individual named for 2026",
+   "page": "https://www.birmingham.ac.uk/about/college-of-social-sciences/school-of-education",
+   "feed": {
+    "type": "uob",
+    "match": "Priestley Lecture"
+   },
+   "themes": [
+    "Education",
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "west",
+   "name": "WEST: West Midlands Economics Scholarship and Teaching (formerly BEES)",
+   "school": "Economics",
+   "college": "Social Sciences",
+   "organiser": "Tim Burnett, Aston University (contact)",
+   "page": "https://economicsnetwork.ac.uk/events/bees",
+   "feed": {
+    "type": "page",
+    "url": "https://economicsnetwork.ac.uk/events/bees"
+   },
+   "themes": [
+    "Economics",
+    "Teaching"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "lawannual",
+   "name": "Birmingham Law School Annual Lecture",
+   "school": "Birmingham Law School",
+   "college": "Social Sciences",
+   "organiser": "Birmingham Law School",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "Law School annual lecture"
+   },
+   "themes": [
+    "Law",
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "iel",
+   "name": "Institute of European Law Annual Lecture",
+   "school": "Birmingham Law School",
+   "college": "Social Sciences",
+   "organiser": "Institute of European Law",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "Institute of European Law Annual Lecture"
+   },
+   "themes": [
+    "Law",
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "rip",
+   "name": "Royal Institute of Philosophy events",
+   "school": "Philosophy",
+   "college": "Arts and Law",
+   "organiser": "Lisa Bortolotti (Winterbourne lunchtime workshops)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/philosophy/the-royal-institute-of-philosophy",
+   "feed": {
+    "type": "page",
+    "url": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/philosophy/the-royal-institute-of-philosophy"
+   },
+   "themes": [
+    "Philosophy",
+    "Public talks"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "sinclair",
+   "name": "Sinclair Open Lecture",
+   "school": "Linguistics and Communication",
+   "college": "Arts and Law",
+   "organiser": "Centre for Corpus Research",
+   "page": "https://www.birmingham.ac.uk/research/centres-institutes/centre-for-corpus-research/sinclair-open-lecture-series",
+   "feed": {
+    "type": "uob",
+    "match": "Sinclair (Open )?Lecture"
+   },
+   "themes": [
+    "Linguistics",
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "music",
+   "name": "Music Research Seminars",
+   "school": "Music",
+   "college": "Arts and Law",
+   "organiser": "Celia Walley (booking contact)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/music/events",
+   "feed": {
+    "type": "uob",
+    "match": "Music Research Seminar"
+   },
+   "themes": [
+    "Music"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "arthist",
+   "name": "Art History, Curating and Visual Studies Research Seminars",
+   "school": "Art History, Curating and Visual Studies",
+   "college": "Arts and Law",
+   "organiser": "Department of Art History, Curating and Visual Studies",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/art-history-curating-and-visual-studies/events",
+   "feed": {
+    "type": "uob",
+    "match": "Art History[^.]{0,40}Research Seminar|History of Art Research Seminar"
+   },
+   "themes": [
+    "Art history"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "africa",
+   "name": "Africa Talks",
+   "school": "African Studies and Anthropology",
+   "college": "Arts and Law",
+   "organiser": "Gerald Mazarire (contact, Spring 2025)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/african-studies-and-anthropology/events",
+   "feed": {
+    "type": "uob",
+    "match": "Africa Talks"
+   },
+   "themes": [
+    "Africa"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "fage",
+   "name": "Fage Lecture",
+   "school": "African Studies and Anthropology",
+   "college": "Arts and Law",
+   "organiser": "Department of African Studies and Anthropology",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/african-studies-and-anthropology/the-fage-lecture",
+   "feed": {
+    "type": "uob",
+    "match": "Fage Lecture"
+   },
+   "themes": [
+    "Africa",
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "shakes",
+   "name": "Shakespeare Institute Thursday Seminar",
+   "school": "Shakespeare Institute",
+   "college": "Arts and Law",
+   "organiser": "Shakespeare Institute; no individual named",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/shakespeare-institute",
+   "feed": {
+    "type": "page",
+    "url": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/shakespeare-institute"
+   },
+   "themes": [
+    "Literature",
+    "Theatre"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "cadbury",
+   "name": "Edward Cadbury Lectures",
+   "school": "Theology and Religion",
+   "college": "Arts and Law",
+   "organiser": "Department of Theology and Religion (thecadburylectures@contacts.bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/about/college-of-arts-and-law/theology-and-religion/events",
+   "feed": {
+    "type": "uob",
+    "match": "Cadbury Lecture"
+   },
+   "themes": [
+    "Religion",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "cesma",
+   "name": "CESMA Annual Public Lecture",
+   "school": "Centre for the Study of the Middle Ages",
+   "college": "Arts and Law",
+   "organiser": "Dr Simon Yarrow (Centre contact)",
+   "page": "https://www.birmingham.ac.uk/research/centres-institutes/study-of-the-middle-ages",
+   "feed": {
+    "type": "uob",
+    "match": "CESMA"
+   },
+   "themes": [
+    "History",
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "histbook",
+   "name": "Department of History book talks",
+   "school": "History",
+   "college": "Arts and Law",
+   "organiser": "Event contact m.houlbrook@bham.ac.uk",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "^(Book|Research) Talk by"
+   },
+   "themes": [
+    "History"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "brihc",
+   "name": "BRIHC Methodology Lectures",
+   "school": "Birmingham Research Institute for History and Cultures",
+   "college": "Arts and Law",
+   "organiser": "BRIHC (contact k.smith@bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "BRIHC Methodology"
+   },
+   "themes": [
+    "History",
+    "Research methods"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "emotions",
+   "name": "Online seminar series on emotions and digital technologies",
+   "school": "School not stated",
+   "college": "University-wide",
+   "organiser": "Event contacts j.pykett@bham.ac.uk and urbanwellbeing@contacts.bham.ac.uk",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "seminar series (explores|exploring) how emotions"
+   },
+   "themes": [
+    "Geography",
+    "Digital society"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "idai",
+   "name": "IDAI Cultural strand speaker events",
+   "school": "Institute for Data and AI",
+   "college": "University-wide",
+   "organiser": "Rebecca Roach (contact)",
+   "page": "https://stuarthallarchive.bham.ac.uk/event/speaker-event-prof-ashleigh-harris-on-messy-data-and-the-unruly-african-literary-archive/",
+   "feed": {
+    "type": "page",
+    "url": "https://stuarthallarchive.bham.ac.uk/event/speaker-event-prof-ashleigh-harris-on-messy-data-and-the-unruly-african-literary-archive/"
+   },
+   "themes": [
+    "AI",
+    "Digital culture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "baggs",
+   "name": "Baggs Memorial Happiness Lecture",
+   "school": "University-wide",
+   "college": "University-wide",
+   "organiser": "University events team (uobevents@contacts.bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lecture-2026",
+   "feed": {
+    "type": "uob",
+    "match": "Baggs Memorial",
+    "exclude": "Competition|Night"
+   },
+   "themes": [
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "bzcl",
+   "name": "Benjamin Zephaniah Community Lecture",
+   "school": "Race Equality Network",
+   "college": "University-wide",
+   "organiser": "Race Equality Network",
+   "page": "https://www.birmingham.ac.uk/events/benjamin-zephaniah-community-lecture-with-afua-hirsch",
+   "feed": {
+    "type": "uob",
+    "match": "Benjamin Zephaniah"
+   },
+   "themes": [
+    "Annual lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "keithpalmer",
+   "name": "Keith Palmer Lecture",
+   "school": "Alumni events",
+   "college": "University-wide",
+   "organiser": "Alumni events (alumnievents@contacts.bham.ac.uk)",
+   "page": "https://www.birmingham.ac.uk/events/keith-palmer-lecture-2026-jules-howard",
+   "feed": {
+    "type": "uob",
+    "match": "Keith Palmer Lecture"
+   },
+   "themes": [
+    "Natural science",
+    "Public lecture"
+   ],
+   "entry": "feed"
+  },
+  {
+   "id": "bbty",
+   "name": "Bringing Birmingham to You",
+   "school": "Alumni events",
+   "college": "University-wide",
+   "organiser": "Alumni events team; some talks run by regional alumni networks",
+   "page": "https://www.birmingham.ac.uk/events",
+   "feed": {
+    "type": "uob",
+    "match": "Bringing Birmingham to You",
+    "exclude": "networking"
+   },
+   "themes": [
+    "Public talks"
+   ],
+   "entry": "feed"
+  }
+ ],
+ "siteUrl": "https://claude.ai/artifact/WfPoUf6hxg2y4oeAKpPg3X",
+ "calendarBase": "https://nicolawilkin.github.io/uob-talks-calendar/"
+}
