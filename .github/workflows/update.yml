@@ -1,0 +1,42 @@
+name: Update talks and calendars
+
+on:
+  schedule:
+    - cron: "17 2 * * *"   # every night at 02:17 UTC
+  workflow_dispatch:        # run by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-talks
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect talks from every source
+        run: python pipeline/build.py
+
+      - name: Write calendar files
+        run: python pipeline/calendars.py site/data/talks.json .
+
+      - name: Commit if any talk changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet -I '^DTSTAMP:' -I '"generated":'; then
+            echo "No talk has changed; nothing to commit."
+          else
+            git commit -m "Nightly update of talks and calendars"
+            git push
+          fi
