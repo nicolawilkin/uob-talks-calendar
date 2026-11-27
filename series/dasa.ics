@@ -1,0 +1,64 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DASAtalks (University of Birmingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:dasa-20261021T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T120000Z
+DTEND:20261021T133000Z
+SUMMARY:Expense the maids but not chairs: Deductible logics in comparative 
+ perspective (Dr Miranda Sheild Johansson (University College London))
+LOCATION:Arts Building
+DESCRIPTION:Dr Miranda Sheild Johansson (University College London)\nDASAta
+ lks\n\nJoin guest speaker Dr Miranda Sheild Johansson (University College 
+ London) for this edition of the DASAtalks seminar series.\n\nDetails: http
+ s://www.birmingham.ac.uk/events/expense-the-maids-but-not-chairs-deductibl
+ e-logics-in-comparative-perspective
+CATEGORIES:DASAtalks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/expense-the-maids-but-not-chairs-de
+ ductible-logics-in-comparative-perspective
+END:VEVENT
+BEGIN:VEVENT
+UID:dasa-20261118T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T130000Z
+DTEND:20261118T143000Z
+SUMMARY:Gilded Time: Boom-bust subjectivities in informal gold mining econo
+ mies (Associate Professor Amy Penfield (University of Bristol))
+LOCATION:Arts Building
+DESCRIPTION:Associate Professor Amy Penfield (University of Bristol)\nDASAt
+ alks\n\nJoin guest speaker Associate Professor Amy Penfield (University of
+  Bristol) for this edition of the DASAtalks seminar series.\n\nDetails: ht
+ tps://www.birmingham.ac.uk/events/gilded-time-boom-bust-subjectivities-in-
+ informal-gold-mining-economies
+CATEGORIES:DASAtalks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/gilded-time-boom-bust-subjectivitie
+ s-in-informal-gold-mining-economies
+END:VEVENT
+BEGIN:VEVENT
+UID:dasa-20261202T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T130000Z
+DTEND:20261202T143000Z
+SUMMARY:Counternarratives of West African Visual Artists’ migration to Br
+ itain (Professor Pamela Kea (University of Sussex))
+LOCATION:Arts Building
+DESCRIPTION:Professor Pamela Kea (University of Sussex)\nDASAtalks\n\nJoin 
+ guest speaker Professor Pamela Kea (University of Sussex) for this edition
+  of the DASAtalks seminar series.\n\nDetails: https://www.birmingham.ac.uk
+ /events/counternarratives-of-west-african-visual-artists-migration-to-brit
+ ain
+CATEGORIES:DASAtalks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/counternarratives-of-west-african-v
+ isual-artists-migration-to-britain
+END:VEVENT
+END:VCALENDAR

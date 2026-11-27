@@ -1,0 +1,75 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:War Studies Seminar (University of Birmingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:war-20261021T1600@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T150000Z
+DTEND:20261021T170000Z
+SUMMARY:Armed Ethnographers: (Battle)Field Genealogies of American Anthropo
+ logy (Oliver Charbonneau)
+LOCATION:Arts Building
+DESCRIPTION:Oliver Charbonneau\nWar Studies Seminar\n\nJoin guest speaker O
+ liver Charbonneau for his talk on ethnographical observations on the battl
+ efield.\n\nDetails: https://www.birmingham.ac.uk/events/armed-ethnographer
+ s-battlefield-genealogies-of-american-anthropology
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/armed-ethnographers-battlefield-gen
+ ealogies-of-american-anthropology
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261111T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261111T173000Z
+DTEND:20261111T190000Z
+SUMMARY:War\, Peace\, and the Conferences of Mudanya and Lausanne\, 1922-23
+  (Dan Whittingham)
+LOCATION:Arts Building
+DESCRIPTION:Dan Whittingham\nWar Studies Seminar\n\nJoin guest speaker Dan 
+ Whittingham for his talk.\n\nDetails: https://www.birmingham.ac.uk/events/
+ war-peace-conferences-mudanya-lausanne
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/war-peace-conferences-mudanya-lausa
+ nne
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261118T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T173000Z
+DTEND:20261118T190000Z
+SUMMARY:A Theory of War (Jim Storr)
+LOCATION:Arts Building
+DESCRIPTION:Jim Storr\nWar Studies Seminar\n\nJoin guest speaker Jim Storr 
+ for his talk on his book "A Theory of War".\n\nDetails: https://www.birmin
+ gham.ac.uk/events/a-theory-of-war
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/a-theory-of-war
+END:VEVENT
+BEGIN:VEVENT
+UID:war-20261202T1730@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T173000Z
+DTEND:20261202T190000Z
+SUMMARY:Keeping the Troops Mentally Fit\, and Morale High: the Changing Rel
+ ationship Between the British Army Welfare Service and the Entertainment N
+ ational Services Association (ENSA) in Italy 1943-46 (Matt Eaton)
+LOCATION:Arts Building
+DESCRIPTION:Matt Eaton\nWar Studies Seminar\n\nJoin guest speaker Matt Eato
+ n on how British troops were entertained during World War II in a bid to p
+ romote mental health and morality.\n\nDetails: https://www.birmingham.ac.u
+ k/events/keeping-the-troops-mentally-fit-ensa-in-italy-1943-46
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/keeping-the-troops-mentally-fit-ens
+ a-in-italy-1943-46
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,217 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Theoretical Computer Science Seminar (University of Birmingham
+ )
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tcs-20261002T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261002T120000Z
+DTEND:20261002T130000Z
+SUMMARY:On the Coalgebraic Linear-Time Semantics of Two-Player Games (Ben P
+ lummer (University of Birmingham))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Ben Plummer (University of Birmingham)\nTheoretical Computer Sc
+ ience Seminar\n\nLinear-time semantics play an important role in program s
+ emantics and verification\, in settings where branching-time equivalence i
+ s too fine. Set-based coalgebra provides an account of branching-time beha
+ viour\, while finite linear-time semantics can be treated coalgebraically 
+ by moving to the Kleisli category of a monad modelling the system’s bran
+ ching. In this talk\, I will discuss how these ideas extend to the linear-
+ time semantics of two-player games. For finite behaviour\, the coalgebraic
+  approach applies smoothly to games in which the opponent’s choices are 
+ nondeterministic\, probabilistic\, or weighted. We characterise the result
+ ing semantics in terms of strategies that enforce…\n\nDetails: https://r
+ esearchseminars.org/talk/TheoryCSBham/84/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/84/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261023T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261023T120000Z
+DTEND:20261023T130000Z
+SUMMARY:Semantics and intermediate representations of probabilistic program
+ s (Hugo Paquet (INRIA Paris))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Hugo Paquet (INRIA Paris)\nTheoretical Computer Science Seminar
+ \n\nIn a probabilistic programming language (with only finite types and wi
+ thout recursion or loops) every program determines a probability distribut
+ ion over a set of outputs. Computing this distribution can be expensive: t
+ he naive approach is to enumerate all possible executions. So practical in
+ terpreters rely on more efficient representations of probability distribut
+ ions\, typically inspired by symbolic execution. In this talk I will give 
+ a semantic perspective on these intermediate representations\, to explain 
+ why they are correct. The key idea is to decompose probabilistic sampling 
+ into two separate effects (first generating a random variable\, and then r
+ eading its value) that follow different…\n\nDetails: https://researchsem
+ inars.org/talk/TheoryCSBham/85/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/85/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261030T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261030T130000Z
+DTEND:20261030T140000Z
+SUMMARY:Handlers of Parametrised Algebraic Theories (Jack Liell-Cock (Unive
+ rsity of Oxford))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Jack Liell-Cock (University of Oxford)\nTheoretical Computer Sc
+ ience Seminar\n\nThe algebraic effects and handlers paradigm separates the
+  concerns of the interface and implementation of computational effects in 
+ programming languages. We present Cambria\, a language that extends this f
+ ramework to the parametrised setting. Effect signatures may use abstract p
+ arameter types that are instantiated by the handler along with the operati
+ on implementations. Parameters abstract over resources\, such as memory lo
+ cations or thread IDs\, permitting algebraic effects to encode dynamic all
+ ocation. They are first-class in the type system but erased at runtime\, r
+ equiring no coercions or type-directed reduction. We prove parametricity v
+ ia a step-indexed logical relation\, formalizing the…\n\nDetails: https:
+ //researchseminars.org/talk/TheoryCSBham/86/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/86/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261106T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261106T130000Z
+DTEND:20261106T140000Z
+SUMMARY:My thoughts on AI and security (Mark Ryan (University of Birmingham
+ ))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Mark Ryan (University of Birmingham)\nTheoretical Computer Scie
+ nce Seminar\n\nThe first part of my talk will be about "prompt injection"\
+ , in which an adversary inserts text in content (such as a paper\, a githu
+ b README\, a CV or an email message) that will be processed by an LLM\, in
+  an effort to instruct the LLM to process the content the way the adversar
+ y wants. Large language models read instructions and data as one stream of
+  tokens\, so anyone who can get text into that stream can potentially have
+  it obeyed as a command. I'll review real attacks\, and then compare three
+  kinds of defence\, focussing on the type that seems to have the greatest 
+ capability to work. In a possible second part\, I'll describe a bit about 
+ how I use AI in practice\, what has worked and what has…\n\nDetails: htt
+ ps://researchseminars.org/talk/TheoryCSBham/87/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/87/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261113T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261113T130000Z
+DTEND:20261113T140000Z
+SUMMARY:Code in the Age of Agents: Bottlenecks\, Languages\, and the New So
+ ftware Reality (Dan Ghica (University of Birmingham))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Dan Ghica (University of Birmingham)\nTheoretical Computer Scie
+ nce Seminar\n\nEverything has changed\, and the software engineering lands
+ cape will never look the same. Autonomous coding agents can already produc
+ e vast implementations\, dismantling the long-held assumption that writing
+  code is the primary constraint of software development. As the marginal c
+ ost of code generation becomes negligible\, where does the real bottleneck
+  relocate? Is the new point of friction in comprehension\, review\, and ve
+ rification\, or does the critical challenge move even higher up the stack\
+ , in specification and validation? Furthermore\, agent-generated code diff
+ ers fundamentally from human-written systems in style\, cognitive idioms\,
+  and architectural failure modes (e.g. slop: plausible…\n\nDetails: http
+ s://researchseminars.org/talk/TheoryCSBham/88/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/88/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261120T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261120T130000Z
+DTEND:20261120T140000Z
+SUMMARY:Space-Efficient Hierholzer (Ziad Ismaili  Alaoui (University of Liv
+ erpool))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Ziad Ismaili  Alaoui (University of Liverpool)\nTheoretical Com
+ puter Science Seminar\n\nHere is a popular challenge: Can you copy a given
+  drawing without lifting your pen or tracing any line more than once? A fa
+ miliar example is the "Haus vom Nikolaus" (house of Santa Claus): a square
+  with both diagonals and a triangular roof. In graph-theoretic terms\, thi
+ s is the same as asking for an Eulerian trail\; that is\, a walk that trav
+ erses every edge exactly once. (In this talk\, we focus on Eulerian cycles
+ \, where the endpoints of the trail are equal.) The question of finding Eu
+ lerian cycles or characterising which graphs have one goes back to Euler's
+  work on the bridges of Königsberg\, which many cite as the birth of grap
+ h theory. Hierholzer's algorithm is a classical method for…\n\nDetails: 
+ https://researchseminars.org/talk/TheoryCSBham/89/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/89/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261127T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261127T130000Z
+DTEND:20261127T140000Z
+SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij 
+ (University of Edinburgh))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Orpheas van Rooij (University of Edinburgh)\nTheoretical Comput
+ er Science Seminar\n\nFull ground local state (FGLS) refers to dynamically
+  allocated mutable state that allows storing ground values and references.
+  It is a key ingredient in many imperative algorithms as it enables cyclic
+  data structures. In this work\, we focus on one particular denotational m
+ odel for FGLS: Kammar et al.'s possible worlds monad on sets indexed over 
+ sets of locations. We resolve an outstanding question about this FGLS mona
+ d: is it finitary? We show that it is not\, by showing the existence of no
+ n-finitary computations in this monad that are challenging to define in a 
+ terminating language with full ground references. This prompts us to intro
+ duce a finitary submonad of Kammar et al.'s monad\, which…\n\nDetails: h
+ ttps://researchseminars.org/talk/TheoryCSBham/90/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/90/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261204T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:Algebraically free Markov chains (Paolo Perrone (University of Oxfo
+ rd))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Paolo Perrone (University of Oxford)\nTheoretical Computer Scie
+ nce Seminar\n\nAlgebraically free monoids\, and more generally monads\, ar
+ e commonly used to model operations that can be 'folded'\, such as repeate
+ d actions of a set of 'elementary moves'. Notable examples are the writer 
+ monad (free over the alphabet set)\, and the free monad over a graph. In c
+ ategory theory\, an algebraically free monoid over an object X is a monoid
+  FX together with a bijection between X-algebras and FX-algebras\, with th
+ e intuition that FX-algebras are "just X-algebras where the action is iter
+ ated". In the theory of dynamical systems and Markov chains\, algebras can
+  be decategorified to invariant states or invariant measures. Similarly\, 
+ we can decategorify a monoid object to an idempotent…\n\nDetails: https:
+ //researchseminars.org/talk/TheoryCSBham/91/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/91/
+END:VEVENT
+BEGIN:VEVENT
+UID:tcs-20261211T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261211T130000Z
+DTEND:20261211T140000Z
+SUMMARY:Title to be announced (Yijun Yu (Open U and Huawei))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Yijun Yu (Open U and Huawei)\nTheoretical Computer Science Semi
+ nar\n\n: TBA\n\nDetails: https://researchseminars.org/talk/TheoryCSBham/92
+ /
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/92/
+END:VEVENT
+END:VCALENDAR

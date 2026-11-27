@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Institute for Mental Health Seminar Series (University of Birm
+ ingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:imh-20261014T1230@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261014T113000Z
+DTEND:20261014T123000Z
+SUMMARY:Why place matters: Understanding and tackling rural mental health i
+ nequalities (Professor Elizabeth Hughes (University of Worcester))
+LOCATION:Gisbert Kapp Building
+DESCRIPTION:Professor Elizabeth Hughes (University of Worcester)\nInstitute
+  for Mental Health Seminar Series\n\nProfessor Elizabeth Hughes\, Universi
+ ty of Worcester - 'Why place matters: Understanding and tackling rural men
+ tal health inequalities'\n\nDetails: https://www.birmingham.ac.uk/events/i
+ nstitute-for-mental-health-seminar-series-copy-1
+CATEGORIES:Institute for Mental Health Seminar Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/institute-for-mental-health-seminar
+ -series-copy-1
+END:VEVENT
+END:VCALENDAR

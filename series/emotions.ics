@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Online seminar series on emotions and digital technologies (Un
+ iversity of Birmingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:emotions-20261028T0830@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261028T083000Z
+DTEND:20261028T093000Z
+SUMMARY:Intuitions: Affective Histories of the Future of Computing (Profess
+ or Carolyn Pedwell)
+LOCATION:Online
+DESCRIPTION:Professor Carolyn Pedwell\nOnline seminar series on emotions an
+ d digital technologies\n\nThis talk explores quantum intuitions that are n
+ ot only multiple\, but also strange\, disconcerting\, and explicitly count
+ er-intuitive.\n\nDetails: https://www.birmingham.ac.uk/events/digital-emot
+ ional-governance
+CATEGORIES:Online seminar series on emotions and digital technologies
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/digital-emotional-governance
+END:VEVENT
+BEGIN:VEVENT
+UID:emotions-20261112T1530@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261112T153000Z
+DTEND:20261112T163000Z
+SUMMARY:Code/Body: The Politics of Entrapment (Professor Azadeh Akbari)
+LOCATION:Online
+DESCRIPTION:Professor Azadeh Akbari\nOnline seminar series on emotions and 
+ digital technologies\n\nOur fourth seminar\, is entitled Code/Body: The Po
+ litics of Entrapment.\n\nDetails: https://www.birmingham.ac.uk/events/code
+ body-the-politics-of-entrapment
+CATEGORIES:Online seminar series on emotions and digital technologies
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/codebody-the-politics-of-entrapment
+END:VEVENT
+END:VCALENDAR

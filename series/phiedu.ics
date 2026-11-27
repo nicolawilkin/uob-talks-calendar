@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Philosophy of Education Research Seminars (University of Birmi
+ ngham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:phiedu-20261021T1700@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261021T160000Z
+DTEND:20261021T173000Z
+SUMMARY:Attentiveness in Iris Murdoch’s moral vision: towards a metaphysi
+ cs of pedagogy (David Halpin (University College London))
+LOCATION:Education Building
+DESCRIPTION:David Halpin (University College London)\nPhilosophy of Educati
+ on Research Seminars\n\nWith speaker David Halpin\, from University Colleg
+ e London\n\nDetails: https://www.birmingham.ac.uk/events/attentiveness-in-
+ iris-murdochs-moral-vision-towards-a-metaphysics-of-pedagogy
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/attentiveness-in-iris-murdochs-mora
+ l-vision-towards-a-metaphysics-of-pedagogy
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20261125T1700@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261125T170000Z
+DTEND:20261125T183000Z
+SUMMARY:Analysis\, synthesis\, and why wisdom might not be for everyone (Ja
+ mes Brown (University of Birmingham))
+LOCATION:Education Building
+DESCRIPTION:James Brown (University of Birmingham)\nPhilosophy of Education
+  Research Seminars\n\nWith speaker James Brown\, from the University of Bi
+ rmingham.\n\nDetails: https://www.birmingham.ac.uk/events/analysis-synthes
+ is-and-why-wisdom-might-not-be-for-everyone
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/analysis-synthesis-and-why-wisdom-m
+ ight-not-be-for-everyone
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20270120T1700@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20270120T170000Z
+DTEND:20270120T183000Z
+SUMMARY:Institutional and individual virtues: meaningful distinction or fal
+ se dichotomy? (Alex Nikolaidis (University College London))
+LOCATION:Education Building
+DESCRIPTION:Alex Nikolaidis (University College London)\nPhilosophy of Educ
+ ation Research Seminars\n\nWith speaker Alex Nikolaidis\, from University 
+ College London\n\nDetails: https://www.birmingham.ac.uk/events/institution
+ al-and-individual-virtues-meaningful-distinction-or-false-dichotomy
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/institutional-and-individual-virtue
+ s-meaningful-distinction-or-false-dichotomy
+END:VEVENT
+END:VCALENDAR

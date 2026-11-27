@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Benjamin Zephaniah Community Lecture (University of Birmingham
+ )
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bzcl-20261104T1830@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261104T183000Z
+DTEND:20261104T203000Z
+SUMMARY:Benjamin Zephaniah Community Lecture (Afua Hirsch)
+LOCATION:Bramall Music Building
+DESCRIPTION:Afua Hirsch\nBenjamin Zephaniah Community Lecture\n\nUniversity
+  of Birmingham’s 2026 Benjamin Zephaniah Lecture welcomes Afua Hirsch on
+  4 November.\n\nDetails: https://www.birmingham.ac.uk/events/benjamin-zeph
+ aniah-community-lecture-with-afua-hirsch
+CATEGORIES:Benjamin Zephaniah Community Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/benjamin-zephaniah-community-lectur
+ e-with-afua-hirsch
+END:VEVENT
+END:VCALENDAR

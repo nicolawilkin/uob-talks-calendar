@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CHASM Research Seminars (University of Birmingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:chasm-20261020T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261020T120000Z
+DTEND:20261020T130000Z
+SUMMARY:CHASM seminar: Life beyond work
+LOCATION:Online
+DESCRIPTION:CHASM Research Seminars\n\nJoin this CHASM seminar exploring Br
+ azil’s Life Beyond Work movement and the growing campaign against the 6x
+ 1 work schedule.\n\nDetails: https://www.birmingham.ac.uk/events/chasm-sem
+ inar-life-beyond-work
+CATEGORIES:CHASM Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/chasm-seminar-life-beyond-work
+END:VEVENT
+BEGIN:VEVENT
+UID:chasm-20261124T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261124T130000Z
+DTEND:20261124T140000Z
+SUMMARY:CHASM research webinar: Across the threshold (Farhana Ghaffar (Univ
+ ersity of Nottingham))
+LOCATION:Online
+DESCRIPTION:Farhana Ghaffar (University of Nottingham)\nCHASM Research Semi
+ nars\n\nUnderstanding the unintended consequences of student debt in every
+ day graduate life in England\, led by Farhana Ghaffar\, University of Nott
+ ingham\n\nDetails: https://www.birmingham.ac.uk/events/chasm-research-webi
+ nar-across-the-threshold
+CATEGORIES:CHASM Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/chasm-research-webinar-across-the-t
+ hreshold
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Particle Physics Seminars (University of Birmingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pp-20261118T1230@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261118T123000Z
+DTEND:20261118T133000Z
+SUMMARY:The Timepix4 Beam Telescope (David Bacher (University of Oxford (GB
+ )))
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:David Bacher (University of Oxford (GB))\nParticle Physics Semi
+ nars\n\nAt the High-Luminosity LHC\, LHCb Upgrade II will record about 25 
+ proton–proton collisions per bunch crossing. At this pile-up\, assigning
+  each heavy-flavour decay to its primary vertex requires full 4D tracking 
+ in the vertex detector\, with a time resolution of about 20 ps per track. 
+ No existing silicon pixel tracker reaches this\, so new sensors and readou
+ t ASICs need years of development and a way to test them with real particl
+ es. To test these prototypes\, the Timepix4 beam telescope at the CERN SPS
+  measures each beam particle precisely in both space and time. Its eight T
+ imepix4 planes predict where the particle crosses the prototype with 2.3 
+ µm precision\, while a common clock system and a…\n\nDetails: https://i
+ ndico.global/event/18930/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18930/
+END:VEVENT
+BEGIN:VEVENT
+UID:pp-20261202T1330@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261202T133000Z
+DTEND:20261202T143000Z
+SUMMARY:Weak Boson Scattering at the Large Hadron Collider\, Circa 2030 and
+  Beyond.
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:Particle Physics Seminars\n\nThe Large Hadron Collider (LHC) is
+  a remarkable multipurpose accelerator complex. With a proton-proton cente
+ r-of-mass energy of 14 TeV\, it allows one to study directly\, in a labora
+ tory setting\, the scattering of elementary particles at energies well bey
+ ond the electroweak scale. This include the scattering of two incoming W o
+ r Z bosons\, a process known as "weak boson scattering" or more broadly as
+  "vector boson scattering" (VBS). While long predicted\, these ultra rare 
+ processes were observed for the first time only during Run II and III of t
+ he LHC's operation\, and will be a physics driver of the high-luminosity (
+ HL-LHC) program.In this talk\, I will give a broad overview of the status 
+ and…\n\nDetails: https://indico.global/event/18932/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18932/
+END:VEVENT
+BEGIN:VEVENT
+UID:pp-20261209T1330@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261209T133000Z
+DTEND:20261209T143000Z
+SUMMARY:TRIDENT (Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao
+  Tong University))
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao Tong
+  University)\nParticle Physics Seminars\n\nDetails: https://indico.global/
+ event/18933/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18933/
+END:VEVENT
+END:VCALENDAR

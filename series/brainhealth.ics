@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Birmingham Lectures in Human Brain Health (University of Birmi
+ ngham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:brainhealth-20261106T1500@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261106T150000Z
+DTEND:20261106T160000Z
+SUMMARY:Are people still smarter than machines? (Professor Jay McClelland)
+LOCATION:Edgbaston Park Hotel and Conference Centre
+DESCRIPTION:Professor Jay McClelland\nBirmingham Lectures in Human Brain He
+ alth\n\nBirmingham Lectures in Human Brain Health with Professor Jay McCle
+ lland\n\nDetails: https://www.birmingham.ac.uk/events/birmingham-lectures-
+ in-human-brain-health-with-professor-jay-mcclelland
+CATEGORIES:Birmingham Lectures in Human Brain Health
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/birmingham-lectures-in-human-brain-
+ health-with-professor-jay-mcclelland
+END:VEVENT
+END:VCALENDAR

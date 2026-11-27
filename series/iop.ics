@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Institute of Physics Public Lecture Series (University of Birm
+ ingham)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20261006T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261006T183000Z
+DTEND:20261006T193000Z
+SUMMARY:Mysteries of matter: new experiments to unpick the nature of dark m
+ atter (Dr Daniel Johnson)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Daniel Johnson\nInstitute of Physics Public Lecture Series\n
+ \nContrary to its name\, there is nothing hidden about dark matter. It's t
+ here in plain sight\, dramatically changing the way galaxies move and impr
+ inted all over the incredible pictures astronomers take of the cosmos. But
+ \, whilst we know for sure that it is there\, we have no idea what it's ma
+ de of and that makes particle physicists deeply uncomfortable. This evenin
+ g we will explore new methods to tease out truths about the particle ident
+ ity of dark matter\, and how new experiments might soon shed light on this
+  mysterious matter that\, overwhelmingly\, dominates the 'stuff' in the Un
+ iverse.\n\nDetails: https://www.birmingham.ac.uk/about/college-of-engineer
+ ing-and-physical-sciences/physics-and-astronomy/outreach-and-schools-liais
+ on/outreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20261103T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261103T193000Z
+DTEND:20261103T203000Z
+SUMMARY:The Invisible Scanners (Jim Grozier)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Jim Grozier\nInstitute of Physics Public Lecture Series\n\nThis
+  talk covers a period in the recent history of particle physics (approxima
+ tely the 1960s and 1970s) when the output of particle colliders was in the
+  form of thousands of photographs of bubble chamber events\, and large num
+ bers of relatively unskilled women were brought in to examine and analyse 
+ these photographs in search of patterns which might reveal evidence of new
+  particles or unusual decays. These women were largely “invisible” in 
+ that they were not named in research papers and received little reward\, d
+ espite the fact that they were at the forefront of discovery. In this\, th
+ eir story bears some comparison with those of the “Harvard Computers” 
+ – women who analysed astronomical…\n\nDetails: https://www.birmingham.
+ ac.uk/about/college-of-engineering-and-physical-sciences/physics-and-astro
+ nomy/outreach-and-schools-liaison/outreach-for-secondary-schools/iop-publi
+ c-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20261201T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T193000Z
+DTEND:20261201T203000Z
+SUMMARY:Is it a star? Is it a planet? No\, it's a brown dwarf! (Dr Jenni Fr
+ ench)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Jenni French\nInstitute of Physics Public Lecture Series\n\n
+ Brown dwarfs are the Universe’s awkward middle child\, not quite a star\
+ , not quite a planet\, but they are fascinating in their own right. Acting
+  as the intermediary objects between planets and stars\, brown dwarfs have
+  complex atmospheres and act as natural laboratories for a plethora of exo
+ planet science. This talk explores brown dwarfs\, what they are\, how we f
+ ind them\, and why they’re so interesting\, as well as how you can get i
+ nvolved in their discovery.\n\nDetails: https://www.birmingham.ac.uk/about
+ /college-of-engineering-and-physical-sciences/physics-and-astronomy/outrea
+ ch-and-schools-liaison/outreach-for-secondary-schools/iop-public-lecture-s
+ eries
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20270202T1930@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20270202T193000Z
+DTEND:20270202T203000Z
+SUMMARY:Creating the hottest place in the universe: Extreme matter and the 
+ quark-gluon plasma (Dr Martin Volkl)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Martin Volkl\nInstitute of Physics Public Lecture Series\n\n
+ Details: https://www.birmingham.ac.uk/about/college-of-engineering-and-phy
+ sical-sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach
+ -for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR
