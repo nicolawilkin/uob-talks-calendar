@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Weak Boson Scattering at the Large Hadron Collider\, Circa 203
+ 0 and Beyond.
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pp-20261202T1330@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261202T133000Z
+DTEND:20261202T143000Z
+SUMMARY:Weak Boson Scattering at the Large Hadron Collider\, Circa 2030 and
+  Beyond.
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:Particle Physics Seminars\n\nThe Large Hadron Collider (LHC) is
+  a remarkable multipurpose accelerator complex. With a proton-proton cente
+ r-of-mass energy of 14 TeV\, it allows one to study directly\, in a labora
+ tory setting\, the scattering of elementary particles at energies well bey
+ ond the electroweak scale. This include the scattering of two incoming W o
+ r Z bosons\, a process known as "weak boson scattering" or more broadly as
+  "vector boson scattering" (VBS). While long predicted\, these ultra rare 
+ processes were observed for the first time only during Run II and III of t
+ he LHC's operation\, and will be a physics driver of the high-luminosity (
+ HL-LHC) program.In this talk\, I will give a broad overview of the status 
+ and…\n\nDetails: https://indico.global/event/18932/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18932/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Keeping the Troops Mentally Fit\, and Morale High: the Changin
+ g Relationship Between the British Army Welfare Service and the Entertainm
+ ent National Services Association (ENSA) in Italy 1943-46
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:war-20261202T1730@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261202T173000Z
+DTEND:20261202T190000Z
+SUMMARY:Keeping the Troops Mentally Fit\, and Morale High: the Changing Rel
+ ationship Between the British Army Welfare Service and the Entertainment N
+ ational Services Association (ENSA) in Italy 1943-46 (Matt Eaton)
+LOCATION:Arts Building
+DESCRIPTION:Matt Eaton\nWar Studies Seminar\n\nJoin guest speaker Matt Eato
+ n on how British troops were entertained during World War II in a bid to p
+ romote mental health and morality.\n\nDetails: https://www.birmingham.ac.u
+ k/events/keeping-the-troops-mentally-fit-ensa-in-italy-1943-46
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/keeping-the-troops-mentally-fit-ens
+ a-in-italy-1943-46
+END:VEVENT
+END:VCALENDAR

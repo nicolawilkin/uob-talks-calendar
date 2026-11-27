@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:How to have a (decolonial) rock in the family: questioning geo
+ logy\, race and empire
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lapworth-20261015T1800@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261015T170000Z
+DTEND:20261015T190000Z
+SUMMARY:How to have a (decolonial) rock in the family: questioning geology\
+ , race and empire (Professor Kathryn Yusoff.)
+LOCATION:Lapworth Museum
+DESCRIPTION:Professor Kathryn Yusoff.\nLapworth Lectures\n\nJoin us for a s
+ pecial Lapworth Lecture as part of Black History Month with Professor Kath
+ ryn Yusoff.\n\nDetails: https://www.birmingham.ac.uk/events/lapworth-lectu
+ re-how-to-have-a-decolonial-rock-in-the-family-questioning-geology-race-an
+ d-empire
+CATEGORIES:Lapworth Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/lapworth-lecture-how-to-have-a-deco
+ lonial-rock-in-the-family-questioning-geology-race-and-empire
+END:VEVENT
+END:VCALENDAR

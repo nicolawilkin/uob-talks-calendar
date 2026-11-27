@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Invisible Scanners
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20261103T1930@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261103T193000Z
+DTEND:20261103T203000Z
+SUMMARY:The Invisible Scanners (Jim Grozier)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Jim Grozier\nInstitute of Physics Public Lecture Series\n\nThis
+  talk covers a period in the recent history of particle physics (approxima
+ tely the 1960s and 1970s) when the output of particle colliders was in the
+  form of thousands of photographs of bubble chamber events\, and large num
+ bers of relatively unskilled women were brought in to examine and analyse 
+ these photographs in search of patterns which might reveal evidence of new
+  particles or unusual decays. These women were largely “invisible” in 
+ that they were not named in research papers and received little reward\, d
+ espite the fact that they were at the forefront of discovery. In this\, th
+ eir story bears some comparison with those of the “Harvard Computers” 
+ – women who analysed astronomical…\n\nDetails: https://www.birmingham.
+ ac.uk/about/college-of-engineering-and-physical-sciences/physics-and-astro
+ nomy/outreach-and-schools-liaison/outreach-for-secondary-schools/iop-publi
+ c-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR

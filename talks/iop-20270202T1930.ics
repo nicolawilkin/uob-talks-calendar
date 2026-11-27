@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Creating the hottest place in the universe: Extreme matter and
+  the quark-gluon plasma
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20270202T1930@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20270202T193000Z
+DTEND:20270202T203000Z
+SUMMARY:Creating the hottest place in the universe: Extreme matter and the 
+ quark-gluon plasma (Dr Martin Volkl)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Martin Volkl\nInstitute of Physics Public Lecture Series\n\n
+ Details: https://www.birmingham.ac.uk/about/college-of-engineering-and-phy
+ sical-sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach
+ -for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR

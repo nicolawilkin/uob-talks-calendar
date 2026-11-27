@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Is it a star? Is it a planet? No\, it's a brown dwarf!
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20261201T1930@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261201T193000Z
+DTEND:20261201T203000Z
+SUMMARY:Is it a star? Is it a planet? No\, it's a brown dwarf! (Dr Jenni Fr
+ ench)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Jenni French\nInstitute of Physics Public Lecture Series\n\n
+ Brown dwarfs are the Universe’s awkward middle child\, not quite a star\
+ , not quite a planet\, but they are fascinating in their own right. Acting
+  as the intermediary objects between planets and stars\, brown dwarfs have
+  complex atmospheres and act as natural laboratories for a plethora of exo
+ planet science. This talk explores brown dwarfs\, what they are\, how we f
+ ind them\, and why they’re so interesting\, as well as how you can get i
+ nvolved in their discovery.\n\nDetails: https://www.birmingham.ac.uk/about
+ /college-of-engineering-and-physical-sciences/physics-and-astronomy/outrea
+ ch-and-schools-liaison/outreach-for-secondary-schools/iop-public-lecture-s
+ eries
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR

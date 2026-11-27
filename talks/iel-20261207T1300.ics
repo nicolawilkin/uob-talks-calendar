@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:From Transposition to Transplantation of EU Directives: UK Reg
+ ulation of Public Procurement Post-Brexit
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iel-20261207T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261207T130000Z
+DTEND:20261207T140000Z
+SUMMARY:From Transposition to Transplantation of EU Directives: UK Regulati
+ on of Public Procurement Post-Brexit (Professor Luke RA Butler (University
+  of Nottingham))
+LOCATION:Law Building
+DESCRIPTION:Professor Luke RA Butler (University of Nottingham)\nInstitute 
+ of European Law Annual Lecture\n\nJoin guest speaker Professor Luke RA But
+ ler (University of Nottingham) for the latest edition of the Institute of 
+ European Law Annual Lecture 2026.\n\nDetails: https://www.birmingham.ac.uk
+ /events/from-transposition-to-transplantation-of-eu-directives-uk-regulati
+ on-of-public-procurement-post-brexit
+CATEGORIES:Institute of European Law Annual Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/from-transposition-to-transplantati
+ on-of-eu-directives-uk-regulation-of-public-procurement-post-brexit
+END:VEVENT
+END:VCALENDAR

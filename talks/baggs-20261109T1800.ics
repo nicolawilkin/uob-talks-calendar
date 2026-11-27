@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Baggs Memorial Happiness Lecture 2026
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:baggs-20261109T1800@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261109T180000Z
+DTEND:20261109T191500Z
+SUMMARY:The Baggs Memorial Happiness Lecture 2026 (Tim Harford)
+LOCATION:Aston Webb Great Hall
+DESCRIPTION:Tim Harford\nBaggs Memorial Happiness Lecture\n\nTim Harford de
+ livers the 2026 Baggs Memorial Happiness Lecture in its 50th Anniversary y
+ ear.\n\nDetails: https://www.birmingham.ac.uk/events/the-baggs-memorial-ha
+ ppiness-lecture-2026
+CATEGORIES:Baggs Memorial Happiness Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lectur
+ e-2026
+END:VEVENT
+END:VCALENDAR

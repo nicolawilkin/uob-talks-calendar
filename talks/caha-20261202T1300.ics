@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Children of Athena: The armed forces of democratic Athens
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:caha-20261202T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261202T130000Z
+DTEND:20261202T143000Z
+SUMMARY:Children of Athena: The armed forces of democratic Athens (David Pr
+ itchard (Universities of Queensland (Australia) / Edinburgh (Leverhulm))
+LOCATION:Muirhead Tower
+DESCRIPTION:David Pritchard (Universities of Queensland (Australia) / Edinb
+ urgh (Leverhulm)\nClassics\, Ancient History and Archaeology Research Semi
+ nar\n\nWith speaker David Pritchard\, from the Universities of Queensland 
+ (Australia) / Edinburgh (Leverhulme Visiting Professor)\n\nDetails: https:
+ //www.birmingham.ac.uk/events/children-of-athena-the-armed-forces-of-democ
+ ratic-athens
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/children-of-athena-the-armed-forces
+ -of-democratic-athens
+END:VEVENT
+END:VCALENDAR

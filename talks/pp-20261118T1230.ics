@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Timepix4 Beam Telescope
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pp-20261118T1230@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261118T123000Z
+DTEND:20261118T133000Z
+SUMMARY:The Timepix4 Beam Telescope (David Bacher (University of Oxford (GB
+ )))
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:David Bacher (University of Oxford (GB))\nParticle Physics Semi
+ nars\n\nAt the High-Luminosity LHC\, LHCb Upgrade II will record about 25 
+ proton–proton collisions per bunch crossing. At this pile-up\, assigning
+  each heavy-flavour decay to its primary vertex requires full 4D tracking 
+ in the vertex detector\, with a time resolution of about 20 ps per track. 
+ No existing silicon pixel tracker reaches this\, so new sensors and readou
+ t ASICs need years of development and a way to test them with real particl
+ es. To test these prototypes\, the Timepix4 beam telescope at the CERN SPS
+  measures each beam particle precisely in both space and time. Its eight T
+ imepix4 planes predict where the particle crosses the prototype with 2.3 
+ µm precision\, while a common clock system and a…\n\nDetails: https://i
+ ndico.global/event/18930/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18930/
+END:VEVENT
+END:VCALENDAR

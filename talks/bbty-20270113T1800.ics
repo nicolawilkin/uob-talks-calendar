@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bringing Birmingham to You: How Microbes Changed My World
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bbty-20270113T1800@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20270113T180000Z
+DTEND:20270113T190000Z
+SUMMARY:Bringing Birmingham to You: How Microbes Changed My World (Professo
+ r Helen Onyeaka)
+LOCATION:Online
+DESCRIPTION:Professor Helen Onyeaka\nBringing Birmingham to You\n\nWhat rol
+ e do microbes play in creating a more sustainable future? Microbes may be 
+ invisible to the naked eye\, but their impact on our lives is enormous. Di
+ scover how these remarkable living systems are helping researchers tackle 
+ global challenges\, from food security and public health to climate change
+  and sustainability. Join Professor Helen Onyeaka for an inspiring journey
+  through the world of microbiology\, sustainability\, and innovation. From
+  food security and public health to climate action and the circular bioeco
+ nomy\, discover how her internationally recognised research is helping to 
+ address some of the world's most pressing challenges and shape a more sust
+ ainable future. Don't miss…\n\nDetails: https://www.birmingham.ac.uk/eve
+ nts/bringing-birmingham-to-you-how-microbes-changed-my-world-a-journey-in-
+ research-and-innovation
+CATEGORIES:Bringing Birmingham to You
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/bringing-birmingham-to-you-how-micr
+ obes-changed-my-world-a-journey-in-research-and-innovation
+END:VEVENT
+END:VCALENDAR

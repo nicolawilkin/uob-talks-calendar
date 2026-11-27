@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TRIDENT
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pp-20261209T1330@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261209T133000Z
+DTEND:20261209T143000Z
+SUMMARY:TRIDENT (Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao
+  Tong University))
+LOCATION:Small Lecture Theatre (Poynting)
+DESCRIPTION:Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao Tong
+  University)\nParticle Physics Seminars\n\nDetails: https://indico.global/
+ event/18933/
+CATEGORIES:Particle Physics Seminars
+STATUS:CONFIRMED
+URL:https://indico.global/event/18933/
+END:VEVENT
+END:VCALENDAR

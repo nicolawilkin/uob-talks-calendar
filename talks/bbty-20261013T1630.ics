@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bringing Birmingham to You: Dr Huw Macartney
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bbty-20261013T1630@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261013T153000Z
+DTEND:20261013T164500Z
+SUMMARY:Bringing Birmingham to You: Dr Huw Macartney (Dr Huw Macartney)
+LOCATION:Online
+DESCRIPTION:Dr Huw Macartney\nBringing Birmingham to You\n\nJoin Dr Huw Mac
+ artney for a special talk about his new book on the House of Lords\, explo
+ ring elite power and its influence on British government.\n\nDetails: http
+ s://www.birmingham.ac.uk/events/bringing-birmingham-to-you-dr-huw-macartne
+ y
+CATEGORIES:Bringing Birmingham to You
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/bringing-birmingham-to-you-dr-huw-m
+ acartney
+END:VEVENT
+END:VCALENDAR

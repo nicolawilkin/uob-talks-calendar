@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The finitary aspects of Full Ground Local State
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tcs-20261127T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261127T130000Z
+DTEND:20261127T140000Z
+SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij 
+ (University of Edinburgh))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Orpheas van Rooij (University of Edinburgh)\nTheoretical Comput
+ er Science Seminar\n\nFull ground local state (FGLS) refers to dynamically
+  allocated mutable state that allows storing ground values and references.
+  It is a key ingredient in many imperative algorithms as it enables cyclic
+  data structures. In this work\, we focus on one particular denotational m
+ odel for FGLS: Kammar et al.'s possible worlds monad on sets indexed over 
+ sets of locations. We resolve an outstanding question about this FGLS mona
+ d: is it finitary? We show that it is not\, by showing the existence of no
+ n-finitary computations in this monad that are challenging to define in a 
+ terminating language with full ground references. This prompts us to intro
+ duce a finitary submonad of Kammar et al.'s monad\, which…\n\nDetails: h
+ ttps://researchseminars.org/talk/TheoryCSBham/90/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/90/
+END:VEVENT
+END:VCALENDAR

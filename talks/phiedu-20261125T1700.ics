@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Analysis\, synthesis\, and why wisdom might not be for everyon
+ e
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:phiedu-20261125T1700@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261125T170000Z
+DTEND:20261125T183000Z
+SUMMARY:Analysis\, synthesis\, and why wisdom might not be for everyone (Ja
+ mes Brown (University of Birmingham))
+LOCATION:Education Building
+DESCRIPTION:James Brown (University of Birmingham)\nPhilosophy of Education
+  Research Seminars\n\nWith speaker James Brown\, from the University of Bi
+ rmingham.\n\nDetails: https://www.birmingham.ac.uk/events/analysis-synthes
+ is-and-why-wisdom-might-not-be-for-everyone
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/analysis-synthesis-and-why-wisdom-m
+ ight-not-be-for-everyone
+END:VEVENT
+END:VCALENDAR

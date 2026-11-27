@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Institutional and individual virtues: meaningful distinction o
+ r false dichotomy?
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:phiedu-20270120T1700@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20270120T170000Z
+DTEND:20270120T183000Z
+SUMMARY:Institutional and individual virtues: meaningful distinction or fal
+ se dichotomy? (Alex Nikolaidis (University College London))
+LOCATION:Education Building
+DESCRIPTION:Alex Nikolaidis (University College London)\nPhilosophy of Educ
+ ation Research Seminars\n\nWith speaker Alex Nikolaidis\, from University 
+ College London\n\nDetails: https://www.birmingham.ac.uk/events/institution
+ al-and-individual-virtues-meaningful-distinction-or-false-dichotomy
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/institutional-and-individual-virtue
+ s-meaningful-distinction-or-false-dichotomy
+END:VEVENT
+END:VCALENDAR

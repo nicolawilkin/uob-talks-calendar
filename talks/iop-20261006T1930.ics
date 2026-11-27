@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mysteries of matter: new experiments to unpick the nature of d
+ ark matter
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20261006T1930@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261006T183000Z
+DTEND:20261006T193000Z
+SUMMARY:Mysteries of matter: new experiments to unpick the nature of dark m
+ atter (Dr Daniel Johnson)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Daniel Johnson\nInstitute of Physics Public Lecture Series\n
+ \nContrary to its name\, there is nothing hidden about dark matter. It's t
+ here in plain sight\, dramatically changing the way galaxies move and impr
+ inted all over the incredible pictures astronomers take of the cosmos. But
+ \, whilst we know for sure that it is there\, we have no idea what it's ma
+ de of and that makes particle physicists deeply uncomfortable. This evenin
+ g we will explore new methods to tease out truths about the particle ident
+ ity of dark matter\, and how new experiments might soon shed light on this
+  mysterious matter that\, overwhelmingly\, dominates the 'stuff' in the Un
+ iverse.\n\nDetails: https://www.birmingham.ac.uk/about/college-of-engineer
+ ing-and-physical-sciences/physics-and-astronomy/outreach-and-schools-liais
+ on/outreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR

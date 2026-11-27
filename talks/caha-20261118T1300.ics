@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The ARTEMIS archaeological survey: results from year one
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:caha-20261118T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261118T130000Z
+DTEND:20261118T143000Z
+SUMMARY:The ARTEMIS archaeological survey: results from year one (Maeve McH
+ ugh (University of Birmingham))
+LOCATION:Muirhead Tower
+DESCRIPTION:Maeve McHugh (University of Birmingham)\nClassics\, Ancient His
+ tory and Archaeology Research Seminar\n\nWith speaker Maeve McHugh\, from 
+ the University of Birmingham\n\nDetails: https://www.birmingham.ac.uk/even
+ ts/out-of-time-archaeology-temporality-and-truth-on-the-west-coast-of-scot
+ land
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/out-of-time-archaeology-temporality
+ -and-truth-on-the-west-coast-of-scotland
+END:VEVENT
+END:VCALENDAR

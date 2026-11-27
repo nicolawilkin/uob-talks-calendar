@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Compassion or Complicity? Emotional scripts in Diodorus Siculu
+ s
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:caha-20261007T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261007T120000Z
+DTEND:20261007T133000Z
+SUMMARY:Compassion or Complicity? Emotional scripts in Diodorus Siculus (Li
+ sa Hau (University of Glasgow))
+LOCATION:Muirhead Tower
+DESCRIPTION:Lisa Hau (University of Glasgow)\nClassics\, Ancient History an
+ d Archaeology Research Seminar\n\nWith speaker Lisa Hau\, from the Univers
+ ity of Glasgow\n\nDetails: https://www.birmingham.ac.uk/events/compassion-
+ or-complicity-emotional-scripts-in-diodorus-siculus
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/compassion-or-complicity-emotional-
+ scripts-in-diodorus-siculus
+END:VEVENT
+END:VCALENDAR

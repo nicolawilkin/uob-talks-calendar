@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Many-body chaos\, hydrodynamics and horizon symmetries
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tp-20261029T1315@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261029T131500Z
+DTEND:20261029T143000Z
+SUMMARY:Many-body chaos\, hydrodynamics and horizon symmetries (Mike Blake 
+ (Bristol))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Mike Blake (Bristol)\nTheoretical Physics Seminars\n\nDetails: 
+ https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:When the ground moves (and we miss it): what satellites can (a
+ nd can’t) tell us about landslides
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lapworth-20261019T1730@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261019T163000Z
+DTEND:20261019T173000Z
+SUMMARY:When the ground moves (and we miss it): what satellites can (and ca
+ n’t) tell us about landslides (Dr Benedetta Dini)
+LOCATION:Aston Webb Dome & Semi-Circle
+DESCRIPTION:Dr Benedetta Dini\nLapworth Lectures\n\nLapworth Lecture by Dr 
+ Benedetta Dini: When the ground moves (and we miss it): what satellites ca
+ n (and can’t) tell us about landslides.\n\nDetails: https://www.birmingh
+ am.ac.uk/events/lapworth-lecture-dr-benedetta-dini
+CATEGORIES:Lapworth Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/lapworth-lecture-dr-benedetta-dini
+END:VEVENT
+END:VCALENDAR

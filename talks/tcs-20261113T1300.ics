@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Code in the Age of Agents: Bottlenecks\, Languages\, and the N
+ ew Software Reality
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tcs-20261113T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261113T130000Z
+DTEND:20261113T140000Z
+SUMMARY:Code in the Age of Agents: Bottlenecks\, Languages\, and the New So
+ ftware Reality (Dan Ghica (University of Birmingham))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Dan Ghica (University of Birmingham)\nTheoretical Computer Scie
+ nce Seminar\n\nEverything has changed\, and the software engineering lands
+ cape will never look the same. Autonomous coding agents can already produc
+ e vast implementations\, dismantling the long-held assumption that writing
+  code is the primary constraint of software development. As the marginal c
+ ost of code generation becomes negligible\, where does the real bottleneck
+  relocate? Is the new point of friction in comprehension\, review\, and ve
+ rification\, or does the critical challenge move even higher up the stack\
+ , in specification and validation? Furthermore\, agent-generated code diff
+ ers fundamentally from human-written systems in style\, cognitive idioms\,
+  and architectural failure modes (e.g. slop: plausible…\n\nDetails: http
+ s://researchseminars.org/talk/TheoryCSBham/88/
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/88/
+END:VEVENT
+END:VCALENDAR

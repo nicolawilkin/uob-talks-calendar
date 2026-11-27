@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Key findings from Story Choices
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lrn-20261127T1400@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261127T140000Z
+DTEND:20261127T150000Z
+SUMMARY:Key findings from Story Choices (Professor Julia Carroll)
+LOCATION:Education Building
+DESCRIPTION:Professor Julia Carroll\nLiteracy Research Network Seminars\n\n
+ In this Literacy Research Network seminar Professor Julia Carroll discusse
+ s key findings from a recent randomised controlled trial\, the Story Choic
+ es Trial\n\nDetails: https://www.birmingham.ac.uk/events/key-findings-from
+ -story-choices
+CATEGORIES:Literacy Research Network Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/key-findings-from-story-choices
+END:VEVENT
+END:VCALENDAR

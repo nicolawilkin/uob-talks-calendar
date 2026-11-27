@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Debt and Power in the Digital Age
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:bbs-20261119T1730@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261119T173000Z
+DTEND:20261119T190000Z
+SUMMARY:Debt and Power in the Digital Age (Yanis Varoufakis)
+LOCATION:Alan Walters Building
+DESCRIPTION:Yanis Varoufakis\nBusiness School Advisory Board Guest Lecture\
+ n\nThis year the Birmingham Business School Advisory Board invites Yanis V
+ aroufakis to deliver a lecture on Global Economy and Debt in the Digital A
+ ge.\n\nDetails: https://www.birmingham.ac.uk/events/debt-and-power-in-the-
+ digital-age
+CATEGORIES:Business School Advisory Board Guest Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/debt-and-power-in-the-digital-age
+END:VEVENT
+END:VCALENDAR

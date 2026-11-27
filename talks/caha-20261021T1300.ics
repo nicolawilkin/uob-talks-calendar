@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Religion and the citizenship in mid-Republican Rome
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:caha-20261021T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261021T120000Z
+DTEND:20261021T133000Z
+SUMMARY:Religion and the citizenship in mid-Republican Rome (Denis Feeney (
+ Princeton (USA)))
+LOCATION:Nuffield
+DESCRIPTION:Denis Feeney (Princeton (USA))\nClassics\, Ancient History and 
+ Archaeology Research Seminar\n\nWith speaker Denis Feeney\, from Princeton
+  (USA).\n\nDetails: https://www.birmingham.ac.uk/events/religion-and-the-c
+ itizenship-in-mid-republican-rome
+CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/religion-and-the-citizenship-in-mid
+ -republican-rome
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Armed Ethnographers: (Battle)Field Genealogies of American Ant
+ hropology
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:war-20261021T1600@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261021T150000Z
+DTEND:20261021T170000Z
+SUMMARY:Armed Ethnographers: (Battle)Field Genealogies of American Anthropo
+ logy (Oliver Charbonneau)
+LOCATION:Arts Building
+DESCRIPTION:Oliver Charbonneau\nWar Studies Seminar\n\nJoin guest speaker O
+ liver Charbonneau for his talk on ethnographical observations on the battl
+ efield.\n\nDetails: https://www.birmingham.ac.uk/events/armed-ethnographer
+ s-battlefield-genealogies-of-american-anthropology
+CATEGORIES:War Studies Seminar
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/armed-ethnographers-battlefield-gen
+ ealogies-of-american-anthropology
+END:VEVENT
+END:VCALENDAR

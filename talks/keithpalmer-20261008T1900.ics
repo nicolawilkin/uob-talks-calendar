@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Infinite Life
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:keithpalmer-20261008T1900@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261008T180000Z
+DTEND:20261008T193000Z
+SUMMARY:Infinite Life (Jules Howard)
+LOCATION:Shireland Collegiate Academy
+DESCRIPTION:Jules Howard\nKeith Palmer Lecture\n\nProfessor Alice Roberts h
+ osts zoologist Jules Howard as he reveals the extraordinary evolutionary s
+ tory of eggs in a lecture for ages eight and above.\n\nDetails: https://ww
+ w.birmingham.ac.uk/events/keith-palmer-lecture-2026-jules-howard
+CATEGORIES:Keith Palmer Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/keith-palmer-lecture-2026-jules-how
+ ard
+END:VEVENT
+END:VCALENDAR

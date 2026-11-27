@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Title to be announced
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tcs-20261211T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261211T130000Z
+DTEND:20261211T140000Z
+SUMMARY:Title to be announced (Yijun Yu (Open U and Huawei))
+LOCATION:LG23\, Computer Science
+DESCRIPTION:Yijun Yu (Open U and Huawei)\nTheoretical Computer Science Semi
+ nar\n\n: TBA\n\nDetails: https://researchseminars.org/talk/TheoryCSBham/92
+ /
+CATEGORIES:Theoretical Computer Science Seminar
+STATUS:CONFIRMED
+URL:https://researchseminars.org/talk/TheoryCSBham/92/
+END:VEVENT
+END:VCALENDAR

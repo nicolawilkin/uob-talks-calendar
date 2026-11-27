@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Time-evolution of closed\, thermalising quantum systems
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tp-20261015T1315@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261015T121500Z
+DTEND:20261015T133000Z
+SUMMARY:Time-evolution of closed\, thermalising quantum systems (Andrew Gre
+ en (University College London))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Andrew Green (University College London)\nTheoretical Physics S
+ eminars\n\nDetails: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+END:VCALENDAR

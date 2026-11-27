@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Search for Happiness – In Conversation
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:baggs-20261110T1830@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261110T183000Z
+DTEND:20261110T201500Z
+SUMMARY:The Search for Happiness – In Conversation
+LOCATION:The Exchange
+DESCRIPTION:Baggs Memorial Happiness Lecture\n\nHosted by Kathryn Stanczysz
+ yn – UoB Alum\, BBC Presenter & Journalist\n\nDetails: https://www.birmi
+ ngham.ac.uk/events/the-baggs-memorial-happiness-lecture-2026-copy-1
+CATEGORIES:Baggs Memorial Happiness Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lectur
+ e-2026-copy-1
+END:VEVENT
+END:VCALENDAR

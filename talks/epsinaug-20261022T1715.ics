@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:When Materials Meet Life: From Composites and Bioactive Glasse
+ s to Biomaterials and Biological Interfaces
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:epsinaug-20261022T1715@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261022T161500Z
+DTEND:20261022T171500Z
+SUMMARY:When Materials Meet Life: From Composites and Bioactive Glasses to 
+ Biomaterials and Biological Interfaces (Professor Artemis Stamboulis)
+LOCATION:Alan Walters Building
+DESCRIPTION:Professor Artemis Stamboulis\nEPS Inaugural Lecture Series\n\nJ
+ oin Professor Artemis Stamboulis\, Professor of Biomaterials\, as she deli
+ vers her inaugural lecture as part of the EPS Inaugural Lecture series.\n\
+ nDetails: https://www.birmingham.ac.uk/events/inaugural-lecture-of-profess
+ or-artemis-stamboulis
+CATEGORIES:EPS Inaugural Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/inaugural-lecture-of-professor-arte
+ mis-stamboulis
+END:VEVENT
+END:VCALENDAR

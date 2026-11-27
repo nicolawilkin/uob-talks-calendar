@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Unfinished Book: Raphael Samuel and the Making of the English 
+ Uniformed Working Class'.
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:histbook-20261125T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261125T130000Z
+DTEND:20261125T143000Z
+SUMMARY:Unfinished Book: Raphael Samuel and the Making of the English Unifo
+ rmed Working Class'. (Carolyn Steedman)
+LOCATION:Arts Building
+DESCRIPTION:Carolyn Steedman\nDepartment of History book talks\n\nCarolyn S
+ teedman will talk regarding her new research project 'Unfinished Book: Rap
+ hael Samuel and the Making of the English Uniformed Working Class'.\n\nDet
+ ails: https://www.birmingham.ac.uk/events/research-talk-by-carolyn-steedma
+ n-unfinished-book-raphael-samuel-and-the-making-of-the-english-uniformed-w
+ orking-class
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/research-talk-by-carolyn-steedman-u
+ nfinished-book-raphael-samuel-and-the-making-of-the-english-uniformed-work
+ ing-class
+END:VEVENT
+END:VCALENDAR

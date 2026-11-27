@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Code/Body: The Politics of Entrapment
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:emotions-20261112T1530@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261112T153000Z
+DTEND:20261112T163000Z
+SUMMARY:Code/Body: The Politics of Entrapment (Professor Azadeh Akbari)
+LOCATION:Online
+DESCRIPTION:Professor Azadeh Akbari\nOnline seminar series on emotions and 
+ digital technologies\n\nOur fourth seminar\, is entitled Code/Body: The Po
+ litics of Entrapment.\n\nDetails: https://www.birmingham.ac.uk/events/code
+ body-the-politics-of-entrapment
+CATEGORIES:Online seminar series on emotions and digital technologies
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/codebody-the-politics-of-entrapment
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Energy\, entropy and randomness in evolutionary systems
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:epsinaug-20261104T1500@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261104T150000Z
+DTEND:20261104T160000Z
+SUMMARY:Energy\, entropy and randomness in evolutionary systems (Professor 
+ Hong Duong)
+LOCATION:Watson Building
+DESCRIPTION:Professor Hong Duong\nEPS Inaugural Lecture Series\n\nProfessor
+  Hong Duong's promotion celebration and inaugural lecture on interesting a
+ pplications of complex systems theory in the real world.\n\nDetails: https
+ ://www.birmingham.ac.uk/events/energy-entropy-and-randomness-in-evolutiona
+ ry-systems-inaugural-lecture-by-professor-hong-duong
+CATEGORIES:EPS Inaugural Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/energy-entropy-and-randomness-in-ev
+ olutionary-systems-inaugural-lecture-by-professor-hong-duong
+END:VEVENT
+END:VCALENDAR

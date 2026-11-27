@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Unlocking the Secrets of Vietnam’s Past Climate: Insights fr
+ om Stalagmites
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lapworth-20261109T1730@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261109T173000Z
+DTEND:20261109T183000Z
+SUMMARY:Unlocking the Secrets of Vietnam’s Past Climate: Insights from St
+ alagmites (Dr Chloe Riviera)
+LOCATION:Aston Webb Dome & Semi-Circle
+DESCRIPTION:Dr Chloe Riviera\nLapworth Lectures\n\nLapworth Lecture by Dr C
+ hloe Riviera. Unlocking the Secrets of Vietnam’s Past Climate: Insights 
+ from Stalagmites.\n\nDetails: https://www.birmingham.ac.uk/events/lapworth
+ -lecture-unlocking-the-secrets-of-vietnams-past-climate-insights-from-stal
+ agmites
+CATEGORIES:Lapworth Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/lapworth-lecture-unlocking-the-secr
+ ets-of-vietnams-past-climate-insights-from-stalagmites
+END:VEVENT
+END:VCALENDAR

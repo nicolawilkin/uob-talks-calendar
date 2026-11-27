@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:A History of Terrorism in Canada (2026)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:histbook-20261021T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261021T120000Z
+DTEND:20261021T130000Z
+SUMMARY:A History of Terrorism in Canada (2026) (Steve Hewitt)
+LOCATION:
+DESCRIPTION:Steve Hewitt\nDepartment of History book talks\n\nCanada is oft
+ en viewed as a peaceful nation\, yet this book reveals a long and continuo
+ us record of politically and ideologically motivated violence.\n\nDetails:
+  https://www.birmingham.ac.uk/events/book-talk-by-steve-hewitt-a-history-o
+ f-terrorism-in-canada-2026
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/book-talk-by-steve-hewitt-a-history
+ -of-terrorism-in-canada-2026
+END:VEVENT
+END:VCALENDAR

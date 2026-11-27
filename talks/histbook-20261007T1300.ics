@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Afloat: Small Boats\, Swell and Seaspray (2026)
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:histbook-20261007T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261007T120000Z
+DTEND:20261007T133000Z
+SUMMARY:Afloat: Small Boats\, Swell and Seaspray (2026) (David Gange)
+LOCATION:Arts Building
+DESCRIPTION:David Gange\nDepartment of History book talks\n\nJoin David Gan
+ ge on a seabound journey along Atlantic coasts and islands exploring place
+ s and ways of life that have been built on small rowed or paddled boats.\n
+ \nDetails: https://www.birmingham.ac.uk/events/book-talk-david-gange-afloa
+ t-small-boats-swell-and-seaspray-2026
+CATEGORIES:Department of History book talks
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/book-talk-david-gange-afloat-small-
+ boats-swell-and-seaspray-2026
+END:VEVENT
+END:VCALENDAR

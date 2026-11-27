@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Attentiveness in Iris Murdoch’s moral vision: towards a meta
+ physics of pedagogy
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:phiedu-20261021T1700@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261021T160000Z
+DTEND:20261021T173000Z
+SUMMARY:Attentiveness in Iris Murdoch’s moral vision: towards a metaphysi
+ cs of pedagogy (David Halpin (University College London))
+LOCATION:Education Building
+DESCRIPTION:David Halpin (University College London)\nPhilosophy of Educati
+ on Research Seminars\n\nWith speaker David Halpin\, from University Colleg
+ e London\n\nDetails: https://www.birmingham.ac.uk/events/attentiveness-in-
+ iris-murdochs-moral-vision-towards-a-metaphysics-of-pedagogy
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/attentiveness-in-iris-murdochs-mora
+ l-vision-towards-a-metaphysics-of-pedagogy
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spin-orbit physics in two-dimensional semiconductors
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:tp-20261008T1315@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261008T121500Z
+DTEND:20261008T133000Z
+SUMMARY:Spin-orbit physics in two-dimensional semiconductors (Igor Rozhansk
+ iy (Manchester))
+LOCATION:Theory Library\, 4th floor\, Physics East
+DESCRIPTION:Igor Rozhanskiy (Manchester)\nTheoretical Physics Seminars\n\nD
+ etails: https://more.bham.ac.uk/theoretical-physics/talks/
+CATEGORIES:Theoretical Physics Seminars
+STATUS:CONFIRMED
+URL:https://more.bham.ac.uk/theoretical-physics/talks/
+END:VEVENT
+END:VCALENDAR

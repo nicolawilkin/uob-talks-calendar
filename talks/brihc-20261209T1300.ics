@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Working with Photographs and Archives: An Interdisciplinary Vi
+ ew
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:brihc-20261209T1300@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261209T130000Z
+DTEND:20261209T143000Z
+SUMMARY:Working with Photographs and Archives: An Interdisciplinary View (P
+ rofessor Christina Riggs)
+LOCATION:Arts Building
+DESCRIPTION:Professor Christina Riggs\nBRIHC Methodology Lectures\n\nProfes
+ sor Christina Riggs shares her journey into working with historic photogra
+ phs and archives in this BRIHC Methodology lecture.\n\nDetails: https://ww
+ w.birmingham.ac.uk/events/brihc-methodology-lecture-professor-christine-ri
+ ggs-durham-historic-photographs-in-contemporary-culture
+CATEGORIES:BRIHC Methodology Lectures
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/brihc-methodology-lecture-professor
+ -christine-riggs-durham-historic-photographs-in-contemporary-culture
+END:VEVENT
+END:VCALENDAR

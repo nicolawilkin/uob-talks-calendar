@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Digital constitutionalism in action: the experience of the Col
+ ombian Constitutional Court
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:lawannual-20261112T1830@talks.birmingham.prototype
+DTSTAMP:20261127T154303Z
+DTSTART:20261112T183000Z
+DTEND:20261112T194500Z
+SUMMARY:Digital constitutionalism in action: the experience of the Colombia
+ n Constitutional Court
+LOCATION:Bramall Music Building
+DESCRIPTION:Birmingham Law School Annual Lecture\n\nJustice Natalia Ángel 
+ Cabo\, President of the Constitutional Court of Colombia (from 2027)\, giv
+ es the second Birmingham Law School annual lecture.\n\nDetails: https://ww
+ w.birmingham.ac.uk/events/birmingham-law-school-annual-lecture-2026
+CATEGORIES:Birmingham Law School Annual Lecture
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/birmingham-law-school-annual-lectur
+ e-2026
+END:VEVENT
+END:VCALENDAR
