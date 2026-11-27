@@ -10,15 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:cpa-20261119T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261119T130000Z
 DTEND:20261119T140000Z
 SUMMARY:Uses of AI to prove and refute some of my conjectures in spectral g
- raph theory (Clive Elphick (University of Birmingham))
+ raph theory (Clive Elphick)
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Clive Elphick (University of Birmingham)\nCombinatorics\, Proba
- bility and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/b
- irmingham/combinatorics-seminars.html
+DESCRIPTION:Clive Elphick\nCombinatorics\, Probability and Algorithms Semin
+ ar\n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-sem
+ inars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html

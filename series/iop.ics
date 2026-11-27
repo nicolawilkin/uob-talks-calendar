@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:iop-20261006T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261006T183000Z
 DTEND:20261006T193000Z
 SUMMARY:Mysteries of matter: new experiments to unpick the nature of dark m
@@ -36,7 +36,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261103T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261103T193000Z
 DTEND:20261103T203000Z
 SUMMARY:The Invisible Scanners (Jim Grozier)
@@ -63,7 +63,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261201T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T193000Z
 DTEND:20261201T203000Z
 SUMMARY:Is it a star? Is it a planet? No\, it's a brown dwarf! (Dr Jenni Fr
@@ -88,7 +88,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20270202T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20270202T193000Z
 DTEND:20270202T203000Z
 SUMMARY:Creating the hottest place in the universe: Extreme matter and the 
@@ -98,6 +98,58 @@ DESCRIPTION:Dr Martin Volkl\nInstitute of Physics Public Lecture Series\n\n
  Details: https://www.birmingham.ac.uk/about/college-of-engineering-and-phy
  sical-sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach
  -for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20270302T1930@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270302T193000Z
+DTEND:20270302T203000Z
+SUMMARY:Seeing the invisible: Using light as a tool of discovery (Dr George
+  Smetana)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr George Smetana\nInstitute of Physics Public Lecture Series\n
+ \nThe human body is a surprisingly good instrument for scientific discover
+ y\, with our senses able to act as probes of the physics going on all arou
+ nd us. However\, over time we've reached the limit of our experience livin
+ g at an 'average' scale - too big to easily experience quantum phenomena a
+ nd too small to comprehend the workings of the universe on cosmic scales. 
+ We've developed tools to help us\, and the detection and manipulation of l
+ ight has become one of the most important ones. I will share with you some
+  of the surprising ways that we can use light in modern physics\, even to 
+ detect the invisible.\n\nDetails: https://www.birmingham.ac.uk/about/colle
+ ge-of-engineering-and-physical-sciences/physics-and-astronomy/outreach-and
+ -schools-liaison/outreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20270413T1930@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270413T183000Z
+DTEND:20270413T193000Z
+SUMMARY:How to Film the Life of an Electron (Dr Tom Siday)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Tom Siday\nInstitute of Physics Public Lecture Series\n\nEv
+ erything around you — your phone\, solar panels\, computers\, the screen
+  you're reading this on — works because of electrons zipping around insi
+ de materials. But catching them in the act is absurdly hard: they move in 
+ millionths of a billionth of a second\, across distances smaller than a si
+ ngle atom. No ordinary camera comes close.In this talk\, I'll show how we 
+ are building what amounts to the world's fastest and best-resolved camera\
+ , using some of the shortest possible flashes of light to photograph matte
+ r atom by atom at their native timescales. We're getting close to a long-s
+ tanding dream: recording real-time movies of the fastest processes in natu
+ re.\n\nDetails: https://www.birmingham.ac.uk/about/college-of-engineering-
+ and-physical-sciences/physics-and-astronomy/outreach-and-schools-liaison/o
+ utreach-for-secondary-schools/iop-public-lecture-series
 CATEGORIES:Institute of Physics Public Lecture Series
 STATUS:CONFIRMED
 URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-

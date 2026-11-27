@@ -9,139 +9,127 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:am-20260929T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20260929T120000Z
 DTEND:20260929T130000Z
 SUMMARY:Imprecise Probabilistic Machine Learning: Being Precise about Impre
- cision (Michele Caprio (University of Warwick))
+ cision (Michele Caprio)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Michele Caprio (University of Warwick)\nApplied Mathematics Sem
- inar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminar
- s.html
+DESCRIPTION:Michele Caprio\nApplied Mathematics Seminar\n\nDetails: https:/
+ /seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261006T1200@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261006T110000Z
 DTEND:20261006T120000Z
-SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh (University of Bi
- rmingham))
+SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh)
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Jack Binysh (University of Birmingham)\nApplied Mathematics Sem
- inar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminar
- s.html
+DESCRIPTION:Jack Binysh\nApplied Mathematics Seminar\n\nDetails: https://se
+ minars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261020T1200@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261020T110000Z
 DTEND:20261020T120000Z
 SUMMARY:Contact Transfer of Liquids Between Impermeable Rigid Surfaces (Geo
- rge Fortune (University of Cambridge))
+ rge Fortune)
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:George Fortune (University of Cambridge)\nApplied Mathematics S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
- ars.html
+DESCRIPTION:George Fortune\nApplied Mathematics Seminar\n\nDetails: https:/
+ /seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261027T1100@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261027T110000Z
 DTEND:20261027T120000Z
 SUMMARY:Modelling accumulation of antimicrobials in bacterial cells (Sandee
- p Shirgill (University of Birmingham))
+ p Shirgill)
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Sandeep Shirgill (University of Birmingham)\nApplied Mathematic
- s Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-se
- minars.html
+DESCRIPTION:Sandeep Shirgill\nApplied Mathematics Seminar\n\nDetails: https
+ ://seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261103T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-SUMMARY:Title to be announced (Sabina Sloman (University of Birmingham))
+SUMMARY:Title to be announced (Sabina Sloman)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Sabina Sloman (University of Birmingham)\nApplied Mathematics S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
- ars.html
+DESCRIPTION:Sabina Sloman\nApplied Mathematics Seminar\n\nDetails: https://
+ seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261109T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
-SUMMARY:Title to be announced (Eugene Feinberg (Stony Brook University))
+SUMMARY:Title to be announced (Eugene Feinberg)
 LOCATION:Location: TBA
-DESCRIPTION:Eugene Feinberg (Stony Brook University)\nApplied Mathematics S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
- ars.html
+DESCRIPTION:Eugene Feinberg\nApplied Mathematics Seminar\n\nDetails: https:
+ //seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261110T1100@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261110T110000Z
 DTEND:20261110T120000Z
-SUMMARY:Chance and dance with cells’ power plants (Iain Johnston (Univers
- ity of Bergen))
+SUMMARY:Chance and dance with cells’ power plants (Iain Johnston)
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Iain Johnston (University of Bergen)\nApplied Mathematics Semin
- ar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminars.
- html
+DESCRIPTION:Iain Johnston\nApplied Mathematics Seminar\n\nDetails: https://
+ seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261117T1200@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261117T120000Z
 DTEND:20261117T130000Z
-SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio (Univers
- ity of Glasgow))
+SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Hannah-May D'Ambrosio (University of Glasgow)\nApplied Mathemat
- ics Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-
- seminars.html
+DESCRIPTION:Hannah-May D'Ambrosio\nApplied Mathematics Seminar\n\nDetails: 
+ https://seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261208T1200@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261208T120000Z
 DTEND:20261208T130000Z
-SUMMARY:Title to be announced (Cara V. Neal (University College London))
+SUMMARY:Title to be announced (Cara V. Neal)
 LOCATION:Arts\, Lecture Room 201
-DESCRIPTION:Cara V. Neal (University College London)\nApplied Mathematics S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
- ars.html
+DESCRIPTION:Cara V. Neal\nApplied Mathematics Seminar\n\nDetails: https://s
+ eminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261001T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261001T121500Z
 DTEND:20261001T133000Z
 SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh (Birmingham Mecha
@@ -156,7 +144,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261008T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261008T121500Z
 DTEND:20261008T133000Z
 SUMMARY:Spin-orbit physics in two-dimensional semiconductors (Igor Rozhansk
@@ -170,7 +158,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261015T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261015T121500Z
 DTEND:20261015T133000Z
 SUMMARY:Time-evolution of closed\, thermalising quantum systems (Andrew Gre
@@ -184,7 +172,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261029T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261029T131500Z
 DTEND:20261029T143000Z
 SUMMARY:Many-body chaos\, hydrodynamics and horizon symmetries (Mike Blake 
@@ -198,7 +186,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261111T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T131500Z
 DTEND:20261111T143000Z
 SUMMARY:Exact spectral integrability of a finite-channel random Schrödinge
@@ -213,7 +201,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261112T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261112T131500Z
 DTEND:20261112T143000Z
 SUMMARY:Magnetic monopoles (Paul Sutcliffe (Durham))
@@ -226,7 +214,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261119T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261119T131500Z
 DTEND:20261119T143000Z
 SUMMARY:Operator growth dynamics and the hardness of approximate counterdia
@@ -240,7 +228,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261126T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261126T131500Z
 DTEND:20261126T143000Z
 SUMMARY:Quantum memory advantages for stochastic modelling: A tensor networ
@@ -254,7 +242,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261002T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261002T120000Z
 DTEND:20261002T130000Z
 SUMMARY:On the Coalgebraic Linear-Time Semantics of Two-Player Games (Ben P
@@ -278,7 +266,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/84/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261023T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261023T120000Z
 DTEND:20261023T130000Z
 SUMMARY:Semantics and intermediate representations of probabilistic program
@@ -302,7 +290,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/85/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261030T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
 SUMMARY:Handlers of Parametrised Algebraic Theories (Jack Liell-Cock (Unive
@@ -326,7 +314,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/86/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261106T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
 SUMMARY:My thoughts on AI and security (Mark Ryan (University of Birmingham
@@ -350,7 +338,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/87/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261113T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261113T130000Z
 DTEND:20261113T140000Z
 SUMMARY:Code in the Age of Agents: Bottlenecks\, Languages\, and the New So
@@ -374,7 +362,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/88/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261120T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261120T130000Z
 DTEND:20261120T140000Z
 SUMMARY:Space-Efficient Hierholzer (Ziad Ismaili  Alaoui (University of Liv
@@ -398,7 +386,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/89/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261127T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261127T130000Z
 DTEND:20261127T140000Z
 SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij 
@@ -422,7 +410,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/90/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261204T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261204T130000Z
 DTEND:20261204T140000Z
 SUMMARY:Algebraically free Markov chains (Paolo Perrone (University of Oxfo
@@ -446,7 +434,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/91/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261211T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261211T130000Z
 DTEND:20261211T140000Z
 SUMMARY:Title to be announced (Yijun Yu (Open U and Huawei))
@@ -460,172 +448,158 @@ URL:https://researchseminars.org/talk/TheoryCSBham/92/
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261006T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261006T120000Z
 DTEND:20261006T130000Z
 SUMMARY:Modelling Spatio-Temporal Variation in Neglected Tropical Disease P
  revalence Under Mass Drug Administration: A Geostatistical Approach (Claud
- io Fronterre (University of Birmingham))
+ io Fronterre)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Claudio Fronterre (University of Birmingham)\nStatistics and Da
- ta Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/s
- ds-seminars.html
+DESCRIPTION:Claudio Fronterre\nStatistics and Data Science Seminar\n\nDetai
+ ls: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261027T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261027T130000Z
 DTEND:20261027T140000Z
-SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan 
- (University of Oxford))
+SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Gavin Kerrigan (University of Oxford)\nStatistics and Data Scie
- nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
- nars.html
+DESCRIPTION:Gavin Kerrigan\nStatistics and Data Science Seminar\n\nDetails:
+  https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261109T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
 SUMMARY:Dynamically Augmented CVaR for Markov Decision Processes (Eugene Fe
- inberg (Stony Brook University))
+ inberg)
 LOCATION:Watson Building\, Lecture Theatre B
-DESCRIPTION:Eugene Feinberg (Stony Brook University)\nStatistics and Data S
- cience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-s
- eminars.html
+DESCRIPTION:Eugene Feinberg\nStatistics and Data Science Seminar\n\nDetails
+ : https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261117T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261117T130000Z
 DTEND:20261117T140000Z
 SUMMARY:Robust and Conservative Neural Simulation-based inference (Harita D
- ellaporta (University College London))
+ ellaporta)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Harita Dellaporta (University College London)\nStatistics and D
- ata Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/
- sds-seminars.html
+DESCRIPTION:Harita Dellaporta\nStatistics and Data Science Seminar\n\nDetai
+ ls: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261124T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261124T130000Z
 DTEND:20261124T140000Z
 SUMMARY:Learning noisy cellular molecular dynamics with uncertainty-aware m
- achine learning (Mingtao Xia (University of Birmingham))
+ achine learning (Mingtao Xia)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Mingtao Xia (University of Birmingham)\nStatistics and Data Sci
- ence Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-sem
- inars.html
+DESCRIPTION:Mingtao Xia\nStatistics and Data Science Seminar\n\nDetails: ht
+ tps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T130000Z
 DTEND:20261201T134500Z
 SUMMARY:Functional Data Analysis Beyond Curves: Methods and Applications to
-  Brain Imaging (Haiyan Liu (University of Leeds))
+  Brain Imaging (Haiyan Liu)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Haiyan Liu (University of Leeds)\nStatistics and Data Science S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.
- html
+DESCRIPTION:Haiyan Liu\nStatistics and Data Science Seminar\n\nDetails: htt
+ ps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1345@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T134500Z
 DTEND:20261201T143000Z
 SUMMARY:Computation-aware Gaussian Process Inference: Calibration and Imple
- mentation (Disha Hegde (Lancaster University))
+ mentation (Disha Hegde)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Disha Hegde (Lancaster University)\nStatistics and Data Science
-  Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminar
- s.html
+DESCRIPTION:Disha Hegde\nStatistics and Data Science Seminar\n\nDetails: ht
+ tps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1500@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T150000Z
 DTEND:20261201T154500Z
 SUMMARY:Sharp Contraction Bounds for Kinetic MCMC Samplers in the Log-Conca
- ve Setting (Sam Power (University of Bristol))
+ ve Setting (Sam Power)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Sam Power (University of Bristol)\nStatistics and Data Science 
- Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars
- .html
+DESCRIPTION:Sam Power\nStatistics and Data Science Seminar\n\nDetails: http
+ s://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1545@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T154500Z
 DTEND:20261201T163000Z
-SUMMARY:Data-informed Modelling for Sheep Scab Control (Emily Nixon (Univer
- sity of Liverpool))
+SUMMARY:Data-informed Modelling for Sheep Scab Control (Emily Nixon)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Emily Nixon (University of Liverpool)\nStatistics and Data Scie
- nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
- nars.html
+DESCRIPTION:Emily Nixon\nStatistics and Data Science Seminar\n\nDetails: ht
+ tps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261208T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261208T130000Z
 DTEND:20261208T140000Z
-SUMMARY:Title to be announced (Jens Christian Claussen (University of Birmi
- ngham))
+SUMMARY:Title to be announced (Jens Christian Claussen)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Jens Christian Claussen (University of Birmingham)\nStatistics 
- and Data Science Seminar\n\nDetails: https://seminars.mathpages.org/birmin
- gham/sds-seminars.html
+DESCRIPTION:Jens Christian Claussen\nStatistics and Data Science Seminar\n\
+ nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261215T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261215T130000Z
 DTEND:20261215T140000Z
-SUMMARY:Title to be announced (Shenggang Hu (University of Birmingham))
+SUMMARY:Title to be announced (Shenggang Hu)
 LOCATION:Watson Building\, Lecture Theatre B
-DESCRIPTION:Shenggang Hu (University of Birmingham)\nStatistics and Data Sc
- ience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-se
- minars.html
+DESCRIPTION:Shenggang Hu\nStatistics and Data Science Seminar\n\nDetails: h
+ ttps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261006T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261006T183000Z
 DTEND:20261006T193000Z
 SUMMARY:Mysteries of matter: new experiments to unpick the nature of dark m
@@ -651,7 +625,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261103T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261103T193000Z
 DTEND:20261103T203000Z
 SUMMARY:The Invisible Scanners (Jim Grozier)
@@ -678,7 +652,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261201T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T193000Z
 DTEND:20261201T203000Z
 SUMMARY:Is it a star? Is it a planet? No\, it's a brown dwarf! (Dr Jenni Fr
@@ -703,7 +677,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20270202T1930@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20270202T193000Z
 DTEND:20270202T203000Z
 SUMMARY:Creating the hottest place in the universe: Extreme matter and the 
@@ -720,8 +694,60 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
  econdary-schools/iop-public-lecture-series
 END:VEVENT
 BEGIN:VEVENT
+UID:iop-20270302T1930@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270302T193000Z
+DTEND:20270302T203000Z
+SUMMARY:Seeing the invisible: Using light as a tool of discovery (Dr George
+  Smetana)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr George Smetana\nInstitute of Physics Public Lecture Series\n
+ \nThe human body is a surprisingly good instrument for scientific discover
+ y\, with our senses able to act as probes of the physics going on all arou
+ nd us. However\, over time we've reached the limit of our experience livin
+ g at an 'average' scale - too big to easily experience quantum phenomena a
+ nd too small to comprehend the workings of the universe on cosmic scales. 
+ We've developed tools to help us\, and the detection and manipulation of l
+ ight has become one of the most important ones. I will share with you some
+  of the surprising ways that we can use light in modern physics\, even to 
+ detect the invisible.\n\nDetails: https://www.birmingham.ac.uk/about/colle
+ ge-of-engineering-and-physical-sciences/physics-and-astronomy/outreach-and
+ -schools-liaison/outreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
+UID:iop-20270413T1930@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270413T183000Z
+DTEND:20270413T193000Z
+SUMMARY:How to Film the Life of an Electron (Dr Tom Siday)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Tom Siday\nInstitute of Physics Public Lecture Series\n\nEv
+ erything around you — your phone\, solar panels\, computers\, the screen
+  you're reading this on — works because of electrons zipping around insi
+ de materials. But catching them in the act is absurdly hard: they move in 
+ millionths of a billionth of a second\, across distances smaller than a si
+ ngle atom. No ordinary camera comes close.In this talk\, I'll show how we 
+ are building what amounts to the world's fastest and best-resolved camera\
+ , using some of the shortest possible flashes of light to photograph matte
+ r atom by atom at their native timescales. We're getting close to a long-s
+ tanding dream: recording real-time movies of the fastest processes in natu
+ re.\n\nDetails: https://www.birmingham.ac.uk/about/college-of-engineering-
+ and-physical-sciences/physics-and-astronomy/outreach-and-schools-liaison/o
+ utreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+BEGIN:VEVENT
 UID:caha-20261007T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261007T120000Z
 DTEND:20261007T133000Z
 SUMMARY:Compassion or Complicity? Emotional scripts in Diodorus Siculus (Li
@@ -738,7 +764,7 @@ URL:https://www.birmingham.ac.uk/events/compassion-or-complicity-emotional-
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261021T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T120000Z
 DTEND:20261021T133000Z
 SUMMARY:Religion and the citizenship in mid-Republican Rome (Denis Feeney (
@@ -755,7 +781,7 @@ URL:https://www.birmingham.ac.uk/events/religion-and-the-citizenship-in-mid
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261111T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:Portraits of Hybridity? Exploring elite identity in Roman Egypt thr
@@ -774,7 +800,7 @@ URL:https://www.birmingham.ac.uk/events/portraits-of-hybridity-exploring-el
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261111T1300-2@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:Cancelled: Decreation and Iphigenia at Aulis: A Decolonial Inquiry 
@@ -791,7 +817,7 @@ URL:https://www.birmingham.ac.uk/events/decreation-and-iphigenia-at-aulis-a
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261118T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T130000Z
 DTEND:20261118T143000Z
 SUMMARY:The ARTEMIS archaeological survey: results from year one (Maeve McH
@@ -809,7 +835,7 @@ URL:https://www.birmingham.ac.uk/events/out-of-time-archaeology-temporality
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261202T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T130000Z
 DTEND:20261202T143000Z
 SUMMARY:Children of Athena: The armed forces of democratic Athens (David Pr
@@ -828,7 +854,7 @@ URL:https://www.birmingham.ac.uk/events/children-of-athena-the-armed-forces
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261007T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261007T120000Z
 DTEND:20261007T133000Z
 SUMMARY:Afloat: Small Boats\, Swell and Seaspray (2026) (David Gange)
@@ -845,7 +871,7 @@ URL:https://www.birmingham.ac.uk/events/book-talk-david-gange-afloat-small-
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261021T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T120000Z
 DTEND:20261021T130000Z
 SUMMARY:A History of Terrorism in Canada (2026) (Steve Hewitt)
@@ -862,7 +888,7 @@ URL:https://www.birmingham.ac.uk/events/book-talk-by-steve-hewitt-a-history
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261111T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:Treaty Ground: Diplomacy and the Politics of Sovereignty\, from Roa
@@ -881,7 +907,7 @@ URL:https://www.birmingham.ac.uk/events/book-talk-by-charles-prior-treaty-g
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261125T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261125T130000Z
 DTEND:20261125T143000Z
 SUMMARY:Unfinished Book: Raphael Samuel and the Making of the English Unifo
@@ -901,7 +927,7 @@ URL:https://www.birmingham.ac.uk/events/research-talk-by-carolyn-steedman-u
 END:VEVENT
 BEGIN:VEVENT
 UID:keithpalmer-20261008T1900@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261008T180000Z
 DTEND:20261008T193000Z
 SUMMARY:Infinite Life (Jules Howard)
@@ -917,7 +943,7 @@ URL:https://www.birmingham.ac.uk/events/keith-palmer-lecture-2026-jules-how
 END:VEVENT
 BEGIN:VEVENT
 UID:bbty-20261013T1630@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261013T153000Z
 DTEND:20261013T164500Z
 SUMMARY:Bringing Birmingham to You: Dr Huw Macartney (Dr Huw Macartney)
@@ -934,7 +960,7 @@ URL:https://www.birmingham.ac.uk/events/bringing-birmingham-to-you-dr-huw-m
 END:VEVENT
 BEGIN:VEVENT
 UID:bbty-20270113T1800@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20270113T180000Z
 DTEND:20270113T190000Z
 SUMMARY:Bringing Birmingham to You: How Microbes Changed My World (Professo
@@ -960,7 +986,7 @@ URL:https://www.birmingham.ac.uk/events/bringing-birmingham-to-you-how-micr
 END:VEVENT
 BEGIN:VEVENT
 UID:imh-20261014T1230@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261014T113000Z
 DTEND:20261014T123000Z
 SUMMARY:Why place matters: Understanding and tackling rural mental health i
@@ -978,7 +1004,7 @@ URL:https://www.birmingham.ac.uk/events/institute-for-mental-health-seminar
 END:VEVENT
 BEGIN:VEVENT
 UID:lapworth-20261015T1800@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261015T170000Z
 DTEND:20261015T190000Z
 SUMMARY:How to have a (decolonial) rock in the family: questioning geology\
@@ -996,7 +1022,7 @@ URL:https://www.birmingham.ac.uk/events/lapworth-lecture-how-to-have-a-deco
 END:VEVENT
 BEGIN:VEVENT
 UID:lapworth-20261019T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261019T163000Z
 DTEND:20261019T173000Z
 SUMMARY:When the ground moves (and we miss it): what satellites can (and ca
@@ -1012,7 +1038,7 @@ URL:https://www.birmingham.ac.uk/events/lapworth-lecture-dr-benedetta-dini
 END:VEVENT
 BEGIN:VEVENT
 UID:lapworth-20261109T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261109T173000Z
 DTEND:20261109T183000Z
 SUMMARY:Unlocking the Secrets of Vietnam’s Past Climate: Insights from St
@@ -1030,7 +1056,7 @@ URL:https://www.birmingham.ac.uk/events/lapworth-lecture-unlocking-the-secr
 END:VEVENT
 BEGIN:VEVENT
 UID:chasm-20261020T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261020T120000Z
 DTEND:20261020T130000Z
 SUMMARY:CHASM seminar: Life beyond work
@@ -1045,7 +1071,7 @@ URL:https://www.birmingham.ac.uk/events/chasm-seminar-life-beyond-work
 END:VEVENT
 BEGIN:VEVENT
 UID:chasm-20261124T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261124T130000Z
 DTEND:20261124T140000Z
 SUMMARY:CHASM research webinar: Across the threshold (Farhana Ghaffar (Univ
@@ -1063,7 +1089,7 @@ URL:https://www.birmingham.ac.uk/events/chasm-research-webinar-across-the-t
 END:VEVENT
 BEGIN:VEVENT
 UID:dasa-20261021T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T120000Z
 DTEND:20261021T133000Z
 SUMMARY:Expense the maids but not chairs: Deductible logics in comparative 
@@ -1081,7 +1107,7 @@ URL:https://www.birmingham.ac.uk/events/expense-the-maids-but-not-chairs-de
 END:VEVENT
 BEGIN:VEVENT
 UID:dasa-20261118T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T130000Z
 DTEND:20261118T143000Z
 SUMMARY:Gilded Time: Boom-bust subjectivities in informal gold mining econo
@@ -1099,7 +1125,7 @@ URL:https://www.birmingham.ac.uk/events/gilded-time-boom-bust-subjectivitie
 END:VEVENT
 BEGIN:VEVENT
 UID:dasa-20261202T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T130000Z
 DTEND:20261202T143000Z
 SUMMARY:Counternarratives of West African Visual Artists’ migration to Br
@@ -1117,7 +1143,7 @@ URL:https://www.birmingham.ac.uk/events/counternarratives-of-west-african-v
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261021T1600@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T150000Z
 DTEND:20261021T170000Z
 SUMMARY:Armed Ethnographers: (Battle)Field Genealogies of American Anthropo
@@ -1134,7 +1160,7 @@ URL:https://www.birmingham.ac.uk/events/armed-ethnographers-battlefield-gen
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261111T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:War\, Peace\, and the Conferences of Mudanya and Lausanne\, 1922-23
@@ -1150,7 +1176,7 @@ URL:https://www.birmingham.ac.uk/events/war-peace-conferences-mudanya-lausa
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261118T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T173000Z
 DTEND:20261118T190000Z
 SUMMARY:A Theory of War (Jim Storr)
@@ -1164,7 +1190,7 @@ URL:https://www.birmingham.ac.uk/events/a-theory-of-war
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261202T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T173000Z
 DTEND:20261202T190000Z
 SUMMARY:Keeping the Troops Mentally Fit\, and Morale High: the Changing Rel
@@ -1182,7 +1208,7 @@ URL:https://www.birmingham.ac.uk/events/keeping-the-troops-mentally-fit-ens
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20261021T1700@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T160000Z
 DTEND:20261021T173000Z
 SUMMARY:Attentiveness in Iris Murdoch’s moral vision: towards a metaphysi
@@ -1199,7 +1225,7 @@ URL:https://www.birmingham.ac.uk/events/attentiveness-in-iris-murdochs-mora
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20261125T1700@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261125T170000Z
 DTEND:20261125T183000Z
 SUMMARY:Analysis\, synthesis\, and why wisdom might not be for everyone (Ja
@@ -1216,7 +1242,7 @@ URL:https://www.birmingham.ac.uk/events/analysis-synthesis-and-why-wisdom-m
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20270120T1700@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20270120T170000Z
 DTEND:20270120T183000Z
 SUMMARY:Institutional and individual virtues: meaningful distinction or fal
@@ -1232,53 +1258,89 @@ URL:https://www.birmingham.ac.uk/events/institutional-and-individual-virtue
  s-meaningful-distinction-or-false-dichotomy
 END:VEVENT
 BEGIN:VEVENT
+UID:phiedu-20270224T1700@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270224T170000Z
+DTEND:20270224T183000Z
+SUMMARY:The putative quality of education: the privatisation of the desire 
+ to know (Henrique Lima (University of Sao Paulo\, Brazil))
+LOCATION:Education Building
+DESCRIPTION:Henrique Lima (University of Sao Paulo\, Brazil)\nPhilosophy of
+  Education Research Seminars\n\nWith speaker Henrique Lima\, from the Univ
+ ersity of Sao Paulo\, Brazil\n\nDetails: https://www.birmingham.ac.uk/even
+ ts/the-putative-quality-of-education-the-privatisation-of-the-desire-to-kn
+ ow
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-putative-quality-of-education-t
+ he-privatisation-of-the-desire-to-know
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20270331T1700@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270331T160000Z
+DTEND:20270331T173000Z
+SUMMARY:The art of covert no-saying: a new typology of educational resistan
+ ce (Jason Cong Lin (Education\, University of Hong Kong))
+LOCATION:Education Building
+DESCRIPTION:Jason Cong Lin (Education\, University of Hong Kong)\nPhilosoph
+ y of Education Research Seminars\n\nWith speaker Jason Cong Lin\, from Edu
+ cation\, University of Hong Kong\n\nDetails: https://www.birmingham.ac.uk/
+ events/the-art-of-covert-no-saying-a-new-typology-of-educational-resistanc
+ e
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-art-of-covert-no-saying-a-new-t
+ ypology-of-educational-resistance
+END:VEVENT
+BEGIN:VEVENT
 UID:cpa-20261022T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261022T120000Z
 DTEND:20261022T125000Z
 SUMMARY:Off-giant Criticality in the Mean-field Arboreal Gas (Tyler Helmuth
-  (Durham University))
+ )
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Tyler Helmuth (Durham University)\nCombinatorics\, Probability 
- and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/birmingh
- am/combinatorics-seminars.html
+DESCRIPTION:Tyler Helmuth\nCombinatorics\, Probability and Algorithms Semin
+ ar\n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-sem
+ inars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpa-20261112T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261112T130000Z
 DTEND:20261112T140000Z
 SUMMARY:The maximum edge density of hypergraphs without tight cycles (Jared
-  León (University of Warwick))
+  León)
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Jared León (University of Warwick)\nCombinatorics\, Probabilit
- y and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/birmin
- gham/combinatorics-seminars.html
+DESCRIPTION:Jared León\nCombinatorics\, Probability and Algorithms Seminar
+ \n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-semin
+ ars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpa-20261119T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261119T130000Z
 DTEND:20261119T140000Z
 SUMMARY:Uses of AI to prove and refute some of my conjectures in spectral g
- raph theory (Clive Elphick (University of Birmingham))
+ raph theory (Clive Elphick)
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Clive Elphick (University of Birmingham)\nCombinatorics\, Proba
- bility and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/b
- irmingham/combinatorics-seminars.html
+DESCRIPTION:Clive Elphick\nCombinatorics\, Probability and Algorithms Semin
+ ar\n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-sem
+ inars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:epsinaug-20261022T1715@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261022T161500Z
 DTEND:20261022T171500Z
 SUMMARY:When Materials Meet Life: From Composites and Bioactive Glasses to 
@@ -1296,7 +1358,7 @@ URL:https://www.birmingham.ac.uk/events/inaugural-lecture-of-professor-arte
 END:VEVENT
 BEGIN:VEVENT
 UID:epsinaug-20261104T1500@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261104T150000Z
 DTEND:20261104T160000Z
 SUMMARY:Energy\, entropy and randomness in evolutionary systems (Professor 
@@ -1314,7 +1376,7 @@ URL:https://www.birmingham.ac.uk/events/energy-entropy-and-randomness-in-ev
 END:VEVENT
 BEGIN:VEVENT
 UID:emotions-20261028T0830@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261028T083000Z
 DTEND:20261028T093000Z
 SUMMARY:Intuitions: Affective Histories of the Future of Computing (Profess
@@ -1331,7 +1393,7 @@ URL:https://www.birmingham.ac.uk/events/digital-emotional-governance
 END:VEVENT
 BEGIN:VEVENT
 UID:emotions-20261112T1530@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261112T153000Z
 DTEND:20261112T163000Z
 SUMMARY:Code/Body: The Politics of Entrapment (Professor Azadeh Akbari)
@@ -1346,7 +1408,7 @@ URL:https://www.birmingham.ac.uk/events/codebody-the-politics-of-entrapment
 END:VEVENT
 BEGIN:VEVENT
 UID:bzcl-20261104T1830@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261104T183000Z
 DTEND:20261104T203000Z
 SUMMARY:Benjamin Zephaniah Community Lecture (Afua Hirsch)
@@ -1362,7 +1424,7 @@ URL:https://www.birmingham.ac.uk/events/benjamin-zephaniah-community-lectur
 END:VEVENT
 BEGIN:VEVENT
 UID:brainhealth-20261106T1500@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261106T150000Z
 DTEND:20261106T160000Z
 SUMMARY:Are people still smarter than machines? (Professor Jay McClelland)
@@ -1378,7 +1440,7 @@ URL:https://www.birmingham.ac.uk/events/birmingham-lectures-in-human-brain-
 END:VEVENT
 BEGIN:VEVENT
 UID:baggs-20261109T1800@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261109T180000Z
 DTEND:20261109T191500Z
 SUMMARY:The Baggs Memorial Happiness Lecture 2026 (Tim Harford)
@@ -1394,7 +1456,7 @@ URL:https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lectur
 END:VEVENT
 BEGIN:VEVENT
 UID:baggs-20261110T1830@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261110T183000Z
 DTEND:20261110T201500Z
 SUMMARY:The Search for Happiness – In Conversation
@@ -1409,7 +1471,7 @@ URL:https://www.birmingham.ac.uk/events/the-baggs-memorial-happiness-lectur
 END:VEVENT
 BEGIN:VEVENT
 UID:mgmt-20261111T1400@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T140000Z
 DTEND:20261111T150000Z
 SUMMARY:Permanent versus temporary network orchestrators: Developing coordi
@@ -1429,7 +1491,7 @@ URL:https://www.birmingham.ac.uk/events/permanent-versus-temporary-network-
 END:VEVENT
 BEGIN:VEVENT
 UID:lawannual-20261112T1830@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261112T183000Z
 DTEND:20261112T194500Z
 SUMMARY:Digital constitutionalism in action: the experience of the Colombia
@@ -1446,7 +1508,7 @@ URL:https://www.birmingham.ac.uk/events/birmingham-law-school-annual-lectur
 END:VEVENT
 BEGIN:VEVENT
 UID:pp-20261118T1230@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T123000Z
 DTEND:20261118T133000Z
 SUMMARY:The Timepix4 Beam Telescope (David Bacher (University of Oxford (GB
@@ -1470,7 +1532,7 @@ URL:https://indico.global/event/18930/
 END:VEVENT
 BEGIN:VEVENT
 UID:pp-20261202T1330@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T133000Z
 DTEND:20261202T143000Z
 SUMMARY:Weak Boson Scattering at the Large Hadron Collider\, Circa 2030 and
@@ -1493,7 +1555,7 @@ URL:https://indico.global/event/18932/
 END:VEVENT
 BEGIN:VEVENT
 UID:pp-20261209T1330@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261209T133000Z
 DTEND:20261209T143000Z
 SUMMARY:TRIDENT (Iwan Morton-Blake (Tsung-Dao Lee Institute / Shanghai Jiao
@@ -1508,7 +1570,7 @@ URL:https://indico.global/event/18933/
 END:VEVENT
 BEGIN:VEVENT
 UID:bbs-20261119T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261119T173000Z
 DTEND:20261119T190000Z
 SUMMARY:Debt and Power in the Digital Age (Yanis Varoufakis)
@@ -1524,7 +1586,7 @@ URL:https://www.birmingham.ac.uk/events/debt-and-power-in-the-digital-age
 END:VEVENT
 BEGIN:VEVENT
 UID:lrn-20261127T1400@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261127T140000Z
 DTEND:20261127T150000Z
 SUMMARY:Key findings from Story Choices (Professor Julia Carroll)
@@ -1540,7 +1602,7 @@ URL:https://www.birmingham.ac.uk/events/key-findings-from-story-choices
 END:VEVENT
 BEGIN:VEVENT
 UID:iel-20261207T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261207T130000Z
 DTEND:20261207T140000Z
 SUMMARY:From Transposition to Transplantation of EU Directives: UK Regulati
@@ -1560,7 +1622,7 @@ URL:https://www.birmingham.ac.uk/events/from-transposition-to-transplantati
 END:VEVENT
 BEGIN:VEVENT
 UID:brihc-20261209T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261209T130000Z
 DTEND:20261209T143000Z
 SUMMARY:Working with Photographs and Archives: An Interdisciplinary View (P

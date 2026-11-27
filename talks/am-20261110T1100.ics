@@ -9,15 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:am-20261110T1100@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261110T110000Z
 DTEND:20261110T120000Z
-SUMMARY:Chance and dance with cells’ power plants (Iain Johnston (Univers
- ity of Bergen))
+SUMMARY:Chance and dance with cells’ power plants (Iain Johnston)
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Iain Johnston (University of Bergen)\nApplied Mathematics Semin
- ar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminars.
- html
+DESCRIPTION:Iain Johnston\nApplied Mathematics Seminar\n\nDetails: https://
+ seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html

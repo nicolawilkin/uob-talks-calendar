@@ -9,165 +9,151 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:sds-20261006T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261006T120000Z
 DTEND:20261006T130000Z
 SUMMARY:Modelling Spatio-Temporal Variation in Neglected Tropical Disease P
  revalence Under Mass Drug Administration: A Geostatistical Approach (Claud
- io Fronterre (University of Birmingham))
+ io Fronterre)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Claudio Fronterre (University of Birmingham)\nStatistics and Da
- ta Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/s
- ds-seminars.html
+DESCRIPTION:Claudio Fronterre\nStatistics and Data Science Seminar\n\nDetai
+ ls: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261027T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261027T130000Z
 DTEND:20261027T140000Z
-SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan 
- (University of Oxford))
+SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Gavin Kerrigan (University of Oxford)\nStatistics and Data Scie
- nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
- nars.html
+DESCRIPTION:Gavin Kerrigan\nStatistics and Data Science Seminar\n\nDetails:
+  https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261109T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
 SUMMARY:Dynamically Augmented CVaR for Markov Decision Processes (Eugene Fe
- inberg (Stony Brook University))
+ inberg)
 LOCATION:Watson Building\, Lecture Theatre B
-DESCRIPTION:Eugene Feinberg (Stony Brook University)\nStatistics and Data S
- cience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-s
- eminars.html
+DESCRIPTION:Eugene Feinberg\nStatistics and Data Science Seminar\n\nDetails
+ : https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261117T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261117T130000Z
 DTEND:20261117T140000Z
 SUMMARY:Robust and Conservative Neural Simulation-based inference (Harita D
- ellaporta (University College London))
+ ellaporta)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Harita Dellaporta (University College London)\nStatistics and D
- ata Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/
- sds-seminars.html
+DESCRIPTION:Harita Dellaporta\nStatistics and Data Science Seminar\n\nDetai
+ ls: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261124T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261124T130000Z
 DTEND:20261124T140000Z
 SUMMARY:Learning noisy cellular molecular dynamics with uncertainty-aware m
- achine learning (Mingtao Xia (University of Birmingham))
+ achine learning (Mingtao Xia)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Mingtao Xia (University of Birmingham)\nStatistics and Data Sci
- ence Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-sem
- inars.html
+DESCRIPTION:Mingtao Xia\nStatistics and Data Science Seminar\n\nDetails: ht
+ tps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T130000Z
 DTEND:20261201T134500Z
 SUMMARY:Functional Data Analysis Beyond Curves: Methods and Applications to
-  Brain Imaging (Haiyan Liu (University of Leeds))
+  Brain Imaging (Haiyan Liu)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Haiyan Liu (University of Leeds)\nStatistics and Data Science S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.
- html
+DESCRIPTION:Haiyan Liu\nStatistics and Data Science Seminar\n\nDetails: htt
+ ps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1345@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T134500Z
 DTEND:20261201T143000Z
 SUMMARY:Computation-aware Gaussian Process Inference: Calibration and Imple
- mentation (Disha Hegde (Lancaster University))
+ mentation (Disha Hegde)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Disha Hegde (Lancaster University)\nStatistics and Data Science
-  Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminar
- s.html
+DESCRIPTION:Disha Hegde\nStatistics and Data Science Seminar\n\nDetails: ht
+ tps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1500@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T150000Z
 DTEND:20261201T154500Z
 SUMMARY:Sharp Contraction Bounds for Kinetic MCMC Samplers in the Log-Conca
- ve Setting (Sam Power (University of Bristol))
+ ve Setting (Sam Power)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Sam Power (University of Bristol)\nStatistics and Data Science 
- Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars
- .html
+DESCRIPTION:Sam Power\nStatistics and Data Science Seminar\n\nDetails: http
+ s://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261201T1545@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T154500Z
 DTEND:20261201T163000Z
-SUMMARY:Data-informed Modelling for Sheep Scab Control (Emily Nixon (Univer
- sity of Liverpool))
+SUMMARY:Data-informed Modelling for Sheep Scab Control (Emily Nixon)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Emily Nixon (University of Liverpool)\nStatistics and Data Scie
- nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
- nars.html
+DESCRIPTION:Emily Nixon\nStatistics and Data Science Seminar\n\nDetails: ht
+ tps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261208T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261208T130000Z
 DTEND:20261208T140000Z
-SUMMARY:Title to be announced (Jens Christian Claussen (University of Birmi
- ngham))
+SUMMARY:Title to be announced (Jens Christian Claussen)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Jens Christian Claussen (University of Birmingham)\nStatistics 
- and Data Science Seminar\n\nDetails: https://seminars.mathpages.org/birmin
- gham/sds-seminars.html
+DESCRIPTION:Jens Christian Claussen\nStatistics and Data Science Seminar\n\
+ nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:sds-20261215T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261215T130000Z
 DTEND:20261215T140000Z
-SUMMARY:Title to be announced (Shenggang Hu (University of Birmingham))
+SUMMARY:Title to be announced (Shenggang Hu)
 LOCATION:Watson Building\, Lecture Theatre B
-DESCRIPTION:Shenggang Hu (University of Birmingham)\nStatistics and Data Sc
- ience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-se
- minars.html
+DESCRIPTION:Shenggang Hu\nStatistics and Data Science Seminar\n\nDetails: h
+ ttps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html

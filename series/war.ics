@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:war-20261021T1600@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T150000Z
 DTEND:20261021T170000Z
 SUMMARY:Armed Ethnographers: (Battle)Field Genealogies of American Anthropo
@@ -26,7 +26,7 @@ URL:https://www.birmingham.ac.uk/events/armed-ethnographers-battlefield-gen
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261111T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T173000Z
 DTEND:20261111T190000Z
 SUMMARY:War\, Peace\, and the Conferences of Mudanya and Lausanne\, 1922-23
@@ -42,7 +42,7 @@ URL:https://www.birmingham.ac.uk/events/war-peace-conferences-mudanya-lausa
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261118T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T173000Z
 DTEND:20261118T190000Z
 SUMMARY:A Theory of War (Jim Storr)
@@ -56,7 +56,7 @@ URL:https://www.birmingham.ac.uk/events/a-theory-of-war
 END:VEVENT
 BEGIN:VEVENT
 UID:war-20261202T1730@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T173000Z
 DTEND:20261202T190000Z
 SUMMARY:Keeping the Troops Mentally Fit\, and Morale High: the Changing Rel

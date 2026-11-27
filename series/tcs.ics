@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261002T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261002T120000Z
 DTEND:20261002T130000Z
 SUMMARY:On the Coalgebraic Linear-Time Semantics of Two-Player Games (Ben P
@@ -34,7 +34,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/84/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261023T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261023T120000Z
 DTEND:20261023T130000Z
 SUMMARY:Semantics and intermediate representations of probabilistic program
@@ -58,7 +58,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/85/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261030T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
 SUMMARY:Handlers of Parametrised Algebraic Theories (Jack Liell-Cock (Unive
@@ -82,7 +82,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/86/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261106T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
 SUMMARY:My thoughts on AI and security (Mark Ryan (University of Birmingham
@@ -106,7 +106,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/87/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261113T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261113T130000Z
 DTEND:20261113T140000Z
 SUMMARY:Code in the Age of Agents: Bottlenecks\, Languages\, and the New So
@@ -130,7 +130,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/88/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261120T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261120T130000Z
 DTEND:20261120T140000Z
 SUMMARY:Space-Efficient Hierholzer (Ziad Ismaili  Alaoui (University of Liv
@@ -154,7 +154,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/89/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261127T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261127T130000Z
 DTEND:20261127T140000Z
 SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij 
@@ -178,7 +178,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/90/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261204T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261204T130000Z
 DTEND:20261204T140000Z
 SUMMARY:Algebraically free Markov chains (Paolo Perrone (University of Oxfo
@@ -202,7 +202,7 @@ URL:https://researchseminars.org/talk/TheoryCSBham/91/
 END:VEVENT
 BEGIN:VEVENT
 UID:tcs-20261211T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261211T130000Z
 DTEND:20261211T140000Z
 SUMMARY:Title to be announced (Yijun Yu (Open U and Huawei))

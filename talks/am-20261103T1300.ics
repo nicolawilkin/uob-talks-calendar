@@ -9,14 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:am-20261103T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-SUMMARY:Title to be announced (Sabina Sloman (University of Birmingham))
+SUMMARY:Title to be announced (Sabina Sloman)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Sabina Sloman (University of Birmingham)\nApplied Mathematics S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
- ars.html
+DESCRIPTION:Sabina Sloman\nApplied Mathematics Seminar\n\nDetails: https://
+ seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html

@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:caha-20261007T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261007T120000Z
 DTEND:20261007T133000Z
 SUMMARY:Compassion or Complicity? Emotional scripts in Diodorus Siculus (Li
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/compassion-or-complicity-emotional-
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261021T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T120000Z
 DTEND:20261021T133000Z
 SUMMARY:Religion and the citizenship in mid-Republican Rome (Denis Feeney (
@@ -44,7 +44,7 @@ URL:https://www.birmingham.ac.uk/events/religion-and-the-citizenship-in-mid
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261111T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:Portraits of Hybridity? Exploring elite identity in Roman Egypt thr
@@ -63,7 +63,7 @@ URL:https://www.birmingham.ac.uk/events/portraits-of-hybridity-exploring-el
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261111T1300-2@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:Cancelled: Decreation and Iphigenia at Aulis: A Decolonial Inquiry 
@@ -80,7 +80,7 @@ URL:https://www.birmingham.ac.uk/events/decreation-and-iphigenia-at-aulis-a
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261118T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T130000Z
 DTEND:20261118T143000Z
 SUMMARY:The ARTEMIS archaeological survey: results from year one (Maeve McH
@@ -98,7 +98,7 @@ URL:https://www.birmingham.ac.uk/events/out-of-time-archaeology-temporality
 END:VEVENT
 BEGIN:VEVENT
 UID:caha-20261202T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T130000Z
 DTEND:20261202T143000Z
 SUMMARY:Children of Athena: The armed forces of democratic Athens (David Pr

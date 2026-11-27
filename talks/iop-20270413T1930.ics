@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:How to Film the Life of an Electron
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20270413T1930@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270413T183000Z
+DTEND:20270413T193000Z
+SUMMARY:How to Film the Life of an Electron (Dr Tom Siday)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr Tom Siday\nInstitute of Physics Public Lecture Series\n\nEv
+ erything around you — your phone\, solar panels\, computers\, the screen
+  you're reading this on — works because of electrons zipping around insi
+ de materials. But catching them in the act is absurdly hard: they move in 
+ millionths of a billionth of a second\, across distances smaller than a si
+ ngle atom. No ordinary camera comes close.In this talk\, I'll show how we 
+ are building what amounts to the world's fastest and best-resolved camera\
+ , using some of the shortest possible flashes of light to photograph matte
+ r atom by atom at their native timescales. We're getting close to a long-s
+ tanding dream: recording real-time movies of the fastest processes in natu
+ re.\n\nDetails: https://www.birmingham.ac.uk/about/college-of-engineering-
+ and-physical-sciences/physics-and-astronomy/outreach-and-schools-liaison/o
+ utreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR

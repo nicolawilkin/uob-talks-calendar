@@ -9,15 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:sds-20261208T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261208T130000Z
 DTEND:20261208T140000Z
-SUMMARY:Title to be announced (Jens Christian Claussen (University of Birmi
- ngham))
+SUMMARY:Title to be announced (Jens Christian Claussen)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Jens Christian Claussen (University of Birmingham)\nStatistics 
- and Data Science Seminar\n\nDetails: https://seminars.mathpages.org/birmin
- gham/sds-seminars.html
+DESCRIPTION:Jens Christian Claussen\nStatistics and Data Science Seminar\n\
+ nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html

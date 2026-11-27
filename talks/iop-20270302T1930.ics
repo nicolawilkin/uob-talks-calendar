@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Seeing the invisible: Using light as a tool of discovery
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:iop-20270302T1930@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270302T193000Z
+DTEND:20270302T203000Z
+SUMMARY:Seeing the invisible: Using light as a tool of discovery (Dr George
+  Smetana)
+LOCATION:Poynting Large Lecture Theatre\, Physics Building (R13)
+DESCRIPTION:Dr George Smetana\nInstitute of Physics Public Lecture Series\n
+ \nThe human body is a surprisingly good instrument for scientific discover
+ y\, with our senses able to act as probes of the physics going on all arou
+ nd us. However\, over time we've reached the limit of our experience livin
+ g at an 'average' scale - too big to easily experience quantum phenomena a
+ nd too small to comprehend the workings of the universe on cosmic scales. 
+ We've developed tools to help us\, and the detection and manipulation of l
+ ight has become one of the most important ones. I will share with you some
+  of the surprising ways that we can use light in modern physics\, even to 
+ detect the invisible.\n\nDetails: https://www.birmingham.ac.uk/about/colle
+ ge-of-engineering-and-physical-sciences/physics-and-astronomy/outreach-and
+ -schools-liaison/outreach-for-secondary-schools/iop-public-lecture-series
+CATEGORIES:Institute of Physics Public Lecture Series
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
+ sciences/physics-and-astronomy/outreach-and-schools-liaison/outreach-for-s
+ econdary-schools/iop-public-lecture-series
+END:VEVENT
+END:VCALENDAR

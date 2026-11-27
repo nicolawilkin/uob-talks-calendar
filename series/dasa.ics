@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:dasa-20261021T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T120000Z
 DTEND:20261021T133000Z
 SUMMARY:Expense the maids but not chairs: Deductible logics in comparative 
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/expense-the-maids-but-not-chairs-de
 END:VEVENT
 BEGIN:VEVENT
 UID:dasa-20261118T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261118T130000Z
 DTEND:20261118T143000Z
 SUMMARY:Gilded Time: Boom-bust subjectivities in informal gold mining econo
@@ -45,7 +45,7 @@ URL:https://www.birmingham.ac.uk/events/gilded-time-boom-bust-subjectivitie
 END:VEVENT
 BEGIN:VEVENT
 UID:dasa-20261202T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261202T130000Z
 DTEND:20261202T143000Z
 SUMMARY:Counternarratives of West African Visual Artists’ migration to Br

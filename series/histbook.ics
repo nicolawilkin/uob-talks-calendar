@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:histbook-20261007T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261007T120000Z
 DTEND:20261007T133000Z
 SUMMARY:Afloat: Small Boats\, Swell and Seaspray (2026) (David Gange)
@@ -26,7 +26,7 @@ URL:https://www.birmingham.ac.uk/events/book-talk-david-gange-afloat-small-
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261021T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T120000Z
 DTEND:20261021T130000Z
 SUMMARY:A History of Terrorism in Canada (2026) (Steve Hewitt)
@@ -43,7 +43,7 @@ URL:https://www.birmingham.ac.uk/events/book-talk-by-steve-hewitt-a-history
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261111T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
 SUMMARY:Treaty Ground: Diplomacy and the Politics of Sovereignty\, from Roa
@@ -62,7 +62,7 @@ URL:https://www.birmingham.ac.uk/events/book-talk-by-charles-prior-treaty-g
 END:VEVENT
 BEGIN:VEVENT
 UID:histbook-20261125T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261125T130000Z
 DTEND:20261125T143000Z
 SUMMARY:Unfinished Book: Raphael Samuel and the Making of the English Unifo

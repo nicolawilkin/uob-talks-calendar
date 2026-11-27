@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tp-20261001T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261001T121500Z
 DTEND:20261001T133000Z
 SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh (Birmingham Mecha
@@ -24,7 +24,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261008T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261008T121500Z
 DTEND:20261008T133000Z
 SUMMARY:Spin-orbit physics in two-dimensional semiconductors (Igor Rozhansk
@@ -38,7 +38,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261015T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261015T121500Z
 DTEND:20261015T133000Z
 SUMMARY:Time-evolution of closed\, thermalising quantum systems (Andrew Gre
@@ -52,7 +52,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261029T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261029T131500Z
 DTEND:20261029T143000Z
 SUMMARY:Many-body chaos\, hydrodynamics and horizon symmetries (Mike Blake 
@@ -66,7 +66,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261111T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261111T131500Z
 DTEND:20261111T143000Z
 SUMMARY:Exact spectral integrability of a finite-channel random Schrödinge
@@ -81,7 +81,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261112T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261112T131500Z
 DTEND:20261112T143000Z
 SUMMARY:Magnetic monopoles (Paul Sutcliffe (Durham))
@@ -94,7 +94,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261119T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261119T131500Z
 DTEND:20261119T143000Z
 SUMMARY:Operator growth dynamics and the hardness of approximate counterdia
@@ -108,7 +108,7 @@ URL:https://more.bham.ac.uk/theoretical-physics/talks/
 END:VEVENT
 BEGIN:VEVENT
 UID:tp-20261126T1315@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261126T131500Z
 DTEND:20261126T143000Z
 SUMMARY:Quantum memory advantages for stochastic modelling: A tensor networ

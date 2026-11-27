@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The putative quality of education: the privatisation of the de
+ sire to know
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:phiedu-20270224T1700@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270224T170000Z
+DTEND:20270224T183000Z
+SUMMARY:The putative quality of education: the privatisation of the desire 
+ to know (Henrique Lima (University of Sao Paulo\, Brazil))
+LOCATION:Education Building
+DESCRIPTION:Henrique Lima (University of Sao Paulo\, Brazil)\nPhilosophy of
+  Education Research Seminars\n\nWith speaker Henrique Lima\, from the Univ
+ ersity of Sao Paulo\, Brazil\n\nDetails: https://www.birmingham.ac.uk/even
+ ts/the-putative-quality-of-education-the-privatisation-of-the-desire-to-kn
+ ow
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-putative-quality-of-education-t
+ he-privatisation-of-the-desire-to-know
+END:VEVENT
+END:VCALENDAR

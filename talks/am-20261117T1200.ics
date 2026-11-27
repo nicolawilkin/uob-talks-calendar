@@ -9,15 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:am-20261117T1200@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261117T120000Z
 DTEND:20261117T130000Z
-SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio (Univers
- ity of Glasgow))
+SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio)
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Hannah-May D'Ambrosio (University of Glasgow)\nApplied Mathemat
- ics Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-
- seminars.html
+DESCRIPTION:Hannah-May D'Ambrosio\nApplied Mathematics Seminar\n\nDetails: 
+ https://seminars.mathpages.org/birmingham/applied-seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html

@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:epsinaug-20261022T1715@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261022T161500Z
 DTEND:20261022T171500Z
 SUMMARY:When Materials Meet Life: From Composites and Bioactive Glasses to 
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/inaugural-lecture-of-professor-arte
 END:VEVENT
 BEGIN:VEVENT
 UID:epsinaug-20261104T1500@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261104T150000Z
 DTEND:20261104T160000Z
 SUMMARY:Energy\, entropy and randomness in evolutionary systems (Professor 

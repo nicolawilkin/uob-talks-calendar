@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:phiedu-20261021T1700@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261021T160000Z
 DTEND:20261021T173000Z
 SUMMARY:Attentiveness in Iris Murdoch’s moral vision: towards a metaphysi
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/attentiveness-in-iris-murdochs-mora
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20261125T1700@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261125T170000Z
 DTEND:20261125T183000Z
 SUMMARY:Analysis\, synthesis\, and why wisdom might not be for everyone (Ja
@@ -44,7 +44,7 @@ URL:https://www.birmingham.ac.uk/events/analysis-synthesis-and-why-wisdom-m
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20270120T1700@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20270120T170000Z
 DTEND:20270120T183000Z
 SUMMARY:Institutional and individual virtues: meaningful distinction or fal
@@ -58,5 +58,41 @@ CATEGORIES:Philosophy of Education Research Seminars
 STATUS:CONFIRMED
 URL:https://www.birmingham.ac.uk/events/institutional-and-individual-virtue
  s-meaningful-distinction-or-false-dichotomy
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20270224T1700@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270224T170000Z
+DTEND:20270224T183000Z
+SUMMARY:The putative quality of education: the privatisation of the desire 
+ to know (Henrique Lima (University of Sao Paulo\, Brazil))
+LOCATION:Education Building
+DESCRIPTION:Henrique Lima (University of Sao Paulo\, Brazil)\nPhilosophy of
+  Education Research Seminars\n\nWith speaker Henrique Lima\, from the Univ
+ ersity of Sao Paulo\, Brazil\n\nDetails: https://www.birmingham.ac.uk/even
+ ts/the-putative-quality-of-education-the-privatisation-of-the-desire-to-kn
+ ow
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-putative-quality-of-education-t
+ he-privatisation-of-the-desire-to-know
+END:VEVENT
+BEGIN:VEVENT
+UID:phiedu-20270331T1700@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270331T160000Z
+DTEND:20270331T173000Z
+SUMMARY:The art of covert no-saying: a new typology of educational resistan
+ ce (Jason Cong Lin (Education\, University of Hong Kong))
+LOCATION:Education Building
+DESCRIPTION:Jason Cong Lin (Education\, University of Hong Kong)\nPhilosoph
+ y of Education Research Seminars\n\nWith speaker Jason Cong Lin\, from Edu
+ cation\, University of Hong Kong\n\nDetails: https://www.birmingham.ac.uk/
+ events/the-art-of-covert-no-saying-a-new-typology-of-educational-resistanc
+ e
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-art-of-covert-no-saying-a-new-t
+ ypology-of-educational-resistance
 END:VEVENT
 END:VCALENDAR

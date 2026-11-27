@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The art of covert no-saying: a new typology of educational res
+ istance
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:phiedu-20270331T1700@talks.birmingham.prototype
+DTSTAMP:20261127T162841Z
+DTSTART:20270331T160000Z
+DTEND:20270331T173000Z
+SUMMARY:The art of covert no-saying: a new typology of educational resistan
+ ce (Jason Cong Lin (Education\, University of Hong Kong))
+LOCATION:Education Building
+DESCRIPTION:Jason Cong Lin (Education\, University of Hong Kong)\nPhilosoph
+ y of Education Research Seminars\n\nWith speaker Jason Cong Lin\, from Edu
+ cation\, University of Hong Kong\n\nDetails: https://www.birmingham.ac.uk/
+ events/the-art-of-covert-no-saying-a-new-typology-of-educational-resistanc
+ e
+CATEGORIES:Philosophy of Education Research Seminars
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/the-art-of-covert-no-saying-a-new-t
+ ypology-of-educational-resistance
+END:VEVENT
+END:VCALENDAR

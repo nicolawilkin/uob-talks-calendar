@@ -10,15 +10,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:sds-20261201T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261201T130000Z
 DTEND:20261201T134500Z
 SUMMARY:Functional Data Analysis Beyond Curves: Methods and Applications to
-  Brain Imaging (Haiyan Liu (University of Leeds))
+  Brain Imaging (Haiyan Liu)
 LOCATION:Aston Webb\, G33 Lecture Theatre
-DESCRIPTION:Haiyan Liu (University of Leeds)\nStatistics and Data Science S
- eminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars.
- html
+DESCRIPTION:Haiyan Liu\nStatistics and Data Science Seminar\n\nDetails: htt
+ ps://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html

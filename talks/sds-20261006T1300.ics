@@ -10,16 +10,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:sds-20261006T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261006T120000Z
 DTEND:20261006T130000Z
 SUMMARY:Modelling Spatio-Temporal Variation in Neglected Tropical Disease P
  revalence Under Mass Drug Administration: A Geostatistical Approach (Claud
- io Fronterre (University of Birmingham))
+ io Fronterre)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Claudio Fronterre (University of Birmingham)\nStatistics and Da
- ta Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/s
- ds-seminars.html
+DESCRIPTION:Claudio Fronterre\nStatistics and Data Science Seminar\n\nDetai
+ ls: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html

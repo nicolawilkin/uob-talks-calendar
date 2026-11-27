@@ -9,15 +9,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:sds-20261117T1300@talks.birmingham.prototype
-DTSTAMP:20261127T155446Z
+DTSTAMP:20261127T162841Z
 DTSTART:20261117T130000Z
 DTEND:20261117T140000Z
 SUMMARY:Robust and Conservative Neural Simulation-based inference (Harita D
- ellaporta (University College London))
+ ellaporta)
 LOCATION:Arts\, Room 250
-DESCRIPTION:Harita Dellaporta (University College London)\nStatistics and D
- ata Science Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/
- sds-seminars.html
+DESCRIPTION:Harita Dellaporta\nStatistics and Data Science Seminar\n\nDetai
+ ls: https://seminars.mathpages.org/birmingham/sds-seminars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
