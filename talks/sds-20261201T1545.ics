@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Data-informed Modelling for Sheep Scab Control
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:sds-20261201T1545@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T154500Z
+DTEND:20261201T163000Z
+SUMMARY:Data-informed Modelling for Sheep Scab Control (Emily Nixon (Univer
+ sity of Liverpool))
+LOCATION:Aston Webb\, G33 Lecture Theatre
+DESCRIPTION:Emily Nixon (University of Liverpool)\nStatistics and Data Scie
+ nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
+ nars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sharp Contraction Bounds for Kinetic MCMC Samplers in the Log-
+ Concave Setting
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:sds-20261201T1500@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261201T150000Z
+DTEND:20261201T154500Z
+SUMMARY:Sharp Contraction Bounds for Kinetic MCMC Samplers in the Log-Conca
+ ve Setting (Sam Power (University of Bristol))
+LOCATION:Aston Webb\, G33 Lecture Theatre
+DESCRIPTION:Sam Power (University of Bristol)\nStatistics and Data Science 
+ Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-seminars
+ .html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+END:VCALENDAR

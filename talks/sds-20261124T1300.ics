@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Learning noisy cellular molecular dynamics with uncertainty-aw
+ are machine learning
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:sds-20261124T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261124T130000Z
+DTEND:20261124T140000Z
+SUMMARY:Learning noisy cellular molecular dynamics with uncertainty-aware m
+ achine learning (Mingtao Xia (University of Birmingham))
+LOCATION:Arts\, Lecture Room 6
+DESCRIPTION:Mingtao Xia (University of Birmingham)\nStatistics and Data Sci
+ ence Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-sem
+ inars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+END:VCALENDAR

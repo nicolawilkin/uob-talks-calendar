@@ -3,26 +3,28 @@ VERSION:2.0
 PRODID:-//University of Birmingham Talks//Prototype//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Cancelled: Decreation and Iphigenia at Aulis: A Decolonial Inq
- uiry
+X-WR-CALNAME:Portraits of Hybridity? Exploring elite identity in Roman Egyp
+ t through the Fayum mummy portraits
 X-WR-TIMEZONE:Europe/London
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:caha-20261111T1300@talks.birmingham.prototype
-DTSTAMP:20261127T154303Z
+DTSTAMP:20261127T155446Z
 DTSTART:20261111T130000Z
 DTEND:20261111T143000Z
-SUMMARY:Cancelled: Decreation and Iphigenia at Aulis: A Decolonial Inquiry 
- (Mathura Umachandran (University of Exeter))
+SUMMARY:Portraits of Hybridity? Exploring elite identity in Roman Egypt thr
+ ough the Fayum mummy portraits (Louise O’Brien (Birmingham))
 LOCATION:Muirhead Tower
-DESCRIPTION:Mathura Umachandran (University of Exeter)\nClassics\, Ancient 
- History and Archaeology Research Seminar\n\nWith speaker Mathura Umachandr
- an\, from the University of Exeter\n\nDetails: https://www.birmingham.ac.u
- k/events/decreation-and-iphigenia-at-aulis-a-decolonial-inquiry
+DESCRIPTION:Louise O’Brien (Birmingham)\nClassics\, Ancient History and A
+ rchaeology Research Seminar\n\nClassics\, Ancient History and Archaeology 
+ research seminar series 2026 With speaker Louise O’Brien \, Birmingham T
+ o join online please contact the organiser\n\nDetails: https://www.birming
+ ham.ac.uk/events/portraits-of-hybridity-exploring-elite-identity-in-roman-
+ egypt-through-the-fayum-mummy-portraits
 CATEGORIES:Classics\, Ancient History and Archaeology Research Seminar
-STATUS:CANCELLED
-URL:https://www.birmingham.ac.uk/events/decreation-and-iphigenia-at-aulis-a
- -decolonial-inquiry
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/portraits-of-hybridity-exploring-el
+ ite-identity-in-roman-egypt-through-the-fayum-mummy-portraits
 END:VEVENT
 END:VCALENDAR

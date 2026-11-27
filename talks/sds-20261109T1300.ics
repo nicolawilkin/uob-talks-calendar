@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//University of Birmingham Talks//Prototype//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dynamically Augmented CVaR for Markov Decision Processes
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:sds-20261109T1300@talks.birmingham.prototype
+DTSTAMP:20261127T155446Z
+DTSTART:20261109T130000Z
+DTEND:20261109T140000Z
+SUMMARY:Dynamically Augmented CVaR for Markov Decision Processes (Eugene Fe
+ inberg (Stony Brook University))
+LOCATION:Watson Building\, Lecture Theatre B
+DESCRIPTION:Eugene Feinberg (Stony Brook University)\nStatistics and Data S
+ cience Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-s
+ eminars.html
+CATEGORIES:Statistics and Data Science Seminar
+STATUS:CONFIRMED
+URL:https://seminars.mathpages.org/birmingham/sds-seminars.html
+END:VEVENT
+END:VCALENDAR
