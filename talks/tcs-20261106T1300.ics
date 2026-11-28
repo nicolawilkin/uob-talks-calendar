@@ -9,24 +9,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261106T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261106T130000Z
 DTEND:20261106T140000Z
-SUMMARY:My thoughts on AI and security (Mark Ryan (University of Birmingham
- ))
+SUMMARY:My thoughts on AI and security (Mark Ryan)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Mark Ryan (University of Birmingham)\nTheoretical Computer Scie
- nce Seminar\n\nThe first part of my talk will be about "prompt injection"\
- , in which an adversary inserts text in content (such as a paper\, a githu
- b README\, a CV or an email message) that will be processed by an LLM\, in
-  an effort to instruct the LLM to process the content the way the adversar
- y wants. Large language models read instructions and data as one stream of
-  tokens\, so anyone who can get text into that stream can potentially have
-  it obeyed as a command. I'll review real attacks\, and then compare three
-  kinds of defence\, focussing on the type that seems to have the greatest 
- capability to work. In a possible second part\, I'll describe a bit about 
- how I use AI in practice\, what has worked and what has…\n\nDetails: htt
- ps://researchseminars.org/talk/TheoryCSBham/87/
+DESCRIPTION:Mark Ryan\nTheoretical Computer Science Seminar\n\nThe first pa
+ rt of my talk will be about "prompt injection"\, in which an adversary ins
+ erts text in content (such as a paper\, a github README\, a CV or an email
+  message) that will be processed by an LLM\, in an effort to instruct the 
+ LLM to process the content the way the adversary wants. Large language mod
+ els read instructions and data as one stream of tokens\, so anyone who can
+  get text into that stream can potentially have it obeyed as a command. I'
+ ll review real attacks\, and then compare three kinds of defence\, focussi
+ ng on the type that seems to have the greatest capability to work. In a po
+ ssible second part\, I'll describe a bit about how I use AI in practice\, 
+ what has worked and what has…\n\nDetails: https://researchseminars.org/t
+ alk/TheoryCSBham/87/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/87/

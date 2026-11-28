@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:iop-20261006T1930@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261006T183000Z
 DTEND:20261006T193000Z
 SUMMARY:Mysteries of matter: new experiments to unpick the nature of dark m
@@ -36,7 +36,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261103T1930@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261103T193000Z
 DTEND:20261103T203000Z
 SUMMARY:The Invisible Scanners (Jim Grozier)
@@ -63,7 +63,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20261201T1930@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261201T193000Z
 DTEND:20261201T203000Z
 SUMMARY:Is it a star? Is it a planet? No\, it's a brown dwarf! (Dr Jenni Fr
@@ -88,7 +88,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20270202T1930@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20270202T193000Z
 DTEND:20270202T203000Z
 SUMMARY:Creating the hottest place in the universe: Extreme matter and the 
@@ -106,7 +106,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20270302T1930@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20270302T193000Z
 DTEND:20270302T203000Z
 SUMMARY:Seeing the invisible: Using light as a tool of discovery (Dr George
@@ -132,7 +132,7 @@ URL:https://www.birmingham.ac.uk/about/college-of-engineering-and-physical-
 END:VEVENT
 BEGIN:VEVENT
 UID:iop-20270413T1930@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20270413T183000Z
 DTEND:20270413T193000Z
 SUMMARY:How to Film the Life of an Electron (Dr Tom Siday)

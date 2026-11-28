@@ -9,13 +9,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:am-20261208T1200@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261208T120000Z
 DTEND:20261208T130000Z
-SUMMARY:Title to be announced (Cara V. Neal)
+SUMMARY:Title to be announced (Cara V. Neal (University College London))
 LOCATION:Arts\, Lecture Room 201
-DESCRIPTION:Cara V. Neal\nApplied Mathematics Seminar\n\nDetails: https://s
- eminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Cara V. Neal (University College London)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html

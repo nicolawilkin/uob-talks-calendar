@@ -10,45 +10,45 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:cpa-20261022T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261022T120000Z
 DTEND:20261022T125000Z
 SUMMARY:Off-giant Criticality in the Mean-field Arboreal Gas (Tyler Helmuth
- )
+  (Durham University))
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Tyler Helmuth\nCombinatorics\, Probability and Algorithms Semin
- ar\n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-sem
- inars.html
+DESCRIPTION:Tyler Helmuth (Durham University)\nCombinatorics\, Probability 
+ and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/birmingh
+ am/combinatorics-seminars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpa-20261112T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261112T130000Z
 DTEND:20261112T140000Z
 SUMMARY:The maximum edge density of hypergraphs without tight cycles (Jared
-  León)
+  León (University of Warwick))
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Jared León\nCombinatorics\, Probability and Algorithms Seminar
- \n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-semin
- ars.html
+DESCRIPTION:Jared León (University of Warwick)\nCombinatorics\, Probabilit
+ y and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/birmin
+ gham/combinatorics-seminars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:cpa-20261119T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261119T130000Z
 DTEND:20261119T140000Z
 SUMMARY:Uses of AI to prove and refute some of my conjectures in spectral g
- raph theory (Clive Elphick)
+ raph theory (Clive Elphick (University of Birmingham))
 LOCATION:Watson Building\, Lecture Theatre C
-DESCRIPTION:Clive Elphick\nCombinatorics\, Probability and Algorithms Semin
- ar\n\nDetails: https://seminars.mathpages.org/birmingham/combinatorics-sem
- inars.html
+DESCRIPTION:Clive Elphick (University of Birmingham)\nCombinatorics\, Proba
+ bility and Algorithms Seminar\n\nDetails: https://seminars.mathpages.org/b
+ irmingham/combinatorics-seminars.html
 CATEGORIES:Combinatorics\, Probability and Algorithms Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/combinatorics-seminars.html

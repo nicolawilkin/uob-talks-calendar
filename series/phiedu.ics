@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:phiedu-20261021T1700@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261021T160000Z
 DTEND:20261021T173000Z
 SUMMARY:Attentiveness in Iris Murdoch’s moral vision: towards a metaphysi
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/attentiveness-in-iris-murdochs-mora
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20261125T1700@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261125T170000Z
 DTEND:20261125T183000Z
 SUMMARY:Analysis\, synthesis\, and why wisdom might not be for everyone (Ja
@@ -44,7 +44,7 @@ URL:https://www.birmingham.ac.uk/events/analysis-synthesis-and-why-wisdom-m
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20270120T1700@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20270120T170000Z
 DTEND:20270120T183000Z
 SUMMARY:Institutional and individual virtues: meaningful distinction or fal
@@ -61,7 +61,7 @@ URL:https://www.birmingham.ac.uk/events/institutional-and-individual-virtue
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20270224T1700@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20270224T170000Z
 DTEND:20270224T183000Z
 SUMMARY:The putative quality of education: the privatisation of the desire 
@@ -79,7 +79,7 @@ URL:https://www.birmingham.ac.uk/events/the-putative-quality-of-education-t
 END:VEVENT
 BEGIN:VEVENT
 UID:phiedu-20270331T1700@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20270331T160000Z
 DTEND:20270331T173000Z
 SUMMARY:The art of covert no-saying: a new typology of educational resistan

@@ -9,13 +9,15 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:sds-20261027T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261027T130000Z
 DTEND:20261027T140000Z
-SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan)
+SUMMARY:Robust Experimental Design\, Diffusion\, and Games (Gavin Kerrigan 
+ (University of Oxford))
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Gavin Kerrigan\nStatistics and Data Science Seminar\n\nDetails:
-  https://seminars.mathpages.org/birmingham/sds-seminars.html
+DESCRIPTION:Gavin Kerrigan (University of Oxford)\nStatistics and Data Scie
+ nce Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/sds-semi
+ nars.html
 CATEGORIES:Statistics and Data Science Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/sds-seminars.html

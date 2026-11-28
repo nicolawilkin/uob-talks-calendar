@@ -9,24 +9,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261030T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261030T130000Z
 DTEND:20261030T140000Z
-SUMMARY:Handlers of Parametrised Algebraic Theories (Jack Liell-Cock (Unive
- rsity of Oxford))
+SUMMARY:Handlers of Parametrised Algebraic Theories (Jack Liell-Cock)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Jack Liell-Cock (University of Oxford)\nTheoretical Computer Sc
- ience Seminar\n\nThe algebraic effects and handlers paradigm separates the
-  concerns of the interface and implementation of computational effects in 
- programming languages. We present Cambria\, a language that extends this f
- ramework to the parametrised setting. Effect signatures may use abstract p
- arameter types that are instantiated by the handler along with the operati
- on implementations. Parameters abstract over resources\, such as memory lo
- cations or thread IDs\, permitting algebraic effects to encode dynamic all
- ocation. They are first-class in the type system but erased at runtime\, r
- equiring no coercions or type-directed reduction. We prove parametricity v
- ia a step-indexed logical relation\, formalizing the…\n\nDetails: https:
- //researchseminars.org/talk/TheoryCSBham/86/
+DESCRIPTION:Jack Liell-Cock\nTheoretical Computer Science Seminar\n\nThe al
+ gebraic effects and handlers paradigm separates the concerns of the interf
+ ace and implementation of computational effects in programming languages. 
+ We present Cambria\, a language that extends this framework to the paramet
+ rised setting. Effect signatures may use abstract parameter types that are
+  instantiated by the handler along with the operation implementations. Par
+ ameters abstract over resources\, such as memory locations or thread IDs\,
+  permitting algebraic effects to encode dynamic allocation. They are first
+ -class in the type system but erased at runtime\, requiring no coercions o
+ r type-directed reduction. We prove parametricity via a step-indexed logic
+ al relation\, formalizing the…\n\nDetails: https://researchseminars.org/
+ talk/TheoryCSBham/86/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/86/

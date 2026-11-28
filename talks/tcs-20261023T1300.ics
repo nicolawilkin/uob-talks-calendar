@@ -10,24 +10,24 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261023T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261023T120000Z
 DTEND:20261023T130000Z
 SUMMARY:Semantics and intermediate representations of probabilistic program
- s (Hugo Paquet (INRIA Paris))
+ s (Hugo Paquet)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Hugo Paquet (INRIA Paris)\nTheoretical Computer Science Seminar
- \n\nIn a probabilistic programming language (with only finite types and wi
- thout recursion or loops) every program determines a probability distribut
- ion over a set of outputs. Computing this distribution can be expensive: t
- he naive approach is to enumerate all possible executions. So practical in
- terpreters rely on more efficient representations of probability distribut
- ions\, typically inspired by symbolic execution. In this talk I will give 
- a semantic perspective on these intermediate representations\, to explain 
- why they are correct. The key idea is to decompose probabilistic sampling 
- into two separate effects (first generating a random variable\, and then r
- eading its value) that follow different…\n\nDetails: https://researchsem
- inars.org/talk/TheoryCSBham/85/
+DESCRIPTION:Hugo Paquet\nTheoretical Computer Science Seminar\n\nIn a proba
+ bilistic programming language (with only finite types and without recursio
+ n or loops) every program determines a probability distribution over a set
+  of outputs. Computing this distribution can be expensive: the naive appro
+ ach is to enumerate all possible executions. So practical interpreters rel
+ y on more efficient representations of probability distributions\, typical
+ ly inspired by symbolic execution. In this talk I will give a semantic per
+ spective on these intermediate representations\, to explain why they are c
+ orrect. The key idea is to decompose probabilistic sampling into two separ
+ ate effects (first generating a random variable\, and then reading its val
+ ue) that follow different…\n\nDetails: https://researchseminars.org/talk
+ /TheoryCSBham/85/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/85/

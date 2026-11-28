@@ -10,7 +10,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:emotions-20261028T0830@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261028T083000Z
 DTEND:20261028T093000Z
 SUMMARY:Intuitions: Affective Histories of the Future of Computing (Profess
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/digital-emotional-governance
 END:VEVENT
 BEGIN:VEVENT
 UID:emotions-20261112T1530@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261112T153000Z
 DTEND:20261112T163000Z
 SUMMARY:Code/Body: The Politics of Entrapment (Professor Azadeh Akbari)
@@ -39,5 +39,20 @@ DESCRIPTION:Professor Azadeh Akbari\nOnline seminar series on emotions and
 CATEGORIES:Online seminar series on emotions and digital technologies
 STATUS:CONFIRMED
 URL:https://www.birmingham.ac.uk/events/codebody-the-politics-of-entrapment
+END:VEVENT
+BEGIN:VEVENT
+UID:emotions-20270412T1000@talks.birmingham.prototype
+DTSTAMP:20261128T102803Z
+DTSTART:20270412T090000Z
+DTEND:20270413T150000Z
+SUMMARY:TopNet 2027
+LOCATION:Edgbaston Park Hotel and Conference Centre
+DESCRIPTION:Online seminar series on emotions and digital technologies\n\nJ
+ oin us for TopNet 2027\, a two-day event focused on facilitating networkin
+ g opportunities for CDT alumni\, members of academia and industry.\n\nDeta
+ ils: https://www.birmingham.ac.uk/events/digital-emotional-governance
+CATEGORIES:Online seminar series on emotions and digital technologies
+STATUS:CONFIRMED
+URL:https://www.birmingham.ac.uk/events/digital-emotional-governance
 END:VEVENT
 END:VCALENDAR

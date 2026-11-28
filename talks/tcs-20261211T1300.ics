@@ -9,14 +9,13 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261211T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261211T130000Z
 DTEND:20261211T140000Z
-SUMMARY:Title to be announced (Yijun Yu (Open U and Huawei))
+SUMMARY:Title to be announced (Yijun Yu)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Yijun Yu (Open U and Huawei)\nTheoretical Computer Science Semi
- nar\n\n: TBA\n\nDetails: https://researchseminars.org/talk/TheoryCSBham/92
- /
+DESCRIPTION:Yijun Yu\nTheoretical Computer Science Seminar\n\n: TBA\n\nDeta
+ ils: https://researchseminars.org/talk/TheoryCSBham/92/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/92/

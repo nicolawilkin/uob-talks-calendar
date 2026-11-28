@@ -9,24 +9,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261127T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261127T130000Z
 DTEND:20261127T140000Z
-SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij 
- (University of Edinburgh))
+SUMMARY:The finitary aspects of Full Ground Local State (Orpheas van Rooij)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Orpheas van Rooij (University of Edinburgh)\nTheoretical Comput
- er Science Seminar\n\nFull ground local state (FGLS) refers to dynamically
-  allocated mutable state that allows storing ground values and references.
-  It is a key ingredient in many imperative algorithms as it enables cyclic
-  data structures. In this work\, we focus on one particular denotational m
- odel for FGLS: Kammar et al.'s possible worlds monad on sets indexed over 
- sets of locations. We resolve an outstanding question about this FGLS mona
- d: is it finitary? We show that it is not\, by showing the existence of no
- n-finitary computations in this monad that are challenging to define in a 
- terminating language with full ground references. This prompts us to intro
- duce a finitary submonad of Kammar et al.'s monad\, which…\n\nDetails: h
- ttps://researchseminars.org/talk/TheoryCSBham/90/
+DESCRIPTION:Orpheas van Rooij\nTheoretical Computer Science Seminar\n\nFull
+  ground local state (FGLS) refers to dynamically allocated mutable state t
+ hat allows storing ground values and references. It is a key ingredient in
+  many imperative algorithms as it enables cyclic data structures. In this 
+ work\, we focus on one particular denotational model for FGLS: Kammar et a
+ l.'s possible worlds monad on sets indexed over sets of locations. We reso
+ lve an outstanding question about this FGLS monad: is it finitary? We show
+  that it is not\, by showing the existence of non-finitary computations in
+  this monad that are challenging to define in a terminating language with 
+ full ground references. This prompts us to introduce a finitary submonad o
+ f Kammar et al.'s monad\, which…\n\nDetails: https://researchseminars.or
+ g/talk/TheoryCSBham/90/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/90/

@@ -9,24 +9,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261204T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261204T130000Z
 DTEND:20261204T140000Z
-SUMMARY:Algebraically free Markov chains (Paolo Perrone (University of Oxfo
- rd))
+SUMMARY:Algebraically free Markov chains (Paolo Perrone)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Paolo Perrone (University of Oxford)\nTheoretical Computer Scie
- nce Seminar\n\nAlgebraically free monoids\, and more generally monads\, ar
- e commonly used to model operations that can be 'folded'\, such as repeate
- d actions of a set of 'elementary moves'. Notable examples are the writer 
- monad (free over the alphabet set)\, and the free monad over a graph. In c
- ategory theory\, an algebraically free monoid over an object X is a monoid
-  FX together with a bijection between X-algebras and FX-algebras\, with th
- e intuition that FX-algebras are "just X-algebras where the action is iter
- ated". In the theory of dynamical systems and Markov chains\, algebras can
-  be decategorified to invariant states or invariant measures. Similarly\, 
- we can decategorify a monoid object to an idempotent…\n\nDetails: https:
- //researchseminars.org/talk/TheoryCSBham/91/
+DESCRIPTION:Paolo Perrone\nTheoretical Computer Science Seminar\n\nAlgebrai
+ cally free monoids\, and more generally monads\, are commonly used to mode
+ l operations that can be 'folded'\, such as repeated actions of a set of '
+ elementary moves'. Notable examples are the writer monad (free over the al
+ phabet set)\, and the free monad over a graph. In category theory\, an alg
+ ebraically free monoid over an object X is a monoid FX together with a bij
+ ection between X-algebras and FX-algebras\, with the intuition that FX-alg
+ ebras are "just X-algebras where the action is iterated". In the theory of
+  dynamical systems and Markov chains\, algebras can be decategorified to i
+ nvariant states or invariant measures. Similarly\, we can decategorify a m
+ onoid object to an idempotent…\n\nDetails: https://researchseminars.org/
+ talk/TheoryCSBham/91/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/91/

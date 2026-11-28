@@ -9,24 +9,23 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261120T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261120T130000Z
 DTEND:20261120T140000Z
-SUMMARY:Space-Efficient Hierholzer (Ziad Ismaili  Alaoui (University of Liv
- erpool))
+SUMMARY:Space-Efficient Hierholzer (Ziad Ismaili  Alaoui)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Ziad Ismaili  Alaoui (University of Liverpool)\nTheoretical Com
- puter Science Seminar\n\nHere is a popular challenge: Can you copy a given
-  drawing without lifting your pen or tracing any line more than once? A fa
- miliar example is the "Haus vom Nikolaus" (house of Santa Claus): a square
-  with both diagonals and a triangular roof. In graph-theoretic terms\, thi
- s is the same as asking for an Eulerian trail\; that is\, a walk that trav
- erses every edge exactly once. (In this talk\, we focus on Eulerian cycles
- \, where the endpoints of the trail are equal.) The question of finding Eu
- lerian cycles or characterising which graphs have one goes back to Euler's
-  work on the bridges of Königsberg\, which many cite as the birth of grap
- h theory. Hierholzer's algorithm is a classical method for…\n\nDetails: 
- https://researchseminars.org/talk/TheoryCSBham/89/
+DESCRIPTION:Ziad Ismaili  Alaoui\nTheoretical Computer Science Seminar\n\nH
+ ere is a popular challenge: Can you copy a given drawing without lifting y
+ our pen or tracing any line more than once? A familiar example is the "Hau
+ s vom Nikolaus" (house of Santa Claus): a square with both diagonals and a
+  triangular roof. In graph-theoretic terms\, this is the same as asking fo
+ r an Eulerian trail\; that is\, a walk that traverses every edge exactly o
+ nce. (In this talk\, we focus on Eulerian cycles\, where the endpoints of 
+ the trail are equal.) The question of finding Eulerian cycles or character
+ ising which graphs have one goes back to Euler's work on the bridges of K
+ önigsberg\, which many cite as the birth of graph theory. Hierholzer's al
+ gorithm is a classical method for…\n\nDetails: https://researchseminars.
+ org/talk/TheoryCSBham/89/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/89/

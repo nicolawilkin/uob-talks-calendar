@@ -9,120 +9,132 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:am-20260929T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20260929T120000Z
 DTEND:20260929T130000Z
 SUMMARY:Imprecise Probabilistic Machine Learning: Being Precise about Impre
- cision (Michele Caprio)
+ cision (Michele Caprio (University of Warwick))
 LOCATION:Arts\, Room 250
-DESCRIPTION:Michele Caprio\nApplied Mathematics Seminar\n\nDetails: https:/
- /seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Michele Caprio (University of Warwick)\nApplied Mathematics Sem
+ inar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminar
+ s.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261006T1200@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261006T110000Z
 DTEND:20261006T120000Z
-SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh)
+SUMMARY:Non-reciprocal Robotic Metamaterials (Jack Binysh (University of Bi
+ rmingham))
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Jack Binysh\nApplied Mathematics Seminar\n\nDetails: https://se
- minars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Jack Binysh (University of Birmingham)\nApplied Mathematics Sem
+ inar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminar
+ s.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261020T1200@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261020T110000Z
 DTEND:20261020T120000Z
 SUMMARY:Contact Transfer of Liquids Between Impermeable Rigid Surfaces (Geo
- rge Fortune)
+ rge Fortune (University of Cambridge))
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:George Fortune\nApplied Mathematics Seminar\n\nDetails: https:/
- /seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:George Fortune (University of Cambridge)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261027T1100@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261027T110000Z
 DTEND:20261027T120000Z
 SUMMARY:Modelling accumulation of antimicrobials in bacterial cells (Sandee
- p Shirgill)
+ p Shirgill (University of Birmingham))
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Sandeep Shirgill\nApplied Mathematics Seminar\n\nDetails: https
- ://seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Sandeep Shirgill (University of Birmingham)\nApplied Mathematic
+ s Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-se
+ minars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261103T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261103T130000Z
 DTEND:20261103T140000Z
-SUMMARY:Title to be announced (Sabina Sloman)
+SUMMARY:Title to be announced (Sabina Sloman (University of Birmingham))
 LOCATION:Arts\, Room 250
-DESCRIPTION:Sabina Sloman\nApplied Mathematics Seminar\n\nDetails: https://
- seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Sabina Sloman (University of Birmingham)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261109T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261109T130000Z
 DTEND:20261109T140000Z
-SUMMARY:Title to be announced (Eugene Feinberg)
+SUMMARY:Title to be announced (Eugene Feinberg (Stony Brook University))
 LOCATION:Location: TBA
-DESCRIPTION:Eugene Feinberg\nApplied Mathematics Seminar\n\nDetails: https:
- //seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Eugene Feinberg (Stony Brook University)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261110T1100@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261110T110000Z
 DTEND:20261110T120000Z
-SUMMARY:Chance and dance with cells’ power plants (Iain Johnston)
+SUMMARY:Chance and dance with cells’ power plants (Iain Johnston (Univers
+ ity of Bergen))
 LOCATION:Poynting\, Lecture Theatre S06 (Small)
-DESCRIPTION:Iain Johnston\nApplied Mathematics Seminar\n\nDetails: https://
- seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Iain Johnston (University of Bergen)\nApplied Mathematics Semin
+ ar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-seminars.
+ html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261117T1200@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261117T120000Z
 DTEND:20261117T130000Z
-SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio)
+SUMMARY:Lubricated viscous gravity currents (Hannah-May D'Ambrosio (Univers
+ ity of Glasgow))
 LOCATION:Arts\, Lecture Room 6
-DESCRIPTION:Hannah-May D'Ambrosio\nApplied Mathematics Seminar\n\nDetails: 
- https://seminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Hannah-May D'Ambrosio (University of Glasgow)\nApplied Mathemat
+ ics Seminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-
+ seminars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html
 END:VEVENT
 BEGIN:VEVENT
 UID:am-20261208T1200@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261208T120000Z
 DTEND:20261208T130000Z
-SUMMARY:Title to be announced (Cara V. Neal)
+SUMMARY:Title to be announced (Cara V. Neal (University College London))
 LOCATION:Arts\, Lecture Room 201
-DESCRIPTION:Cara V. Neal\nApplied Mathematics Seminar\n\nDetails: https://s
- eminars.mathpages.org/birmingham/applied-seminars.html
+DESCRIPTION:Cara V. Neal (University College London)\nApplied Mathematics S
+ eminar\n\nDetails: https://seminars.mathpages.org/birmingham/applied-semin
+ ars.html
 CATEGORIES:Applied Mathematics Seminar
 STATUS:CONFIRMED
 URL:https://seminars.mathpages.org/birmingham/applied-seminars.html

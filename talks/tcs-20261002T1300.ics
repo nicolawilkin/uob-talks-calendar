@@ -9,24 +9,24 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:tcs-20261002T1300@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261002T120000Z
 DTEND:20261002T130000Z
 SUMMARY:On the Coalgebraic Linear-Time Semantics of Two-Player Games (Ben P
- lummer (University of Birmingham))
+ lummer)
 LOCATION:LG23\, Computer Science
-DESCRIPTION:Ben Plummer (University of Birmingham)\nTheoretical Computer Sc
- ience Seminar\n\nLinear-time semantics play an important role in program s
- emantics and verification\, in settings where branching-time equivalence i
- s too fine. Set-based coalgebra provides an account of branching-time beha
- viour\, while finite linear-time semantics can be treated coalgebraically 
- by moving to the Kleisli category of a monad modelling the system’s bran
- ching. In this talk\, I will discuss how these ideas extend to the linear-
- time semantics of two-player games. For finite behaviour\, the coalgebraic
-  approach applies smoothly to games in which the opponent’s choices are 
- nondeterministic\, probabilistic\, or weighted. We characterise the result
- ing semantics in terms of strategies that enforce…\n\nDetails: https://r
- esearchseminars.org/talk/TheoryCSBham/84/
+DESCRIPTION:Ben Plummer\nTheoretical Computer Science Seminar\n\nLinear-tim
+ e semantics play an important role in program semantics and verification\,
+  in settings where branching-time equivalence is too fine. Set-based coalg
+ ebra provides an account of branching-time behaviour\, while finite linear
+ -time semantics can be treated coalgebraically by moving to the Kleisli ca
+ tegory of a monad modelling the system’s branching. In this talk\, I wil
+ l discuss how these ideas extend to the linear-time semantics of two-playe
+ r games. For finite behaviour\, the coalgebraic approach applies smoothly 
+ to games in which the opponent’s choices are nondeterministic\, probabil
+ istic\, or weighted. We characterise the resulting semantics in terms of s
+ trategies that enforce…\n\nDetails: https://researchseminars.org/talk/Th
+ eoryCSBham/84/
 CATEGORIES:Theoretical Computer Science Seminar
 STATUS:CONFIRMED
 URL:https://researchseminars.org/talk/TheoryCSBham/84/

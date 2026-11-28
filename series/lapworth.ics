@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:lapworth-20261015T1800@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261015T170000Z
 DTEND:20261015T190000Z
 SUMMARY:How to have a (decolonial) rock in the family: questioning geology\
@@ -27,7 +27,7 @@ URL:https://www.birmingham.ac.uk/events/lapworth-lecture-how-to-have-a-deco
 END:VEVENT
 BEGIN:VEVENT
 UID:lapworth-20261019T1730@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261019T163000Z
 DTEND:20261019T173000Z
 SUMMARY:When the ground moves (and we miss it): what satellites can (and ca
@@ -43,7 +43,7 @@ URL:https://www.birmingham.ac.uk/events/lapworth-lecture-dr-benedetta-dini
 END:VEVENT
 BEGIN:VEVENT
 UID:lapworth-20261109T1730@talks.birmingham.prototype
-DTSTAMP:20261127T162841Z
+DTSTAMP:20261128T102803Z
 DTSTART:20261109T173000Z
 DTEND:20261109T183000Z
 SUMMARY:Unlocking the Secrets of Vietnam’s Past Climate: Insights from St
